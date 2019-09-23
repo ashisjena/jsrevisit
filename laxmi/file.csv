@@ -1,0 +1,700 @@
+hotelMarsha,propertyName,city__state,localNumber,complexNumber,segmentNumber,largeGroupNumber
+BOSWE,Residence Inn Boston Westborough,westborough__ma,5083667700,8668438976,8668657949,
+BOSML,Courtyard Boston Milford,milford__ma,5086349500,8664798005,8662964373,
+BOSWB,Courtyard Boston Woburn/Burlington,woburn__ma,7819323200,8668438975,8664479375,
+BOSAV,SpringHill Suites Boston Andover,andover__ma,9786888200,8665493522,8888913737,
+MHTCH,Courtyard Boston Andover,andover__ma,9787940700,8668448274,8775327969,
+BOSLL,Courtyard Boston Lowell/Chelmsford,lowell__ma,9784587575,8664797899,8662692423,
+BOSDV,Courtyard Boston Danvers,danvers__ma,9787778630,8664797459,8669023195,
+BOSTD,TownePlace Suites Boston North Shore/Danvers,danvers__ma,9787776222,8664479374,8664479340,
+BOSPB,Boston Marriott Peabody,peabody__ma,9789779700,8664479336,8668657379,
+BOSFB,Courtyard Boston Foxborough/Mansfield,foxborough__ma,5085435222,8664797460,8775327970,
+BOSNW,Courtyard Boston Norwood/Canton,norwood__ma,7817624700,8664464606,8665493521,
+BOSST,Courtyard Boston Stoughton,stoughton__ma,7812977000,8664479371,8664797457,
+BOSLW,Boston Marriott Long Wharf,boston__ma,6172270800,8664797965,8888919637,8446446472
+BOSWH,W Boston,boston__ma,6172618700,,,
+BOSWI,The Westin Copley Place,boston__ma,6172629600,,,
+BOSCO,Boston Marriott Copley Place,boston__ma,6172365800,8664797429,8662768067,8774393082
+BOSDM,Courtyard Boston Downtown,boston__ma,6174261400,8664797456,8662768068,
+BOSCB,Boston Marriott Cambridge,cambridge__ma,6174946600,8665493535,8668438977,8774399429
+BOSCM,Residence Inn Boston Cambridge,cambridge__ma,6173490700,8664797421,8663237476,
+BOSQU,Boston Marriott Quincy,qincy__ma,6174721000,8664479369,8663237471,8774399424
+BOSBO,Sheraton Boston Hotel,boston__ma,6172362000,,,
+BOSAL,Aloft Boston Seaport,boston__ma,6175301600,,,
+BOSEL,Element Boston Seaport,boston__ma,6175301700,,,
+BOSOW,The Westin Boston Waterfront,boston__ma,6175324600,,,
+BOSWF,Renaissance Boston Waterfront Hotel,boston__ma,6173384111,8662233602,8669023387,8774393084
+PVDLW,Newport Marriott,newport__ri,4018491000,8668657229,8665139051,8774399416
+PVDMD,Courtyard Newport Middletown,middletown__ri,4018498000,8668448296,8774399419,
+BDLWD,Courtyard Hartford Windsor,windsor__ct,8606830022,8665493519,8662991097,
+HVNWA,Courtyard New Haven Wallingford,wallingford__ct,2032849400,8668448252,8772833835,
+BDRCT,Trumbull Marriott Merritt Parkway,trumbull__ct,2033781400,8662818742,8664797461,
+DXRSH,SpringHill Suites Danbury,danbury__ct,2037447333,8668653975,8772833611,
+HPNNW,Courtyard Norwalk,norwalk__ct,2038499111,8888914981,8888912302,
+EWRHB,W Hoboken,hoboken__nj,2012532400,,,
+EWRPS,Courtyard Parsippany,parsippany__nj,9733940303,8669023174,8888919644,
+EWRPY,Residence Inn Parsippany,parsippany__nj,9739843313,8668630461,8888919646,
+EWRSE,Courtyard Secaucus Meadowlands,secauscus__nj,2016178888,8668663849,8662768072,
+EWRDT,Courtyard Newark Downtown,newark__nj,,8883730324,8774393081,
+EWRAP,Newark Liberty International Airport Marriott,newark__nj,9736230006,8669021278,8775327980,8772186537
+EWRCA,Courtyard Newark Liberty International Airport,newark__nj,9736438500,8668961515,8888914773,
+EWREB,Residence Inn Newark Elizabeth/Liberty International Airport,elizabeth__nj,9083524300,8668992178,8888914779,
+EWREZ,Courtyard Newark Elizabeth,elizabeth__nj,9084369800,8668999930,8888914787,
+EWRNR,Renaissance Newark Airport Hotel,elizabeth__nj,9084364600,8662760374,8775327984,8772833717
+EWRNW,Courtyard Jersey City Newport,jersey_city__nj,2016266600,8662654929,8888919641,
+EWRWJ,The Westin Jersey City Newport,jersey_city__nj,2016262900,,,
+EWRMW,Courtyard Mahwah,mahwah__nj,2015295200,8669022814,8888919582,
+EWRCP,Courtyard Paramus,paramus__nj,2015991414,8662762213,8888914775,
+EWRRB,Courtyard Lincroft Red Bank,red_bank__nj,7325305552,8668638482,8662768071,
+EWRTC,Courtyard Tinton Falls Eatontown,tinton_falls__nj,7323892100,8668639070,8669012011,
+SOSSM,Courtyard Basking Ridge,basking_ridge__nj,9085420300,8662565878,8665493527,
+EWRNJ,Courtyard Hanover Whippany,whippany__nj,9738878700,8669022815,8888919592,
+TTNRI,Residence Inn Cranbury South Brunswick,cranbury__nj,6093959447,8667661529,8888919134,
+TTNDF,Princeton Marriott at Forrestal,princeton__nj,6094527800,8662768070,8668638484,8772834118
+SOSBW,Bridgewater Marriott,bridgewater__nj,9089279300,8668647270,8662768069,
+SOSLB,Courtyard Lebanon,lebanon__nj,9082368500,8668662725,8665493518,
+SOSFT,Residence Inn Somerset,somerset__nj,7326270881,8667661530,8669022816,
+NYCCE,Courtyard New York Manhattan/Chelsea,new_york__ny,2129676000,8772834018,8774399418,
+NYCMS,Courtyard New York Manhattan/Herald Square,new_york__ny,2122394569,8883730317,8774399422,
+NYCWD,W New York - Downtown,new_york__ny,6468268600,,,
+NYCWS,New York Marriott Downtown,new_york__ny,2123854900,8663261850,8662992676,
+NYCMT,Courtyard New York Manhattan/SoHo,new_york__ny,,8888919645,8888914295,
+NYCES,Courtyard New York Manhattan/Fifth Avenue,new_york__ny,2124471500,8663087150,8888912504,
+NYCEA,New York Marriott East Side,new_york__ny,2127554000,8663079650,8668658354,
+NYCZW,The Westin New York Grand Central,new_york__ny,2124908900,,,
+NYCSM,SpringHill Suites New York Midtown Manhattan/Fifth Avenue,new_york__ny,2123912255,8883730315,8774393085,
+NYCEX,JW Marriott Essex House New York,new_york__ny,2122470300,8883730319,8663173843,8775327974
+NYCST,Sheraton New York Times Square Hotel,new_york__ny,2125811000,,,
+NYCME,Courtyard New York Manhattan/Midtown East,new_york__ny,2126441300,8663178777,8888913465,
+NYCAK,"The Algonquin Hotel Times Square, Autograph Collection",new_york__ny,2128406800,8446446471,8446446471,
+NYCMQ,New York Marriott Marquis,new_york__ny,2123981900,8664796425,8888919643,8774399423
+NYCRT,Renaissance New York Times Square Hotel,new_york__ny,2127657676,8663230591,8888919650,
+NYCSW,The Westin New York at Times Square,new_york__ny,2122012700,,,
+NYCWH,W New York - Times Square,new_york__ny,2129307400,,,
+HPNRY,Courtyard Rye,rye__ny,9149211110,8662981470,8888913303,
+HPNGR,Courtyard Tarrytown Greenburgh,tarrytown__ny,9146311122,8662726264,8888919230,
+NYCWE,Westchester Marriott,tarrytown__ny,9146312200,8663239759,8888913653,
+NYCBK,New York Marriott at the Brooklyn Bridge,brooklyn__ny,7182467000,8663079071,8668658220,8774393079
+NYCLI,Long Island Marriott,uniondale__ny,5167943800,8663089231,8668658486,
+ISPRI,Residence Inn Long Island Hauppauge/Islandia,hauppauge__ny,6317244188,8888914983,8888913522,
+FHKNY,Courtyard Fishkill,fishkill__ny,8458972400,8662703941,8888919220,
+POUCH,Courtyard Poughkeepsie,poughkeepsie__ny,8454856336,8663524689,8888914423,
+POURI,Residence Inn Poughkeepsie,poughkeepsie__ny,8454634343,8663533153,8888914513,
+SYRSH,SpringHill Suites Syracuse Carrier Circle,dewitt__ny,3154370056,8888914008,8888914562,
+SYRCA,Courtyard Syracuse Carrier Circle,east_syracuse__ny,3154320300,8888913899,8888914514,
+SYRFE,Fairfield Inn & Suites Syracuse Carrier Circle,east_syracuse__ny,3154332777,8772186533,8772186535,
+SYRRI,Residence Inn Syracuse Carrier Circle,east_syracuse__ny,3154324488,8888913997,8888914516,
+PITCA,Courtyard Pittsburgh Airport,coraopolis__pa,4122645000,8665139533,8888918819,
+PITWI,"The Westin Convention Center, Pittsburgh",pittsburgh__pa,4122813700,,,
+ABECY,Courtyard Allentown Bethlehem/Lehigh Valley Airport,bethlehem__pa,6103176200,8663237332,8663226966,
+ABERI,Residence Inn Allentown Bethlehem/Lehigh Valley Airport,bethlehem__pa,6103172662,8663237369,8888914982,
+PHLRW,Residence Inn Philadelphia Willow Grove,horsham__pa,2154437330,8669023198,8888919039,
+PHLDV,Courtyard Philadelphia Devon,devon__pa,6106876633,8669023194,8888914049,
+PHLVA,Courtyard Philadelphia Valley Forge/King of Prussia,wayne__pa,6106876700,8669024497,8888919138,
+PHLWG,Courtyard Philadelphia Willow Grove,willow_grove__pa,2158300550,8665139173,8888919221,
+PHLWL,SpringHill Suites Philadelphia Willow Grove,willow_grove__pa,2156577800,8665139532,8888918805,
+PHLDC,Courtyard Philadelphia Downtown,philadelphia__pa,2154963200,8669023192,8668999978,8774399417
+PHLDT,Philadelphia Marriott Downtown,philadelphia__pa,2156252900,8669023193,8669017491,8772186536
+PHLRI,Residence Inn Philadelphia Center City,philadelphia__pa,2155570005,8669023197,8888918818,
+PHLCS,Courtyard Philadelphia South at The Navy Yard,philadelphia__pa,2156449200,8772833680,8772834120,
+PHLAR,Philadelphia Airport Marriott,philadelphia__pa,2154929000,8663237477,8888919589,
+PHLAT,Courtyard Philadelphia Airport,philadelphia__pa,2153652200,8663237479,8888913990,
+PHLBW,Residence Inn Philadelphia Valley Forge,berwyn__pa,6106409494,8663237480,8888914002,
+PHLWE,Philadelphia Marriott West,west_conshohocken__pa,6109415600,8665139172,8664463108,
+PHLLD,Courtyard Philadelphia Lansdale,kulpsville__pa,2154128686,8775327968,8668448287,
+PHLCY,Courtyard Philadelphia Plymouth Meeting,plymouth_meeting__pa,6102380695,8669023191,8888914010,
+PHLPY,SpringHill Suites Philadelphia Plymouth Meeting,plymouth_meeting__pa,6109400400,8669023196,8888918801,
+ILGWC,Courtyard Wilmington Newark/Christiana Mall,newark__de,3024563800,8663237472,8888914050,
+ILGCY,Courtyard Wilmington Downtown,wilmington__de,3024297600,8663237425,8888914046,
+WASCO,"Marriott Marquis Washington, DC",washington__dc,,8668875128,8446432194,8662287712
+WASRB,"Renaissance Washington, DC Downtown Hotel",washington__dc,2028989000,8663989027,8446456287,8775477471
+WASUS,"Courtyard Washington, DC/U.S. Capitol",washington__dc,8004408027,8663930140,8778962823,
+WASJW,"JW Marriott Washington, DC",washington__dc,2023932000,8663985203,8446456255,8775477457
+WASWH,W Washington D.C.,washington__dc,2026612400,,,
+WASDC,"Residence Inn Washington, DC Downtown",washington__dc,2028981100,8664813299,8665884125,
+WASMC,Washington Marriott at Metro Center,washington__dc,2027372200,8663985207,8446432189,8778925315
+WASDT,Washington Marriott Wardman Park,washington__dc,2023282000,8664813302,8446432195,8775477417
+WASAK,"The Mayflower Hotel, Autograph Collection",washington__dc,2023473000,8007989197,8446432191,8778925318
+WASTW,"The Westin Georgetown, Washington D.C.",washington__dc,2024290100,,,
+WASWE,Washington Marriott Georgetown,washington__dc,2028721500,8669021270,8446432192,8778925319
+WASFB,"Courtyard Washington, DC/Foggy Bottom",washington__dc,,8007980153,8669214474,
+WASCV,SpringHill Suites Centreville Chantilly,centreville__va,7038157800,8668831922,8447449482,
+IADCA,Courtyard Dulles Airport Chantilly,chantilly__va,7037097100,8664878410,8446809167,
+IADFX,Residence Inn Chantilly Dulles South,chantilly__va,7032637900,8665425541,8446809172,
+IADTS,TownePlace Suites Chantilly Dulles South,chantilly__va,7037090453,8007988092,8447449479,
+IADWF,Westfields Marriott Washington Dulles,chantilly__va,7038180300,8665425594,8447449486,8778962844
+IADAP,Washington Dulles Airport Marriott,dulles__va,7034719500,8664878408,8447449485,8778962816
+IADFI,Fairfield Inn & Suites Dulles Airport,dulles__va,7034355300,8664878704,8446809169,
+IADRI,Residence Inn Dulles Airport at Dulles 28 Centre,dulles__va,7034212000,8665425589,8446809174,
+IADTC,Courtyard Dulles Town Center,dulles__va,5714346400,8665425593,8447449478,
+IADHC,Courtyard Herndon Reston,herndon__va,7034789400,8665425582,8446809173,
+IADSH,SpringHill Suites Herndon Reston,herndon__va,7034353100,8665425590,8447449457,
+BWIFM,Courtyard Fort Meade BWI Business District,annapolis_junction__md,3014988400,8663931001,8446456558,
+WASGN,Gaylord National Resort & Convention Center,national_harbor__md,3019654000,8668831466,,8664878406
+WASNH,"Residence Inn National Harbor Washington, DC Area",national_harbor__md,3017494755,8668864445,8446525211,
+WASWA,"AC Hotel National Harbor Washington, DC Area",national_harbor__md,4433212500,8663930998,8448456582,
+WASGB,Greenbelt Marriott,greenbelt__md,3014413700,8664813307,8446779747,8778925349
+WASGR,Courtyard Greenbelt,greenbelt__md,3014413311,8664813308,8446525207,
+WASUM,College Park Marriott Hotel & Conference Center,adelphi__md,3019857300,8669021269,8446779749,8778962801
+WASLD,Courtyard New Carrollton Landover,landover__md,3015773373,8663985205,8446525209,
+WASBR,Residence Inn Bethesda Downtown,bethesda__md,3017180200,8668823623,8446525079,
+WASBT,Bethesda Marriott,bethesda__md,3018979400,8668826591,8446779746,8778925321
+WASSB,Bethesda Marriott Suites,bethesda__md,3018975600,8668768024,8446779748,
+WASRV,Courtyard Rockville,rockville__md,3016706700,8668761017,8446525212,
+WASBN,Bethesda North Marriott Hotel & Conference Center,bethesda__md,3018229200,8668822093,8446779745,8778925320
+WASCG,Courtyard Gaithersburg Washingtonian Center,gaithersburg__md,3015279000,8668830943,8446525084,
+WASGT,SpringHill Suites Gaithersburg,gaithersburg__md,3019870900,8664813309,8446525208,
+WASWG,Gaithersburg Marriott Washingtonian Center,gaithersburg__md,3015900044,8669021273,8446779750,8778962811
+WASLV,Residence Inn Silver Spring,silver_spring__md,3015722322,8663985206,8446525210,
+WASSS,Courtyard Silver Spring North,silver_spring__md,3016808500,8668768784,8446525213,
+BWIHU,Courtyard Baltimore Hunt Valley,hunt_valley__md,4105847070,8662661731,8446456559,
+BWICB,Residence Inn Columbia,ellicott_city__md,4109977200,8662464133,8446456556,
+BWICL,Courtyard Columbia,columbia__md,4102900002,8662465495,8446456557,
+BWICA,Courtyard Baltimore BWI Airport,linthicum__md,4108598855,8662458880,8446456555,
+BWIRI,Residence Inn Baltimore BWI Airport,linthicum__md,4106910255,8662666041,8446456562,
+BWIIH,Baltimore Marriott Inner Harbor at Camden Yards,baltimore__md,4109620202,8662662740,8665425585,8669210004
+BWIIS,Sheraton Inner Harbor Hotel,baltimore__md,4109628300,,,
+BWISH,Renaissance Baltimore Harborplace Hotel,baltimore__md,4105471200,8662671684,8665137373,8664069352
+BWIWF,Baltimore Marriott Waterfront,baltimore__md,4103853000,8662671685,8663931002,8664069353
+BWIBU,Towson University Marriott Conference Hotel,towson__md,4103248100,8662458047,8664878702,
+BWIAP,BWI Airport Marriott,baltimore__md,4108598300,8662454797,8665884116,8664069532
+BWIAN,Courtyard Annapolis,annapolis__md,4102661555,8662454605,8446456554,
+BWIRA,Residence Inn Annapolis,annapolis__md,4105730300,8662664020,8446456560,
+IADFO,Courtyard Fairfax Fair Oaks,fairfax__va,7032736161,8665425540,8446809171,
+IADRF,Residence Inn Fairfax City,fairfax__va,,8665137602,8663989025,
+IADFL,Residence Inn Fair Lakes Fairfax,fairfax__va,7032664900,8665425535,8446809170,
+IADXM,Residence Inn Fairfax Merrifield,falls_church__va,7035735200,8663661150,8447449480,
+WASFP,Falls Church Marriott Fairview Park,falls_church__va,7038499400,8664813305,8448237332,8778962846
+WASTS,TownePlace Suites Falls Church,falls_church__va,7032376172,8007988552,8447449483,
+IADCY,Courtyard Dunn Loring Fairfax,vienna__va,7035739555,8664878698,8446809168,
+WASTC,Tysons Corner Marriott,vienna__va,7037343200,8669021268,8448237666,8778962854
+WASCC,Crystal City Marriott at Reagan National Airport,arlington__va,7034135500,8668829146,8778962799,8775477472
+WASCT,Courtyard Arlington Crystal City/Reagan National Airport,arlington__va,7035493434,8668831467,8664069931,
+WASGW,Crystal Gateway Marriott,arlington__va,7039203230,8663981324,8446432196,8775477418
+WASPT,Residence Inn Arlington Pentagon City,arlington__va,7034136630,8663989026,8664399822,
+WASPY,Renaissance Arlington Capital View Hotel,arlington__va,7034131300,8668870920,8446432193,8662241543
+WASRY,Residence Inn Arlington Capital View,arlington__va,7034151300,8668870940,8669215190,
+WASAR,Courtyard Arlington Rosslyn,arlington__va,7035282222,8668821655,8663717481,
+WASKB,Key Bridge Marriott,arlington__va,7035246400,8663985204,8446432177,8778925310
+WASAL,Courtyard Alexandria Old Town/Southwest,alexandria__va,7033292323,8665884126,8664878703,
+WASDK,Residence Inn Alexandria Old Town/Duke Street,alexandria__va,7035485474,8664813301,8663930318,
+WASVA,SpringHill Suites Alexandria Old Town/Southwest,alexandria__va,7033170013,8668862830,8668868169,
+CHOCH,Courtyard Charlottesville North,charlottesville__va,4349737100,8663861772,8448237725,
+CHORI,Residence Inn Charlottesville,charlottesville__va,4349230300,8663873968,8448237727,
+RICTS,TownePlace Suites Richmond,glen_allen__va,8047475253,8665716147,8448369995,
+PHFWB,Courtyard Williamsburg Busch Gardens Area,williamsburg__va,7572210700,8663708195,8448358932,
+RICWE,Courtyard Richmond West,richmond__va,8042821881,8665884117,8448369996,
+RICNW,Courtyard Richmond Northwest/Short Pump,richmond__va,8043465427,8665884012,8448369994,
+ORFTS,TownePlace Suites Virginia Beach,virginia_beach__va,7574909367,8665687404,8448358928,
+ORFVB,Courtyard Virginia Beach Norfolk,virginia_beach__va,7574902002,8007989684,8448358929,
+PHFCH,Courtyard Hampton,hampton__va,7578383300,8663704988,8448358930,
+PHFTS,TownePlace Suites Newport News Yorktown,yorktown__va,7578748884,8665714207,8448358931,
+CRWWV,Charleston Marriott Town Center,charleston__wv,3043533722,8007987714,8446809166,8669214866
+CRWRI,Residence Inn Charleston,charleston__wv,3043454200,8663931006,8448237845,
+GSOWN,Courtyard Greensboro,greensboro__nc,3362943800,8664878407,8448358914,
+RDUCA,Courtyard Raleigh Cary,cary__nc,9194819666,8663708197,8448369987,
+RDURY,Residence Inn Raleigh Cary,cary__nc,9194674080,8665883682,8448369991,
+RDUAP,Residence Inn Raleigh-Durham Airport/Morrisville,morrisville__nc,9194678689,8663708196,8448358933,
+RDURD,Courtyard Raleigh-Durham Airport/Morrisville,morrisville__nc,9194679444,8663729567,8448369989,
+RDUWF,Courtyard Raleigh Midtown,raleigh__nc,9198213400,8665883747,8448369993,
+RDUSH,SpringHill Suites Raleigh-Durham Airport/Research Triangle Park,durham__nc,9199989500,8665883732,8448369992,
+RDUDR,Residence Inn Durham Research Triangle Park,durham__nc,9193611266,8663715624,8448369988,
+RDURT,Courtyard Durham Research Triangle Park,durham__nc,9194842900,8665883652,8448369990,
+CLTCC,Charlotte Marriott City Center,charlotte__nc,7043339000,8663927481,8446779751,8669210766
+CLTCW,The Westin Charlotte,charlotte__nc,7043774143,,,
+CLTRP,Renaissance Charlotte SouthPark Hotel,charlotte__nc,7045012510,8007980154,8446779753,8669211884
+CLTEX,Courtyard Charlotte SouthPark,charlotte__nc,7045527333,8663956046,8448237746,
+CLTPH,Charlotte Marriott SouthPark,charlotte__nc,7043648220,8663956047,8446779752,
+CLTAW,Courtyard Charlotte Arrowood,charlotte__nc,7045275055,8663921593,8448237742,
+CLTSH,SpringHill Suites Charlotte University Research Park,charlotte__nc,7045034800,8663958785,8448237747,
+CLTUN,Courtyard Charlotte University Research Park,charlotte__nc,7045494888,8663959009,8448237748,
+FAYCH,Courtyard Fayetteville,fayetteville__nc,9104875557,8663939940,8448358913,
+SPACH,Courtyard Spartanburg,spartanburg__sc,8645852400,8665716149,8448456564,
+CHSBR,Renaissance Charleston Historic District Hotel,charleston__sc,8435340300,8668864953,8446809165,
+CHSCN,Courtyard North Charleston Airport/Coliseum,north_charleston__sc,8437479122,8663931003,8448237738,
+MYRCY,Courtyard Myrtle Beach Broadway,myrtle_beach__sc,8434456333,8665628176,8448358927,
+GSPCH,Courtyard Greenville Haywood Mall,greenville__sc,8642340300,8664673959,8448358926,
+HHHGR,Hilton Head Marriott Resourt & Spa,hilton_head_island__sc,8436868400,8665123552,8665137351,8665137391
+HHHWI,The Westin Hilton Head Island Resort & Spa,hilton_head_island__sc,8436814000,,,
+ATLPH,Courtyard Atlanta Alpharetta,alpharetta__ga,6783663360,8664605402,8773271178,
+ATLWS,Residence Inn Atlanta Alpharetta/Windward,alpharetta__ga,7706640664,8668940902,8442057256,
+ATLAW,Atlanta Marriott Alpharetta,alpharetta__ga,7707549600,8665608862,8668999820,8774343164
+ATLNP,Residence Inn Atlanta Alpharetta/North Point Mall,alpharetta__ga,7705871151,8664601338,8773271145,
+ATLTN,TownePlace Suites Atlanta Norcross/Peachtree Corners,norcross__ga,7704478446,8665608864,8772252066,
+ATLEG,Atlanta Evergreen Marriott Conference Resort,stone_mountain__ga,7708799900,8664581656,8663970145,8662226312
+ATLSI,Stone Mountain Inn,stone_mountain__ga,7704693311,8665320407,8447466517,
+ATLJC,Courtyard Atlanta Norcross/I-85,norcross__ga,7702427172,8668999824,8888640362,
+ATLGM,Courtyard Atlanta Duluth/Gwinnett Place,duluth__ga,7704764666,8668999822,8772252056,
+ATLTC,Residence Inn Atlanta Kennesaw/Town Center,kennesaw__ga,7702181018,8004147360,8442057233,
+ATLDO,Courtyard Atlanta Downtown,atlanta__ga,4042222416,8777541547,8442057397,
+ATLMQ,Atlanta Marriott Marquis,atlanta__ga,4045210000,8664581611,8668999823,8664764348
+ATLPL,"The Westin Peachtree Plaza, Atlanta",atlanta__ga,4046591400,,,
+ATLBH,Residence Inn Atlanta Buckhead,atlanta__ga,4042390677,8665608863,8442057345,
+ATLHW,W Atlanta - Downtown,atlanta__ga,4045825800,,,
+ATLMS,Atlanta Marriott Suites Midtown,atlanta__ga,4048768888,8664581618,8447466518,
+ATLMN,Courtyard Atlanta Midtown/Georgia Tech,atlanta__ga,4046071112,8664581571,8442057372,
+ATLAB,SpringHill Suites Atlanta Buckhead,atlanta__ga,4048444800,8665608809,8665320412,
+ATLBW,W Atlanta - Buckhead,atlanta__ga,6785003100,,,
+ATLJW,JW Marriott Atlanta Buckhead,atlanta__ga,4042623344,8668999825,8665180634,8774342983
+ATLPE,Courtyard Atlanta Perimeter Center,atlanta__ga,7703931000,8664605401,8773271162,
+ATLEP,Courtyard ?Atlanta [(Executive Park) Emory],atlanta__ga,4047280708,8668999821,8772251892,
+ATLAG,Renaissance Atlanta Airport Gateway Hotel,atlanta__ga,4044438690,8446360476,8446360478,8446360479
+ATLMA,Atlanta Airport Marriott Gateway,atlanta__ga,4047631544,8663970143,8668935702,8774343692
+ATLAP,Atlanta Airport Marriott,college_park__ga,4047667900,8665608843,8663013870,8777541230
+ATLCA,Courtyard Atlanta Airport South/Sullivan Road,college_park__ga,7709972220,8668995887,8442057354,
+ATLGI,SpringHill Suites Atlanta Airport Gateway,college_park__ga,7709078880,8888640344,8442057371,
+ATLCU,Courtyard Atlanta Cumberland/Galleria,atlanta__ga,7709522555,8668999094,8773270361,
+ATLRB,Renaissance Atlanta Waverly Hotel & Convention Center,atlanta__ga,7709534500,8664581551,8668999185,8774343010
+ATLTS,TownePlace Suites Atlanta Northlake,atlanta__ga,7709380408,8668996266,8772252086,
+ATLSA,Renaissance Concourse Atlanta Airport Hotel,atlanta__ga,4042099999,8664605409,8664605403,8774343169
+ATLAN,Courtyard Atlanta Airport North/Virginia Avenue,hapeville__ga,4045591043,8665608830,8442057323,
+ATLRA,Residence Inn Atlanta Airport North/Virginia Avenue,hapeville__ga,4047610511,8664605405,8442057355,
+ATLMW,W Atlanta - Midtown,atlanta__ga,4048926000,,,
+AGSCH,Courtyard Augusta,augusta__ga,7067373737,8665608808,8442057319,
+MCNGA,Courtyard Macon,macon__ga,4784778899,8664605408,8442057268,
+SAVCH,Courtyard Savannah Midtown,savannah__ga,9123547878,8662450576,8442057359,
+SAVWI,The Westin Savannah Harbor Golf Resort & Spa,savannah__ga,9122012000,,,
+CSGCH,Courtyard Columbus,columbus__ga,7063232323,8663970141,8442057263,
+JAXSW,Sawgrass Marriott Golf Resort & Spa,ponte_vedra_beach__fl,9042857777,8664578429,,8664581432
+JAXBR,World Golf Village Renaissance St. Augustine Resort,st._augustine__fl,9049408000,8883633847,,8665608805
+DABCY,Courtyard Daytona Beach Speedway/Airport,daytona_beach__fl,3862553388,8776189003,8663885544,
+DABRI,Residence Inn Daytona Beach Speedway/Airport,daytona_beach__fl,3862523949,8776189004,8666747169,
+JAXMC,Courtyard Jacksonville Mayo Clinic/Beaches,jacksonville__fl,9042231026,8666338183,8666747162,
+TLHCH,Courtyard Tallahassee Capital,tallahassee__fl,8502228822,8666747168,8663173172,
+TLHDT,Residence Inn Tallahassee Universities at the Capitol,tallahassee__fl,8503299080,8883633849,8442769676,
+MCOCH,Courtyard Orlando Airport,orlando__fl,4072407200,8662726593,8667864032,
+MCOOI,Courtyard Orlando International Drive/Convention Center,orlando__fl,4073512244,8663884853,8664581429,
+MCOFW,Fairfield Inn & Suites Orlando at SeaWorld,orlando__fl,4073541139,8883633841,8666747166,
+MCOLX,SpringHill Suites Orlando Lake Buena Vista in Marriott Village,orlando__fl,4079389001,8663876190,8663443086,
+MCOLY,Courtyard Orlando Lake Buena Vista in the Marriott Village,orlando__fl,4079389001,8663878950,8663444504,
+MCOLZ,Fairfield Inn & Suites Orlando Lake Buena Vista in the Marriott Village,orlando__fl,4079389001,8663883431,8776189005,
+MCOSR,Renaissance Orlando at SeaWorld,orlando__fl,4073515555,8006641622,,8775973732
+MCOSS,SpringHill Suites Orlando at SeaWorld,orlando__fl,4073541176,8666338176,8663438057,
+MCOSW,Residence Inn Orlando at SeaWorld,orlando__fl,4073133600,8666338135,8663872595,
+MCOWC,Orlando World Center Marriott,orlando__fl,4072394200,8666338178,,8775973858
+MCOAP,Orlando Airport Marriott Lakeside,orlando__fl,4078519000,8662725788,8663440843,8777457880
+MCODW,Walt Disney World Swan,lake_buena_vista__fl,4079343000,,,
+MCOSI,Walt Disney World Dolphin,lake_buena_vista__fl,4079344000,,,
+MCOJW,"JW Marriott Orlando, Grande Lakes",orlando__fl,4072062300,8663873460,,8775973857
+MCORZ,"The Ritz-Carlton Orlando, Grande Lakes",orlando__fl,4072062400,8663892906,,8772254672
+MCOYR,Residence Inn Orlando Millenia Mall (new open Jan 2017) ,orlando__fl,,,,
+MCOYS,SpringHill Suites Orlando Millenia Mall (new open Jan 2017),orlando__fl,,,,
+MLBAP,Residence Inn Melbourne,melbourne__fl,3217235740,8776189002,8666338180,
+MLBCH,Courtyard Melbourne West,melbourne__fl,3217246400,8776189001,8664551193,
+FLLHT,Courtyard Fort Lauderdale Airport & Cruise Port,dania_beach__fl,9543428333,8663177778,8775973861,
+MIAML,Courtyard Miami Lakes,miami_beach__fl,3055566665,8663430490,8442768835,
+MIAAP,Miami Airport Marriott,miami__fl,3056495000,8666338179,8663175382,8777457405
+MIAAS,Residence Inn Miami Airport,miami__fl,3056428570,8665608804,8662700609,
+MIACS,Courtyard Miami Airport,miami__fl,3056428200,8664578396,8662701628,8777457394
+MIAWM,W Miami,miami__fl,3055034400,,,
+MIABB,Miami Marriott Biscayne Bay,miami__fl,3053743900,8666338182,8662701381,8777457869
+MIAGV,Courtyard Miami Coconut Grove,miami__fl,3058582500,8776188999,8662720924,
+MIAHD,SpringHill Suites Miami Airport East/Medical Center,miami__fl,3055755300,8776188998,8442768833,
+MIACB,Courtyard Miami Beach South Beach,miami__fl,3056048887,8664578393,8442768832,
+MIACH,Residence Inn Miami Beach South Beach,miami_beach__fl,3053934399,8663432252,8443099986,
+MIAMB,Marriott Stanton South Beach,miami_beach__fl,3055367700,8664581527,8662726590,
+MIAAC,AC Hotel Miami Beach,miami_beach__fl,7867087230,8663430339,8443099985,
+MIANM,Residence Inn Marriott Sunny Isles (new open Nov 2017),sunny_isles__fl,9544717400,8883633844,8664938025,
+MIACA,Courtyard Miami Airport West/Doral,miami__fl,3054778118,8666338187,8442768830,
+FLLWH,W Fort Lauderdale,fort_lauderdale__fl,9544148200,,,
+FLLCY,Courtyard Fort Lauderdale East,fort_lauderdale__fl,9547718100,8667864030,8442769106,
+FLLSB,Fort Lauderdale Marriott Harbor Beach Resort & Spa,fort_lauderdale__fl,9545254000,8662708753,,8775973856
+FLLPL,Courtyard Fort Lauderdale Plantation,plantation__fl,9544751100,8662703347,8775973752,
+FLLWC,Courtyard Fort Lauderdale Weston,fort_lauderdale__fl,9543432225,8662720640,8442768829,
+PBIMC,West Palm Beach Marriott,west_palm_beach__fl,5618331234,8666747167,8442769765,8777457894
+PBIRD,Residence Inn West Palm Beach Downtown/CityPlace Area,west_palm_beach__fl,5616538100,8664581459,8883633859,
+PBICH,Courtyard West Palm Beach,west_palm_beach__fl,5616409000,8666747165,8442769104,
+PBIFW,Fairfield Inn & Suites West Palm Beach Wellington,wellington__fl,5612498095,8772254755,8772254771,
+PBIBC,Courtyard Boca Raton,boca_raton__fl,5612417070,8666747163,8442769103,
+PBIJA,Courtyard Palm Beach Jupiter,jupiter__fl,8003212211,8664578394,8442769105,
+TPAMC,Tampa Marriott Waterside Hotel & Marina,tampa__fl,8132214900,8664938030,8776189006,8775973638
+TPAAC,AC Hotel Tampa Airport International Plaza (new open Dec 2017),tampa__fl,8133504020,8883633848,8883633843,
+TPAAP,Tampa Airport Marriott,tampa__fl,8138798151,8664938026,8666338184,8775973629
+TPAIM,Renaissance Tampa International Plaza Hotel,tampa__fl,8138779200,8664938029,8777457876,8777457879
+TPAWT,Courtyard Tampa Westshore/Airport,tampa__fl,8138740555,8665608806,8777457402,
+TPASR,The Vinoy Renaissance St. Petersburg Resort & Golf Club,st._petersburg__fl,7278941000,8664938034,,8775973753
+TPAPG,Courtyard St. Petersburg Clearwater,clearwater__fl,7275728484,8664938031,8776189007,
+RSWWI,The Westin Cape Coral Resort at Marina Village,cape_coral__fl,2395415000,,,
+MRKFL,JW Marriott Marco Island Beach Resort,marco_island__fl,2393942511,8663448297,,8775973864
+MCOGP,Gaylord Palms Resort & Convention Center,kissimmee__fl,4075862000,8663872126,,8666338185
+BHMSI,Sheraton Birmingham Hotel,birmingham__al,2053245000,,,
+BHMWI,The Westin Birmingham,north_birmingham__al,2053073600,,,
+BHMHM,Residence Inn Birmingham Homewood,birmingham__al,2059430044,8888640361,8442057436,
+BHMHW,Courtyard Birmingham Homewood,homewood__al,2058790400,8888640360,8442057506,
+BHMSC,Courtyard Birmingham Colonnade/Grandview,birmingham__al,2059674466,8888640365,8442057624,
+BNABR,Courtyard Nashville Brentwood,brentwood__tn,6153719200,8668947229,8442057644,
+BNAMF,Residence Inn Nashville Brentwood,brentwood__tn,6153710100,8888640345,8442057657,
+BNAWH,TownePlace Suites Clarksville,clarksville__tn,9318962005,8772645285,8772645303,
+BNATG,TownePlace Suites Nashville Goodlettsville,goodlettsville__tn,,8446360474,8446360475,
+BNAGV,Courtyard Nashville Goodlettsville,goodlettsville__tn,6158513000,8663013873,8442057668,
+BNASH,Renaissance Nashville Hotel,nashville__tn,6152558400,8665320410,8664605406,8777541257
+BNAVB,Residence Inn Nashville Vanderbilt/West End,nashville__tn,6159889920,8664605410,8445222840,
+BNAVW,SpringHill Suites Nashville Vanderbilt/West End,nashville__tn,6159889930,8664601337,8445222839,
+BNAGI,"The Inn at Opryland, A Gaylord Hotel",nashville__tn,6158890800,8773271466,8774343165,8773271467
+BNABN,Residence Inn Nashville Airport,nashville__tn,6158898600,8663013871,8442057641,
+BNACA,Courtyard Nashville Airport,nashville__tn,6158839500,8668953557,8442057649,
+BNAGO,Gaylord Opryland Resort & Convention Center,nashville__tn,6158891000,8773271468,,8773271469
+BNASA,SpringHill Suites Nashville Airport,nashville__tn,6158846111,8668999826,8442057658,
+BNATN,Nashville Airport Marriott,nashville__tn,6158899300,8668999827,8888640370,8777541274
+BNADT,Courtyard Nashville Downtown,nashville__tn,6152560900,8668991997,8442057651,
+CHACH,Courtyard Chattanooga I-75,chattanooga__tn,4234994400,8669006645,8442057659,
+TRICC,MeadowView Conference Resort & Convention Center,kingsport__tn,4235786600,8662450902,8667875188,8774342980
+MEMPA,Courtyard Memphis East/Park Avenue,memphis__tn,9017610330,8663970146,8442057857,
+MEMCA,Courtyard Memphis Airport,memphis__tn,9013963600,8663970144,8442057849,
+SDFCH,Courtyard Louisville East,louisville__ky,,8667597983,8448469550,
+LEXKY,Griffin Gate Marriott Resort & Spa,lexington__ky,,8667597859,8448469551,8667102432
+CVGCY,Courtyard Cincinnati Covington,covington__ky,,8663982002,8448469543,
+CMHDB,Courtyard Columbus Dublin,dublin__oh,,8662141477,8448250998,
+CMHBR,Renaissance Columbus Downtown Hotel,columbus__oh,,8662141039,8448469552,8663448281
+CMHCW,Courtyard Columbus Worthington,columbus__oh,,8662141449,8448250997,
+TOLCR,Courtyard Toledo Rossford/Perrysburg,rossford__oh,,8667597985,8448250364,
+TOLCY,Courtyard Toledo Maumee/Arrowhead,maumee__oh,,8663982154,8448250365,
+CLENO,Courtyard Cleveland Airport North,north_olmstead__oh,,8667538679,8448250996,
+CLESC,Cleveland Marriott Downtown at Key Center,cleveland__oh,,8667538680,8448250983,8667102431
+CLECI,Courtyard Cleveland Independence,independence__oh,,8667538677,8448469792,
+CLEAP,Cleveland Airport Marriott,cleveland__oh,,8663393958,8448250982,8667102406
+CVGKG,Kingsgate Marriott Conference Center at the University of Cincinnati,cincinnati__oh,,8663982018,8448469553,
+CVGBA,Courtyard Cincinnati Blue Ash,blue_ash__oh,,8663981997,8448250999,
+INDCA,Courtyard Indianapolis Airport,indianapolis__in,,8666232975,8448469545,
+INDCS,Courtyard Indianapolis Castleton,indianapolis__in,,8666232977,8448469547,
+INDCM,Courtyard Indianapolis Carmel,indianapolis__in,,8666232976,8448469546,
+DTTTR,Courtyard Detroit Troy,troy__mi,,8667602405,8662140766,
+DTTTT,Detroit Marriott Troy,troy__mi,,8667602420,8448250984,8663437611
+DTTWR,Courtyard Detroit Warren,warren__mi,,8667602421,8662141512,
+DTWRI,Residence Inn Detroit Warren,warren__mi,,8663237554,8663237519,
+DTWDI,"The Dearborn Inn, A Marriott Hotel",dearborn__mi,,8663982168,8448250986,
+DTTDB,Courtyard Detroit Dearborn,dearborn__mi,,8667602403,8667538753,
+DETLV,Courtyard Detroit Livonia,livonia__mi,,8667602397,8667538676,
+DTWCA,Courtyard Detroit Metro Airport Romulus,romulus__mi,,8669478440,8663231940,
+DTWCW,The Westin Book Cadillac Detroit,detroit__mi,3134421600,,,
+DTWDC,Courtyard Detroit Downtown,detroit__mi,,8663982166,8448250985,
+DTWMA,The Westin Detroit Metropolitan Airport,detroit__mi,7349426500,,,
+DTWDT,Detroit Marriott at the Renaissance Center,detroit__mi,,8663982170,8448250367,8667102407
+DTWAB,Courtyard Detroit Auburn Hills,auburn_hills__mi,,8667602422,8663231818,
+DTWNV,Courtyard Detroit Novi,novi__mi,,8663982162,8663237517,
+DTWTS,TownePlace Suites Detroit Novi,novi__mi,,8663237561,8663982019,
+DSMIA,Des Moines Marriott Downtown,des_moines__ia,,8666232974,8448250989,8669475681
+DSMCH,Courtyard Des Moines West/Clive,clive__ia,,8666232973,8667538678,
+CIDIC,Coralville Marriott Hotel & Conference Center,coralville__ia,,8772303408,8448250988,8669475676
+MLICH,Courtyard Bettendorf Quad Cities,bettendorf__ia,,8663991041,8669479412,
+MKEBC,Courtyard Milwaukee Brookfield,brookfield__wi,,8663990892,8667597982,
+MSPMH,Courtyard Minneapolis-St. Paul Airport,mendota_heights__mn,,8663393354,8669475058,
+MSPED,Courtyard Minneapolis Eden Prairie,eden_prairie__mn,,8667597907,8669475054,
+MSPCC,Minneapolis Marriott City Center,minneapolis__mn,,8667597903,8448250992,8667102436
+MSPWH,W Minneapolis - The Foshay,minneapolis__mn,6122153700,,,
+MSPMD,Le Meridien Chambers Minneapolis,minneapolis__mn,6127676900,,,
+MSPJW,JW Marriott Minneapolis Mall of America,minneapolis__mn,,8664796411,8448250991,8669475694
+CHIAN,Courtyard Chicago Arlington Heights/North,arlington_heights__il,,8669024515,8669475085,
+CHICA,Courtyard Chicago O'Hare,des_plaines__il,,8665339945,8668448437,
+CHIWA,The Westin O'Hare,rosemont__il,8476986000,,,
+CHIHP,Courtyard Chicago Highland Park/Northbrook,highland_park__il,,8665339953,8663391479,
+CHILS,Courtyard Chicago Lincolnshire,lincolnshire__il,,8666964886,8663231447,
+CHISH,SpringHill Suites Chicago Lincolnshire,lincolnshire__il,,8663998104,8664798252,
+CHIRW,Residence Inn Chicago Waukegan/Gurnee,waukengan__il,,8663998098,8664796415,
+CHIWK,Courtyard Chicago Waukegan/Gurnee,waukengan__il,,8669478330,8667538474,
+CHIDN,Courtyard Chicago Elgin/West Dundee,dundee__il,,8665339948,8663982174,
+CHITS,TownePlace Suites Chicago Elgin/West Dundee,dundee__il,,8666232371,8663393357,
+CHILY,The Westin Lombard Yorktown Center,lombard__il,6307198000,,,
+CHITL,TownePlace Suites Chicago Lombard,lombard__il,,8666232299,8664793405,
+CHIRS,Renaissance Schaumburg Convention Center Hotel,schaumburg__il,,8772948662,8448250994,8669475059
+CHIOT,Courtyard Chicago Oakbrook Terrace,oakbrook_terrace__il,,8663998096,8663237563,
+CHIDG,Chicago Marriott Suites Downers Grove,downers_grove__il,,8665339947,8663998095,
+CHIOB,Chicago Marriott Oak Brook,oak_brook__il,,8666965051,8665339949,8669479420
+CHINP,Courtyard Chicago Naperville,naperville__il,,8666965038,8663237559,
+CHISR,Renaissance Chicago Downtown Hotel,chicago__il,,8663998105,8666964949,8669475060
+CHIRL,Residence Inn Chicago Downtown/Loop,chicago__il,,8667538475,8666964679,
+CHIJW,JW Marriott Chicago,chicago__il,,8663998101,8665339891,8664793406
+CHIDT,Chicago Marriott Downtown Magnificent Mile,chicago__il,,8665339951,8663991044,8669472982
+CHIGS,Sheraton Grand Chicago,chicago__il,3124641000,,,
+CHIRD,Residence Inn Chicago Downtown/Magnificent Mile,chicago__il,,8663998097,8667538349,
+CHIWB,Courtyard Chicago Downtown/River North,chicago__il,,8666232533,8667602348,
+CHIWI,The Westin Michigan Avenue Chicago,chicago__il,3129437200,,,
+CHIMQ,Marriott Marquis Chicago,chicago__il,,8664798251,8669475082,8664798257
+CHIAP,Chicago Marriott O'Hare,chicago__il,,8669024516,8448250995,8669479410
+CHINO,The Westin Chicago River North,chicago__il,3127441900,,,
+STLSH,SpringHill Suites St. Louis Chesterfield,chesterfield__mo,,8664798259,8448250361,
+STLBR,Courtyard St. Louis Airport/Earth City,st_louis__mo,,8664796412,8669479421,
+STLEC,SpringHill Suites St. Louis Airport/Earth City,st_louis__mo,,8772948678,8448250360,
+STLMG,Marriott St. Louis Grand,st_louis__mo,,8664798249,8448250987,8669475061
+STLDW,Courtyard St. Louis Downtown/Convention Center,st_louis__mo,,8664793410,8448250366,
+STLCH,Courtyard St Louis Downtown West,st_louis__mo,,8664796416,8669479423,
+STLBW,SpringHill Suites St. Louis Brentwood,brentwood__mo,,8772948648,8667102536,
+STLCC,Courtyard St. Louis Creve Coeur,creve_coeur__mo,,8664796414,8669475057,
+STLWP,Courtyard St. Louis Westport Plaza,st_louis__mo,,8664798261,8448250362,
+MCICR,Sheraton Kansas City Hotel at Crown Center,kansas_city__mo,8168411000,,,
+MCIWI,The Westin Kansas City at Crown Center,kansas_city__mo,8164744400,,,
+MCIHM,Courtyard Kansas City South,kansas_city__mo,,8664793409,8663982026,
+MCIOP,Marriott Kansas City Overland Park,overland_park__ks,,8664793411,8448250990,8669475688
+MCIOV,"Courtyard Kansas City Overland Park/Metcalf, South of College Boulevard",overland_park__ks,,8664793412,8667102437,
+MCICC,Sheraton Overland Park Hotel At The Convention Center,overland_park__ks,9132342100,,,
+MCICV,Courtyard Kansas City Overland Park/Convention Center,overland_park__ks,,8664793408,8663982023,
+OMACY,Courtyard Omaha Downtown/Old Market Area,omaha__ne,4023462200,8882651423,8777854504,
+MSYCM,Courtyard New Orleans Metairie,metairie__la,5048383800,8663970148,8445222828,
+MSYRM,Residence Inn New Orleans Metairie,metairie__la,5048320888,8665180641,8445222833,
+MSYBR,Renaissance New Orleans Pere Marquette French Quarter Area Hotel,new_orleans__la,5045251111,8663970147,8777541440,8777541444
+MSYCI,Courtyard New Orleans French Quarter/Iberville,new_orleans__la,,8773276001,8445222835,
+MSYCN,Courtyard New Orleans Downtown/Convention Center,new_orleans__la,5045989898,8663979832,8445222829,
+MSYCY,Courtyard New Orleans Downtown Near the French Quarter,new_orleans__la,5045819005,8665180482,8445222831,
+MSYDT,Renaissance New Orleans Arts Warehouse District Hotel,new_orleans__la,5046132330,8665180537,8777541545,8777541496
+MSYIS,Sheraton New Orleans Hotel,new_orleans__la,5045252500,,,
+MSYJW,JW Marriott New Orleans,new_orleans__la,5045256500,8665180579,8447466519,8664764430
+MSYLA,New Orleans Marriott,new_orleans__la,5045811000,8665180582,8443585487,8774342977
+MSYMC,New Orleans Downtown Marriott at the Convention Center,new_orleans__la,5046132888,8665180631,8668990319,8777541543
+MSYMD,Le Meridien New Orleans,new_orleans__la,5045259444,,,
+MSYRI,Residence Inn New Orleans Downtown,new_orleans__la,5045221300,8665180640,8445222832,
+MSYSH,SpringHill Suites New Orleans Downtown/Convention Center,new_orleans__la,5045223100,8665180644,8445222834,
+MSYWH,W New Orleans - French Quarter,new_orleans__la,5045811200,,,
+MSYCV,Courtyard New Orleans Covington/Mandeville,covington__la,9858710244,8663989376,8445222830,
+MSYNS,Residence Inn New Orleans Covington/North Shore,covington__la,9852467222,8665320413,8445222838,
+BTRCH,Courtyard Baton Rouge Acadian Centre/LSU Area,baton_rouge__la,2259246400,8668999828,8445222827,
+OKCNW,Courtyard Oklahoma City Northwest,oklahoma_city__ok,4058483113,8668909831,8777854490,
+DALSH,SpringHill Suites Dallas Addison/Quorum Drive,addison__tx,9727741010,8668559106,8882651382,
+DALBP,Renaissance Dallas at Plano Legacy West Hotel,plano__tx,4699251800,8666992260,8666289821,8772571780
+DALLP,Courtyard Dallas Plano in Legacy Park,plano__tx,9724030802,8666999858,8665763167,
+DALPL,Residence Inn Dallas Plano,plano__tx,9724736761,8666289851,8665569787,
+DALPT,Dallas/Plano Marriott at Legacy Town Center,plano__tx,9724736444,8668260045,8772454950,8772571730
+DALSA,Sheraton Stonebriar Hotel,frisco__tx,9726688700,,,
+DALSB,The Westin Stonebriar Hotel & Golf Club,frisco__tx,9726688000,,,
+DALLA,Courtyard Dallas Las Colinas,irving__tx,9725508100,8666992438,8663147195,
+DALLS,Residence Inn Dallas Las Colinas,irving__tx,9725807773,8666999860,8887957553,
+DALIW,The Westin Irving Convention Center at Las Colinas,irving__tx,9725052900,,,
+DALNE,Courtyard Dallas Richardson at Spring Valley,richardson__tx,9722355000,8666289777,8663131956,
+DALRH,Residence Inn Dallas Richardson,richardson__tx,9726695888,8668558919,8668902407,
+DALRS,Courtyard Dallas Richardson at Campbell,richardson__tx,9729949933,8668559072,8665571701,
+DALPN,Courtyard Dallas Plano Parkway at Preston Road,plano__tx,9728678000,8666289889,8668900992,
+DALDH,Sheraton Dallas Hotel,dallas__tx,2149228000,,,
+DALDT,Dallas Marriott City Center,dallas__tx,2149799000,8665571692,8772454701,8884976264
+DALBR,Renaissance Dallas Hotel,dallas__tx,2146312222,8666992423,8778088932,8884976261
+DALWH,W Dallas - Victory,dallas__tx,2143974100,,,
+DALCC,Courtyard Dallas Central Expressway,dallas__tx,2147392500,8666992430,8666289847,
+DALCE,Residence Inn Dallas Central Expressway,dallas__tx,2147508220,8666992433,8665763161,
+DALGW,The Westin Galleria Dallas,dallas__tx,9729349494,,,
+DALMK,Residence Inn Dallas Market Center,dallas__tx,2146312472,8666289585,8665567915,
+DALAL,Courtyard Dallas Arlington/Entertainment District,arlington__tx,8712772774,8666992177,8666992439,
+DALGT,Gaylord Texan Resort & Convention Center,grapevine__tx,8177781000,8665763166,,8882369497
+DFWDT,The Worthington Renaissance Fort Worth Hotel,fort_worth__tx,8178701000,8668559182,8772455862,8772571805
+DFWMS,Courtyard Fort Worth Downtown/Blackstone,fort_worth__tx,8178858700,8668984259,8772455895,8772571818
+DFWCH,Courtyard Fort Worth University Drive,fort_worth__tx,8173351300,8668738072,8882651387,
+DFWUV,SpringHill Suites Fort Worth University,fort_worth__tx,8178782554,8668989184,8665573674,
+DFWFC,Courtyard Fort Worth Fossil Creek,fort_worth__tx,8178470044,8668983877,8665563925,
+DFWRI,Residence Inn Fort Worth Fossil Creek,fort_worth__tx,8174391300,8668986080,8665566477,
+DALWL,Dallas/Fort Worth Marriott Solana,westlake__tx,8174305000,8668559192,8772455216,8772571799
+HOUHB,Courtyard Houston Hobby Airport,houston__tx,7139101700,8663134197,8778969979,
+HOUMY,"The Westin Houston, Memorial City",houston__tx,2815014300,,,
+HOUWL,Houston Marriott West Loop by The Galleria,houston__tx,7139600111,8882651385,8772708263,8777407995
+HOUMC,Houston Marriott Medical Center,houston__tx,7137960080,8663142640,8772455917,8777407912
+IAHAP,Houston Airport Marriott at George Bush Intercontinental,houston__tx,2814432310,8668908583,8665763165,8778763819
+IAHFP,Four Points by Sheraton Houston Intercontinental Airport,houston__tx,8324303100,,,
+HOUWH,Sheraton Houston West Hotel,houston__tx,2815014200,,,
+HOUXN,Residence Inn Houston West/Beltway 8 at Clay Road,houston__tx,2818882465,8772708484,8772708641,
+HOUMQ,Marriott Marquis Houston,houston__tx,7136291200,8668994075,8772455906,8772571843
+HOUGW,The Westin Galleria Houston,houston__tx,7139608100,,,
+HOUJW,JW Marriott Houston,houston__tx,7139611500,8663137709,8772455915,8777407907
+HOUOW,The Westin Oaks Houston at the Galleria,houston__tx,7139608100,,,
+HOURN,Residence Inn Houston Northwest/Cypress,houston__tx,2812951777,8663146658,8668906232,
+HOUNW,Courtyard Houston Northwest,houston__tx,2813746464,8663146657,8777854427,
+HOUTM,Residence Inn Houston Tomball,tomball__tx,8329551750,8777407994,8666991891,
+HOUMW,The Woodlands Waterway Marriott Hotel & Convention Center,the_woodlands__tx,2813679797,8663146382,8772456166,8777407987
+HOUKY,Courtyard Houston Katy Mills,katy__tx,2816653189,8669009713,8772571832,
+HOUCP,Courtyard Houston Pearland,pearland__tx,7134130500,8665763160,8778969836,
+HOUPL,Springhill Suites Houston Pearland,pearland__tx,7134367377,8772571727,8668903794,
+HOUSE,Springhill Suites Houston Seabrook,seabrook__tx,2814743456,8772571844,8778763963,
+SATCD,Courtyard San Antonio Downtown/Market Square,san_antonio__tx,2102299449,8663153241,8778087443,
+SATCR,Courtyard San Antonio Riverwalk,san_antonio__tx,2102238888,8663125945,8778087530,
+SATDT,San Antonio Marriott Riverwalk,san_antonio__tx,2102244555,8663157869,8778087728,8882381163
+SATRC,San Antonio Marriott Rivercenter,san_antonio__tx,2102231000,8663161849,8778088921,8882398344
+SATRW,Residence Inn San Antonio Downtown/Alamo Plaza,san_antonio__tx,2122125555,8663171244,8778088924,
+SATAP,Residence Inn San Antonio Airport/Alamo Heights,san_antonio__tx,2108058118,8668915948,8777854507,
+SATCA,Courtyard San Antonio Airport,san_antonio__tx,2108287200,8663151063,8778087329,
+SATMC,Courtyard San Antonio Medical Center,san_antonio__tx,2106147100,8663161296,8778087503,
+SATJW,JW Marriott San Antonio Hill Country Resort & Spa,san_antonio__tx,2102762500,8668913146,8778088920,8882388854
+ILEGT,Sheraton Georgetown Texas Hotel & Conference Center,georgetown__tx,7374442700,,,
+AUSWH,W Austin,austin__tx,5125423600,,,
+AUSSH,Renaissance Austin Hotel,austin__tx,5123432626,8882651389,8778087524,8882381123
+DENAU,Fairfield Inn & Suites Denver Aurora/Medical Center,aurora__co,,,8667840480,
+DENSE,Courtyard Denver Tech Center,greenwood_village__co,13037210300,8669404446,8665942034,
+DENFS,Fairfield Inn & Suites Denver Tech Center/South,highlands_ranch__co,,,8667745177,
+DENDS,Sheraton Denver Downtown Hotel,denver__co,3038933333,,,
+DENWI,The Westin Denver Downtown,denver__co,3035729100,,,
+DENCA,Courtyard Denver Stapleton,denver__co,13033333303,8665919993,8669404454,
+DENWT,Fairfield Inn & Suites Denver North/Westminster,westminster__co,,,8667787304,
+DENAW,The Westin Denver International Airport,denver__co,3033171800,,,
+DENBD,Courtyard Boulder,boulder__co,13034404700,8665919987,8669404453,
+VBOCG,Residence Inn Boulder,boulder__co,13034495545,8665926465,8663991887,
+DENWE,Denver Marriott West,golden__co,13032799100,8665987326,8663993887,8667840482
+PHLML,Courtyard Mt. Laurel,mount_laurel__nj,8562734400,8775327977,8888919360,
+SLCUT,Salt Lake Marriott Downtown at City Creek,salt_lake_city__ut,18015310800,8666100198,8665970968,8667700616
+SLCTT,Residence Inn Salt Lake City Cottonwood,holladay__ut,18014530430,8665910021,8662437620,
+SLCVO,Provo Marriott Hotel & Conference Center,provo__ut,,8666145914,8663991876,8667770491
+PHXBD,Renaissance Phoenix Downtown Hotel,phoenix__az,6023330000,8663838693,8443774772,8663838958
+PHXGP,Sheraton Grand Phoenix Downtown Hotel,phoenix__az,6022622500,,,
+PHXIW,The Westin Phoenix Downtown,phoenix__az,6024293500,,,
+PHXCC,Courtyard Phoenix Camelback,phoenix__az,6029555200,8667661596,8665163845,
+PHXMC,Courtyard Phoenix North,phoenix__az,6026447373,8663192396,8667984868,
+PHXCA,Courtyard Phoenix Airport,phoenix__az,4809664300,8667661540,8667984862,
+PHXDR,JW Marriott Phoenix Desert Ridge Resort & Spa,phoenix__az,4802935000,8667661532,,8663740885
+PHXMH,Residence Inn Phoenix Desert View at Mayo Clinic,phoenix__az,4805631500,8666879614,8663249914,
+PHXMA,Four Points by Sheraton at Phoenix Mesa Gateway Airport,mesa__az,4805792100,,,
+PHXCL,Courtyard Phoenix Chandler,chandler__az,4807639500,8662521534,8667984866,
+PHXWP,Sheraton Grand at Wild Horse Pass,phoenix__az,6022250100,,,
+PHXPI,Courtyard Scottsdale Salt River,scottsdale__az,4807458200,8663839164,8663823968,
+PHXSC,Courtyard Scottsdale Old Town,scottsdale__az,4804297785,8662676063,8666870325,
+PHXST,Scottsdale Marriott Suites Old Town,scottsdale__az,4809451550,8667661538,8443740177,
+PHXWH,W Scottsdale,scottsdale__az,4809702100,,,
+PHXCB,JW Marriott Scottsdale Camelback Inn Resort & Spa,scottsdale__az,4809481700,8667661531,,8663740637
+PHXRS,Residence Inn Scottsdale Paradise Valley,scottsdale__az,4809488666,8662676061,8663865480,
+PHXWS,The Westin Kierland Resort & Spa,scottsdale__az,4806241000,,,
+PHXMY,Courtyard Scottsdale at Mayo Clinic,scottsdale__az,4808604000,8662601977,8663032373,
+PHXNO,Scottsdale Marriott at McDowell Mountains,scottsdale__az,4805023836,8667661535,,8663650626
+PHXTO,TownePlace Suites Scottsdale,scottsdale__az,4805511100,8667984859,8663248627,
+PHXTD,Residence Inn Tempe Downtown/University,tempe__az,4809672300,8663192364,8667375697,
+PHXTE,Courtyard Tempe Downtown,tempe__az,4809662800,8667984858,8662633240,
+PHXRT,Residence Inn Tempe,tempe__az,4807562122,8662676062,8663898797,
+TUSSP,JW Marriott Tucson Starr Pass Resort & Spa,tucson__az,5207923500,8667661539,,8663880185
+ABQCA,Courtyard Albuquerque Airport,albuquerque__nm,5058436600,8665763162,8665574296,
+ABQRI,Residence Inn Albuquerque,albuquerque__nm,5058812661,8665763163,8778969709,
+LASNW,Courtyard Las Vegas Summerlin,las_vegas__nv,7026464400,8664793402,8662603260,
+LASCH,Courtyard Las Vegas Convention Center,las_vegas__nv,7027913600,8665163843,8663244520,
+LASNV,Residence Inn Las Vegas Convention Center,las_vegas__nv,7027969300,8664793401,8665163848,
+LASST,Las Vegas Marriott,las_vegas__nv,7026502000,8664793404,8443740176,
+LASHH,Residence Inn Las Vegas Hughes Center,las_vegas__nv,7026500040,8665163849,8665163847,
+RNORI,Residence Inn Reno,reno__nv,7758538800,8663832953,8663865336,
+LAXJW,JW Marriott Los Angeles L.A. LIVE,los_angeles__ca,2137658600,8663832038,8443774778,8663710374
+LAXLD,Courtyard Los Angeles L.A. LIVE,los_angeles__ca,2134439200,8663854235,8443774773,
+LAXRI,Residence Inn Los Angeles L.A. LIVE,los_angeles__ca,2134439200,8668695853,8443774775,
+LAXGR,Sheraton Grand Los Angeles,los_angeles__ca,2134883500,,,
+LAXWB,W Los Angeles - West Beverly Hills,los_angeles__ca,3102088765,,,
+LAXWH,W Hollywood,los_angeles__ca,3237981300,,,
+LAXAP,Los Angeles Airport Marriott,los_angeles__ca,3106415700,8664847804,8443774776,8666797369
+LAXRR,Renaissance Los Angeles Airport Hotel,los_angeles__ca,3103372800,8662444978,8443774781,8666775628
+LAXWI,The Westin Los Angeles Airport,los_angeles__ca,3102165858,,,
+LAXCA,Courtyard Los Angeles LAX/El Segundo,el_segundo__ca,3103220700,8662187612,8667304782,
+LAXHT,TownePlace Suites Los Angeles LAX/Manhattan Beach,hawthorne__ca,3107259696,8662221998,8666775621,
+LAXHW,SpringHill Suites Los Angeles LAX/Manhattan Beach,hawthorne__ca,3103013000,8662410111,8443601941,
+LAXMB,Marina del Rey Marriott,marina_del_rey__ca,3103013000,8662429127,8443774779,8666797385
+LAXTC,Residence Inn Los Angeles Torrance/Redondo Beach,torrance__ca,3105434566,8662447849,8443601942,
+LAXTR,Torrance Marriott Redondo Beach,torrance__ca,3103163636,8662499565,8443774782,8666775629
+LAXCT,Courtyard Los Angeles Torrance/South Bay,torrance__ca,3105321722,8662187625,8663880858,
+LAXTO,Courtyard Los Angeles Torrance/Palos Verdes,torrance__ca,3105338000,8662498819,8443601943,
+SNABP,Courtyard Anaheim Buena Park,buena_park__ca,7146706600,8666548186,8443648131,
+SNAOC,Residence Inn Cypress Los Alamitos,los_alamitos__ca,7144845700,8662626040,8443680528,
+LGBCY,Courtyard Long Beach Downtown,long_beach__ca,5624358511,8662502316,8443601944,
+LGBRI,Residence Inn Long Beach Downtown,long_beach__ca,5624950700,8666879599,8443601945,
+LGBRN,Renaissance Long Beach Hotel,long_beach__ca,5624375900,8662509110,8443803655,8667303941
+LAXBH,Residence Inn Long Beach,long_beach__ca,5625950909,8662184121,8667304725,
+BWRAR,Residence Inn Pasadena Arcadia,arcadia__ca,6264466500,8662180413,8663849049,
+LAXRO,Residence Inn Los Angeles Pasadena/Old Town,pasadena__ca,6262049220,8667303943,8667304783,
+BURRI,Residence Inn Los Angeles Burbank/Downtown,burbank__ca,8182608787,8662654032,8665461480,
+BURSH,SpringHill Suites Los Angeles Burbank/Downtown,burbank__ca,8185242730,8663436773,8443740170,
+LAXHH,Courtyard Los Angeles Hacienda Heights/Orange County,hacienda_heights__ca,6269651700,8662992049,8666797358,
+ONTSI,Sheraton Fairplex Hotel & Conference Center,pomona__ca,9096222220,,,
+LAJCA,Residence Inn San Diego La Jolla,la_jolla__ca,8585871770,8665461427,8667304647,
+SANON,Courtyard San Diego Oceanside,oceanside__ca,7609661000,8663192391,8443740171,
+SANOS,Residence Inn San Diego Oceanside,oceanside__ca,7607229600,8666879615,8443648129,
+SANDH,SpringHill Suites San Diego Downtown/Bayfront,san_diego__ca,6198310225,8663438221,8443740178,
+SANDT,Marriott Marquis San Diego Marina,san_diego__ca,6192341500,8665461473,8443803663,8667304724
+SANRH,Residence Inn San Diego Downtown/Bayfront,san_diego__ca,6198310225,8663438697,8443774771,
+SANSI,Sheraton San Diego Hotel & Marina,san_diego__ca,6192912900,,,
+SANWI,The Westin San Diego Gaslamp Quarter,san_diego__ca,6192392200,,,
+SANCI,Coronado Island Marriott Resort & Spa,coronado__ca,6194353000,8663900417,8443803664,8667304601
+SANAA,Residence Inn San Diego Sorrento Mesa/Sorrento Valley,san_diego__ca,8585529100,8665461430,8443740172,
+SANMM,Courtyard San Diego Sorrento Valley,san_diego__ca,8585589600,8663194542,8443648128,
+SANRB,Residence Inn San Diego Rancho Bernardo/Carmel Mountain Ranch,san_diego__ca,8586731900,8662172738,8443648130,
+SANDL,Residence Inn San Diego Del Mar,san_diego__ca,8584818800,8664194761,8443740175,
+PSPSR,Renaissance Indian Wells Resort & Spa,indian_wells__ca,7607734444,8668092254,,8663770819
+CTDCA,JW Marriott Desert Springs Resort & Spa,palm_desert__ca,7603412211,8668082452,,8663740018
+PSPCH,Courtyard Palm Springs,palm_springs__ca,7603226100,8667984869,8443648125,
+PSPWI,The Westin Mission Hills Golf Resort & Spa,rancho_mirage__ca,7603285955,,,
+SNAFR,Courtyard Foothill Ranch Irvine East/Lake Forest,foothill_ranch__ca,9499515700,8666548188,8443648133,
+LAXIR,Irvine Marriott,irvine__ca,9495530100,8662993844,8443803659,8666797384
+LAXCH,Courtyard Irvine John Wayne Airport/Orange County,irvine__ca,9497571200,8662973910,8663710961,
+SNAIV,Residence Inn Irvine John Wayne Airport/Orange County,irvine__ca,9492612020,8666548191,8443680526,
+SNAIR,Residence Inn Irvine Spectrum,irvine__ca,9493803000,8666548190,8443680525,
+SNAMC,Irvine Spectrum Marriott,irvine__ca,9497590200,8446446431,8446446433,
+SNASI,Courtyard Irvine Spectrum,irvine__ca,9494531033,8663436565,8443680531,
+CSMNB,Residence Inn Costa Mesa Newport Beach,costa_mesa__ca,7142418800,8667984870,8665163850,
+SNAWI,"The Westin South Coast Plaza, Costa Mesa",costa_mesa__ca,7145402500,,,
+SNALH,Courtyard Laguna Hills Irvine Spectrum/Orange County,laguna_hills__ca,9498595500,8666548193,8443680527,
+LAXNB,Newport Beach Marriott Hotel & Spa,newport_beach__ca,9496404000,8662994674,8443803658,8666775592
+NPBST,Newport Beach Marriott Bayview,newport_beach__ca,9498544500,8663030606,8443803661,
+NPBAK,"Lido House, Autograph Collection",newport_beach__ca,9495248500,8446446434,8446446436,
+SNASJ,Residence Inn Dana Point San Juan Capistrano,san_juan_capistrano__ca,9494433600,8663839160,8443740174,
+SNASA,Courtyard Costa Mesa South Coast Metro,santa_ana__ca,7145451001,8666548197,8443680530,
+SNAFC,Courtyard Huntington Beach Fountain Valley,fountain_valley__ca,7149685775,8666548187,8443648132,
+SNAFV,Residence Inn Huntington Beach Fountain Valley,fountain_valley__ca,7149658000,8666548189,8443680524,
+SNATF,Fairfield Inn & Suites Tustin Orange County,tustin__ca,7142589900,8663033421,8665461475,
+SNATU,Residence Inn Tustin Orange County,tustin__ca,7142589700,8663192390,8665461467,
+LAXAH,Anaheim Marriott,anaheim__ca,7147508000,8662971414,8443803657,8666797365
+LAXOC,Fairfield Inn Anaheim Resort,anaheim__ca,7147726777,8663023104,8443803660,
+SNAPL,Residence Inn Anaheim Placentia/Fullerton,placentia__ca,7149960555,8666548196,8443680529,
+OXRVB,Ventura Beach Marriott,ventura__ca,8056436000,8662613754,8443803656,8667303944
+OXRCH,Courtyard Camarillo,camarillo__ca,8053881020,8662604751,8443648124,
+OXRCR,Residence Inn Camarillo,camarillo__ca,8053887997,8663832058,8443740169,
+OXRRI,Residence Inn Oxnard River Ridge,oxnard__ca,,8663437892,8443648126,
+SBACY,Courtyard Santa Barbara Goleta,goleta__ca,,8663192393,8443740173,
+SBAGO,Santa Barbara Residence Inn,goleta__ca,8057705031,8446446429,8446446430,
+BFLCH,Courtyard Bakersfield,bakersfield__ca,6613246660,8666879660,8443680532,
+BFLSH,SpringHill Suites Bakersfield,bakersfield__ca,6613774000,8663194622,8443680533,
+FATCH,Courtyard Fresno,fresno__ca,15592216000,8669284237,8443129137,
+FATRI,Residence Inn Fresno,fresno__ca,15592228900,8669284238,8443129138,
+MRYCA,Monterey Marriott,monterey__ca,18316494234,8665381980,8663991853,8667757730
+SFOBG,San Francisco Airport Marriott Waterfront,burlingame__ca,16506929100,8665775290,8669284235,8667701630
+SFOSB,Courtyard San Francisco Airport,san_bruno__ca,16509523333,8663991858,8443142070,
+SFOLO,Residence Inn Redwood City San Carlos,san_carlos__ca,,8443129136,8443173831,
+SFOOP,Courtyard San Francisco Airport/Oyster Point Waterfront,south_san_francisco__ca,16508714100,8663991819,8443142067,
+SFORI,Residence Inn San Francisco Airport/Oyster Point Waterfront,south_san_francisco__ca,16508379000,8663991820,8443142068,
+SFOJW,JW Marriott San Francisco Union Square,san_francisco__ca,14157718600,8669284230,8663993491,8667720775
+SFOUW,The Westin St. Francis San Francisco on Union Square,san_francisco__ca,4153977000,,,
+SFODT,San Francisco Marriott Marquis,san_francisco__ca,14158961600,8665775295,8665774324,8667708838
+SFOWH,W San Francisco,san_francisco__ca,4157775300,,,
+SFOCD,Courtyard San Francisco Downtown,san_francisco__ca,14159470700,8665775293,8665381981,
+SFOUS,San Francisco Marriott Union Square,san_francisco__ca,14153988900,8669284236,8663993883,8667750543
+SFOCF,Courtyard San Francisco Fisherman's Wharf,san_francisco__ca,14157753800,8665775294,8443142063,
+SFOFC,Courtyard San Mateo Foster City,foster_city__ca,16503770600,8663991816,8443142064,
+OAKCP,Courtyard Pleasant Hill,pleasant_hill__ca,19256911444,8665381982,8443129139,
+SJCFE,Courtyard Fremont Silicon Valley,fremont__ca,15106561800,8663991886,8443173826,
+SFOLL,Courtyard San Francisco Larkspur Landing/Marin County,larkspur__ca,14159251800,8669284231,8443142065,
+SFONV,Courtyard Novato Marin/Sonoma,novato__ca,14158838950,8669284234,8443142066,
+SJCCU,Courtyard San Jose Cupertino,cupertino__ca,14082529100,8663991884,8443173825,
+SJCMP,Courtyard Milpitas Silicon Valley,milpitas__ca,14087191966,8663993842,8443173827,
+SJCTM,TownePlace Suites Milpitas Silicon Valley,milpitas__ca,14087191959,8663993882,8443173828,
+SJCGA,Santa Clara Marriott,santa_clara__ca,14089881500,8663993840,8665910007,8666208613
+SJCCA,Courtyard San Jose Airport,san_jose__ca,14084416111,8662433508,8443142071,
+SJCSJ,San Jose Marriott,san_jose__ca,14082801300,8663993880,8669400773,8666209441
+SFOLS,The Lodge at Sonoma Renaissance Resort & Spa,sonoma__ca,17079356600,8666100211,8663993874,
+SACRC,Courtyard Sacramento Rancho Cordova,rancho_cordova__ca,19166383800,8665775285,8443142062,
+SACSI,Sheraton Grand Sacramento Hotel,sacramento__ca,9164471700,,,
+SACCH,Courtyard Sacramento Airport Natomas,sacramento__ca,19169221120,8665774323,8443142061,
+PDXCY,Courtyard Portland Beaverton,beaverton__or,15036413200,8665762372,8665381984,
+PDXOR,Portland Marriott Downtown Waterfront,portland__or,15032267600,8665971342,8669401985,8667787301
+PDXPD,Residence Inn Portland Downtown/Pearl District,portland__or,,8666156278,8443173829,
+SEAFW,Courtyard Seattle Federal Way,federal_way__wa,12535290200,8665832834,8665931984,
+BVUBW,The Westin Bellevue,bellevue__wa,4256381000,,,
+BVUWH,W Bellevue,bellevue__wa,4257099000,,,
+SEAMB,Seattle Marriott Bellevue,bellevue__wa,14252147600,8338571814,8338571815,8338571801
+BVUCH,Courtyard Seattle Bellevue/Redmond,bellevue__wa,14258695300,8665758501,8669404447,
+SEAMC,Seattle Marriott Redmond,redmond__wa,14254984000,8665977071,8669401987,
+SEARD,Residence Inn Seattle East/Redmond,redmond__wa,14254979226,8665846878,8665961984,
+SEASR,SpringHill Suites Seattle South/Renton,renton__wa,14252264100,8665865098,8666124015,
+SEATR,TownePlace Suites Seattle South/Renton,renton__wa,14259172000,8665902553,8663991821,
+SEASI,Sheraton Seattle Hotel,seattle__wa,2066219000,,,
+SEAWH,W Seattle,seattle__wa,2062646000,,,
+SEAWI,The Westin Seattle,seattle__wa,2067281000,,,
+SEAPS,Courtyard Seattle Downtown/Pioneer Square,seattle__wa,12066251111,8666100241,8665952468,
+SEACD,Courtyard Seattle Downtown/Lake Union,seattle__wa,12062130100,8665828553,8663991707,
+SEAWF,Seattle Marriott Waterfront,seattle__wa,12064435000,8665987258,8669404445,8667806077
+SEASC,Courtyard Seattle Southcenter,tukwila__wa,12065752500,8665860046,8665758502,
+GEGCH,Courtyard Spokane Downtown at the Convention Center,spokane__wa,15094567600,8665758503,8665774320,
+WASXW,The Westin Alexandria,alexandria__va,7032538600,,,
+CHIWC,W Chicago - City Center,chicago__il,3123321200,,,
+CHIWH,W Chicago - Lakeshore,chicago__il,3129439200,,,
+OAKPH,Residence Inn Pleasant Hill Concord,concord__ca,19256891010,8665381985,8443129173,
+DENAP,Courtyard Denver Airport,denver__co,13033710300,8665919986,8669404448,
+OAKMV,Courtyard Oakland Emeryville,emeryville__ca,15106528777,8665381983,8443129140,
+MCICA,Courtyard Kansas City Airport,kansas_city__mo,,8664793407,8663982022,
+PHXME,Courtyard Phoenix Mesa,mesa__az,4804613000,8662601417,8663243559,
+OAKDT,Oakland Marriott City Center,oakland__ca,15104514000,8666132898,8665987317,8666214276
+OAKPL,Courtyard Pleasanton,pleasanton__ca,19254631414,8665381986,8443129174,
+OAKRM,Courtyard San Ramon,san_ramon__ca,19258662900,8665381988,8443129175,
+OAKRS,Residence Inn San Ramon,san_ramon__ca,19252779292,8663991053,8443129177,
+OAKSR,San Ramon Marriott,san_ramon__ca,19258679200,8663991664,8663991889,8667780543

@@ -1,0 +1,6980 @@
+{
+	"westborough__ma": [
+		{
+			"hotelMarsha": "BOSWE",
+			"propertyName": "Residence Inn Boston Westborough",
+			"city__state": "westborough__ma",
+			"localNumber": "5083667700",
+			"complexNumber": "8668438976",
+			"segmentNumber": "8668657949",
+			"largeGroupNumber": ""
+		}
+	],
+	"milford__ma": [
+		{
+			"hotelMarsha": "BOSML",
+			"propertyName": "Courtyard Boston Milford",
+			"city__state": "milford__ma",
+			"localNumber": "5086349500",
+			"complexNumber": "8664798005",
+			"segmentNumber": "8662964373",
+			"largeGroupNumber": ""
+		}
+	],
+	"woburn__ma": [
+		{
+			"hotelMarsha": "BOSWB",
+			"propertyName": "Courtyard Boston Woburn/Burlington",
+			"city__state": "woburn__ma",
+			"localNumber": "7819323200",
+			"complexNumber": "8668438975",
+			"segmentNumber": "8664479375",
+			"largeGroupNumber": ""
+		}
+	],
+	"andover__ma": [
+		{
+			"hotelMarsha": "BOSAV",
+			"propertyName": "SpringHill Suites Boston Andover",
+			"city__state": "andover__ma",
+			"localNumber": "9786888200",
+			"complexNumber": "8665493522",
+			"segmentNumber": "8888913737",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MHTCH",
+			"propertyName": "Courtyard Boston Andover",
+			"city__state": "andover__ma",
+			"localNumber": "9787940700",
+			"complexNumber": "8668448274",
+			"segmentNumber": "8775327969",
+			"largeGroupNumber": ""
+		}
+	],
+	"lowell__ma": [
+		{
+			"hotelMarsha": "BOSLL",
+			"propertyName": "Courtyard Boston Lowell/Chelmsford",
+			"city__state": "lowell__ma",
+			"localNumber": "9784587575",
+			"complexNumber": "8664797899",
+			"segmentNumber": "8662692423",
+			"largeGroupNumber": ""
+		}
+	],
+	"danvers__ma": [
+		{
+			"hotelMarsha": "BOSDV",
+			"propertyName": "Courtyard Boston Danvers",
+			"city__state": "danvers__ma",
+			"localNumber": "9787778630",
+			"complexNumber": "8664797459",
+			"segmentNumber": "8669023195",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSTD",
+			"propertyName": "TownePlace Suites Boston North Shore/Danvers",
+			"city__state": "danvers__ma",
+			"localNumber": "9787776222",
+			"complexNumber": "8664479374",
+			"segmentNumber": "8664479340",
+			"largeGroupNumber": ""
+		}
+	],
+	"peabody__ma": [
+		{
+			"hotelMarsha": "BOSPB",
+			"propertyName": "Boston Marriott Peabody",
+			"city__state": "peabody__ma",
+			"localNumber": "9789779700",
+			"complexNumber": "8664479336",
+			"segmentNumber": "8668657379",
+			"largeGroupNumber": ""
+		}
+	],
+	"foxborough__ma": [
+		{
+			"hotelMarsha": "BOSFB",
+			"propertyName": "Courtyard Boston Foxborough/Mansfield",
+			"city__state": "foxborough__ma",
+			"localNumber": "5085435222",
+			"complexNumber": "8664797460",
+			"segmentNumber": "8775327970",
+			"largeGroupNumber": ""
+		}
+	],
+	"norwood__ma": [
+		{
+			"hotelMarsha": "BOSNW",
+			"propertyName": "Courtyard Boston Norwood/Canton",
+			"city__state": "norwood__ma",
+			"localNumber": "7817624700",
+			"complexNumber": "8664464606",
+			"segmentNumber": "8665493521",
+			"largeGroupNumber": ""
+		}
+	],
+	"stoughton__ma": [
+		{
+			"hotelMarsha": "BOSST",
+			"propertyName": "Courtyard Boston Stoughton",
+			"city__state": "stoughton__ma",
+			"localNumber": "7812977000",
+			"complexNumber": "8664479371",
+			"segmentNumber": "8664797457",
+			"largeGroupNumber": ""
+		}
+	],
+	"boston__ma": [
+		{
+			"hotelMarsha": "BOSLW",
+			"propertyName": "Boston Marriott Long Wharf",
+			"city__state": "boston__ma",
+			"localNumber": "6172270800",
+			"complexNumber": "8664797965",
+			"segmentNumber": "8888919637",
+			"largeGroupNumber": "8446446472"
+		},
+		{
+			"hotelMarsha": "BOSWH",
+			"propertyName": "W Boston",
+			"city__state": "boston__ma",
+			"localNumber": "6172618700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSWI",
+			"propertyName": "The Westin Copley Place",
+			"city__state": "boston__ma",
+			"localNumber": "6172629600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSCO",
+			"propertyName": "Boston Marriott Copley Place",
+			"city__state": "boston__ma",
+			"localNumber": "6172365800",
+			"complexNumber": "8664797429",
+			"segmentNumber": "8662768067",
+			"largeGroupNumber": "8774393082"
+		},
+		{
+			"hotelMarsha": "BOSDM",
+			"propertyName": "Courtyard Boston Downtown",
+			"city__state": "boston__ma",
+			"localNumber": "6174261400",
+			"complexNumber": "8664797456",
+			"segmentNumber": "8662768068",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSBO",
+			"propertyName": "Sheraton Boston Hotel",
+			"city__state": "boston__ma",
+			"localNumber": "6172362000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSAL",
+			"propertyName": "Aloft Boston Seaport",
+			"city__state": "boston__ma",
+			"localNumber": "6175301600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSEL",
+			"propertyName": "Element Boston Seaport",
+			"city__state": "boston__ma",
+			"localNumber": "6175301700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSOW",
+			"propertyName": "The Westin Boston Waterfront",
+			"city__state": "boston__ma",
+			"localNumber": "6175324600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BOSWF",
+			"propertyName": "Renaissance Boston Waterfront Hotel",
+			"city__state": "boston__ma",
+			"localNumber": "6173384111",
+			"complexNumber": "8662233602",
+			"segmentNumber": "8669023387",
+			"largeGroupNumber": "8774393084"
+		}
+	],
+	"cambridge__ma": [
+		{
+			"hotelMarsha": "BOSCB",
+			"propertyName": "Boston Marriott Cambridge",
+			"city__state": "cambridge__ma",
+			"localNumber": "6174946600",
+			"complexNumber": "8665493535",
+			"segmentNumber": "8668438977",
+			"largeGroupNumber": "8774399429"
+		},
+		{
+			"hotelMarsha": "BOSCM",
+			"propertyName": "Residence Inn Boston Cambridge",
+			"city__state": "cambridge__ma",
+			"localNumber": "6173490700",
+			"complexNumber": "8664797421",
+			"segmentNumber": "8663237476",
+			"largeGroupNumber": ""
+		}
+	],
+	"qincy__ma": [
+		{
+			"hotelMarsha": "BOSQU",
+			"propertyName": "Boston Marriott Quincy",
+			"city__state": "qincy__ma",
+			"localNumber": "6174721000",
+			"complexNumber": "8664479369",
+			"segmentNumber": "8663237471",
+			"largeGroupNumber": "8774399424"
+		}
+	],
+	"newport__ri": [
+		{
+			"hotelMarsha": "PVDLW",
+			"propertyName": "Newport Marriott",
+			"city__state": "newport__ri",
+			"localNumber": "4018491000",
+			"complexNumber": "8668657229",
+			"segmentNumber": "8665139051",
+			"largeGroupNumber": "8774399416"
+		}
+	],
+	"middletown__ri": [
+		{
+			"hotelMarsha": "PVDMD",
+			"propertyName": "Courtyard Newport Middletown",
+			"city__state": "middletown__ri",
+			"localNumber": "4018498000",
+			"complexNumber": "8668448296",
+			"segmentNumber": "8774399419",
+			"largeGroupNumber": ""
+		}
+	],
+	"windsor__ct": [
+		{
+			"hotelMarsha": "BDLWD",
+			"propertyName": "Courtyard Hartford Windsor",
+			"city__state": "windsor__ct",
+			"localNumber": "8606830022",
+			"complexNumber": "8665493519",
+			"segmentNumber": "8662991097",
+			"largeGroupNumber": ""
+		}
+	],
+	"wallingford__ct": [
+		{
+			"hotelMarsha": "HVNWA",
+			"propertyName": "Courtyard New Haven Wallingford",
+			"city__state": "wallingford__ct",
+			"localNumber": "2032849400",
+			"complexNumber": "8668448252",
+			"segmentNumber": "8772833835",
+			"largeGroupNumber": ""
+		}
+	],
+	"trumbull__ct": [
+		{
+			"hotelMarsha": "BDRCT",
+			"propertyName": "Trumbull Marriott Merritt Parkway",
+			"city__state": "trumbull__ct",
+			"localNumber": "2033781400",
+			"complexNumber": "8662818742",
+			"segmentNumber": "8664797461",
+			"largeGroupNumber": ""
+		}
+	],
+	"danbury__ct": [
+		{
+			"hotelMarsha": "DXRSH",
+			"propertyName": "SpringHill Suites Danbury",
+			"city__state": "danbury__ct",
+			"localNumber": "2037447333",
+			"complexNumber": "8668653975",
+			"segmentNumber": "8772833611",
+			"largeGroupNumber": ""
+		}
+	],
+	"norwalk__ct": [
+		{
+			"hotelMarsha": "HPNNW",
+			"propertyName": "Courtyard Norwalk",
+			"city__state": "norwalk__ct",
+			"localNumber": "2038499111",
+			"complexNumber": "8888914981",
+			"segmentNumber": "8888912302",
+			"largeGroupNumber": ""
+		}
+	],
+	"hoboken__nj": [
+		{
+			"hotelMarsha": "EWRHB",
+			"propertyName": "W Hoboken",
+			"city__state": "hoboken__nj",
+			"localNumber": "2012532400",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"parsippany__nj": [
+		{
+			"hotelMarsha": "EWRPS",
+			"propertyName": "Courtyard Parsippany",
+			"city__state": "parsippany__nj",
+			"localNumber": "9733940303",
+			"complexNumber": "8669023174",
+			"segmentNumber": "8888919644",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "EWRPY",
+			"propertyName": "Residence Inn Parsippany",
+			"city__state": "parsippany__nj",
+			"localNumber": "9739843313",
+			"complexNumber": "8668630461",
+			"segmentNumber": "8888919646",
+			"largeGroupNumber": ""
+		}
+	],
+	"secauscus__nj": [
+		{
+			"hotelMarsha": "EWRSE",
+			"propertyName": "Courtyard Secaucus Meadowlands",
+			"city__state": "secauscus__nj",
+			"localNumber": "2016178888",
+			"complexNumber": "8668663849",
+			"segmentNumber": "8662768072",
+			"largeGroupNumber": ""
+		}
+	],
+	"newark__nj": [
+		{
+			"hotelMarsha": "EWRDT",
+			"propertyName": "Courtyard Newark Downtown",
+			"city__state": "newark__nj",
+			"localNumber": "",
+			"complexNumber": "8883730324",
+			"segmentNumber": "8774393081",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "EWRAP",
+			"propertyName": "Newark Liberty International Airport Marriott",
+			"city__state": "newark__nj",
+			"localNumber": "9736230006",
+			"complexNumber": "8669021278",
+			"segmentNumber": "8775327980",
+			"largeGroupNumber": "8772186537"
+		},
+		{
+			"hotelMarsha": "EWRCA",
+			"propertyName": "Courtyard Newark Liberty International Airport",
+			"city__state": "newark__nj",
+			"localNumber": "9736438500",
+			"complexNumber": "8668961515",
+			"segmentNumber": "8888914773",
+			"largeGroupNumber": ""
+		}
+	],
+	"elizabeth__nj": [
+		{
+			"hotelMarsha": "EWREB",
+			"propertyName": "Residence Inn Newark Elizabeth/Liberty International Airport",
+			"city__state": "elizabeth__nj",
+			"localNumber": "9083524300",
+			"complexNumber": "8668992178",
+			"segmentNumber": "8888914779",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "EWREZ",
+			"propertyName": "Courtyard Newark Elizabeth",
+			"city__state": "elizabeth__nj",
+			"localNumber": "9084369800",
+			"complexNumber": "8668999930",
+			"segmentNumber": "8888914787",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "EWRNR",
+			"propertyName": "Renaissance Newark Airport Hotel",
+			"city__state": "elizabeth__nj",
+			"localNumber": "9084364600",
+			"complexNumber": "8662760374",
+			"segmentNumber": "8775327984",
+			"largeGroupNumber": "8772833717"
+		}
+	],
+	"jersey_city__nj": [
+		{
+			"hotelMarsha": "EWRNW",
+			"propertyName": "Courtyard Jersey City Newport",
+			"city__state": "jersey_city__nj",
+			"localNumber": "2016266600",
+			"complexNumber": "8662654929",
+			"segmentNumber": "8888919641",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "EWRWJ",
+			"propertyName": "The Westin Jersey City Newport",
+			"city__state": "jersey_city__nj",
+			"localNumber": "2016262900",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"mahwah__nj": [
+		{
+			"hotelMarsha": "EWRMW",
+			"propertyName": "Courtyard Mahwah",
+			"city__state": "mahwah__nj",
+			"localNumber": "2015295200",
+			"complexNumber": "8669022814",
+			"segmentNumber": "8888919582",
+			"largeGroupNumber": ""
+		}
+	],
+	"paramus__nj": [
+		{
+			"hotelMarsha": "EWRCP",
+			"propertyName": "Courtyard Paramus",
+			"city__state": "paramus__nj",
+			"localNumber": "2015991414",
+			"complexNumber": "8662762213",
+			"segmentNumber": "8888914775",
+			"largeGroupNumber": ""
+		}
+	],
+	"red_bank__nj": [
+		{
+			"hotelMarsha": "EWRRB",
+			"propertyName": "Courtyard Lincroft Red Bank",
+			"city__state": "red_bank__nj",
+			"localNumber": "7325305552",
+			"complexNumber": "8668638482",
+			"segmentNumber": "8662768071",
+			"largeGroupNumber": ""
+		}
+	],
+	"tinton_falls__nj": [
+		{
+			"hotelMarsha": "EWRTC",
+			"propertyName": "Courtyard Tinton Falls Eatontown",
+			"city__state": "tinton_falls__nj",
+			"localNumber": "7323892100",
+			"complexNumber": "8668639070",
+			"segmentNumber": "8669012011",
+			"largeGroupNumber": ""
+		}
+	],
+	"basking_ridge__nj": [
+		{
+			"hotelMarsha": "SOSSM",
+			"propertyName": "Courtyard Basking Ridge",
+			"city__state": "basking_ridge__nj",
+			"localNumber": "9085420300",
+			"complexNumber": "8662565878",
+			"segmentNumber": "8665493527",
+			"largeGroupNumber": ""
+		}
+	],
+	"whippany__nj": [
+		{
+			"hotelMarsha": "EWRNJ",
+			"propertyName": "Courtyard Hanover Whippany",
+			"city__state": "whippany__nj",
+			"localNumber": "9738878700",
+			"complexNumber": "8669022815",
+			"segmentNumber": "8888919592",
+			"largeGroupNumber": ""
+		}
+	],
+	"cranbury__nj": [
+		{
+			"hotelMarsha": "TTNRI",
+			"propertyName": "Residence Inn Cranbury South Brunswick",
+			"city__state": "cranbury__nj",
+			"localNumber": "6093959447",
+			"complexNumber": "8667661529",
+			"segmentNumber": "8888919134",
+			"largeGroupNumber": ""
+		}
+	],
+	"princeton__nj": [
+		{
+			"hotelMarsha": "TTNDF",
+			"propertyName": "Princeton Marriott at Forrestal",
+			"city__state": "princeton__nj",
+			"localNumber": "6094527800",
+			"complexNumber": "8662768070",
+			"segmentNumber": "8668638484",
+			"largeGroupNumber": "8772834118"
+		}
+	],
+	"bridgewater__nj": [
+		{
+			"hotelMarsha": "SOSBW",
+			"propertyName": "Bridgewater Marriott",
+			"city__state": "bridgewater__nj",
+			"localNumber": "9089279300",
+			"complexNumber": "8668647270",
+			"segmentNumber": "8662768069",
+			"largeGroupNumber": ""
+		}
+	],
+	"lebanon__nj": [
+		{
+			"hotelMarsha": "SOSLB",
+			"propertyName": "Courtyard Lebanon",
+			"city__state": "lebanon__nj",
+			"localNumber": "9082368500",
+			"complexNumber": "8668662725",
+			"segmentNumber": "8665493518",
+			"largeGroupNumber": ""
+		}
+	],
+	"somerset__nj": [
+		{
+			"hotelMarsha": "SOSFT",
+			"propertyName": "Residence Inn Somerset",
+			"city__state": "somerset__nj",
+			"localNumber": "7326270881",
+			"complexNumber": "8667661530",
+			"segmentNumber": "8669022816",
+			"largeGroupNumber": ""
+		}
+	],
+	"new_york__ny": [
+		{
+			"hotelMarsha": "NYCCE",
+			"propertyName": "Courtyard New York Manhattan/Chelsea",
+			"city__state": "new_york__ny",
+			"localNumber": "2129676000",
+			"complexNumber": "8772834018",
+			"segmentNumber": "8774399418",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCMS",
+			"propertyName": "Courtyard New York Manhattan/Herald Square",
+			"city__state": "new_york__ny",
+			"localNumber": "2122394569",
+			"complexNumber": "8883730317",
+			"segmentNumber": "8774399422",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCWD",
+			"propertyName": "W New York - Downtown",
+			"city__state": "new_york__ny",
+			"localNumber": "6468268600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCWS",
+			"propertyName": "New York Marriott Downtown",
+			"city__state": "new_york__ny",
+			"localNumber": "2123854900",
+			"complexNumber": "8663261850",
+			"segmentNumber": "8662992676",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCMT",
+			"propertyName": "Courtyard New York Manhattan/SoHo",
+			"city__state": "new_york__ny",
+			"localNumber": "",
+			"complexNumber": "8888919645",
+			"segmentNumber": "8888914295",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCES",
+			"propertyName": "Courtyard New York Manhattan/Fifth Avenue",
+			"city__state": "new_york__ny",
+			"localNumber": "2124471500",
+			"complexNumber": "8663087150",
+			"segmentNumber": "8888912504",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCEA",
+			"propertyName": "New York Marriott East Side",
+			"city__state": "new_york__ny",
+			"localNumber": "2127554000",
+			"complexNumber": "8663079650",
+			"segmentNumber": "8668658354",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCZW",
+			"propertyName": "The Westin New York Grand Central",
+			"city__state": "new_york__ny",
+			"localNumber": "2124908900",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCSM",
+			"propertyName": "SpringHill Suites New York Midtown Manhattan/Fifth Avenue",
+			"city__state": "new_york__ny",
+			"localNumber": "2123912255",
+			"complexNumber": "8883730315",
+			"segmentNumber": "8774393085",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCEX",
+			"propertyName": "JW Marriott Essex House New York",
+			"city__state": "new_york__ny",
+			"localNumber": "2122470300",
+			"complexNumber": "8883730319",
+			"segmentNumber": "8663173843",
+			"largeGroupNumber": "8775327974"
+		},
+		{
+			"hotelMarsha": "NYCST",
+			"propertyName": "Sheraton New York Times Square Hotel",
+			"city__state": "new_york__ny",
+			"localNumber": "2125811000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCME",
+			"propertyName": "Courtyard New York Manhattan/Midtown East",
+			"city__state": "new_york__ny",
+			"localNumber": "2126441300",
+			"complexNumber": "8663178777",
+			"segmentNumber": "8888913465",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCMQ",
+			"propertyName": "New York Marriott Marquis",
+			"city__state": "new_york__ny",
+			"localNumber": "2123981900",
+			"complexNumber": "8664796425",
+			"segmentNumber": "8888919643",
+			"largeGroupNumber": "8774399423"
+		},
+		{
+			"hotelMarsha": "NYCRT",
+			"propertyName": "Renaissance New York Times Square Hotel",
+			"city__state": "new_york__ny",
+			"localNumber": "2127657676",
+			"complexNumber": "8663230591",
+			"segmentNumber": "8888919650",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCSW",
+			"propertyName": "The Westin New York at Times Square",
+			"city__state": "new_york__ny",
+			"localNumber": "2122012700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCWH",
+			"propertyName": "W New York - Times Square",
+			"city__state": "new_york__ny",
+			"localNumber": "2129307400",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	" Autograph Collection\"": [
+		{
+			"hotelMarsha": "NYCAK",
+			"propertyName": "\"The Algonquin Hotel Times Square",
+			"city__state": " Autograph Collection\"",
+			"localNumber": "new_york__ny",
+			"complexNumber": "2128406800",
+			"segmentNumber": "8446446471",
+			"largeGroupNumber": "8446446471",
+			"undefined": ""
+		},
+		{
+			"hotelMarsha": "WASAK",
+			"propertyName": "\"The Mayflower Hotel",
+			"city__state": " Autograph Collection\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "2023473000",
+			"segmentNumber": "8007989197",
+			"largeGroupNumber": "8446432191",
+			"undefined": "8778925318"
+		},
+		{
+			"hotelMarsha": "NPBAK",
+			"propertyName": "\"Lido House",
+			"city__state": " Autograph Collection\"",
+			"localNumber": "newport_beach__ca",
+			"complexNumber": "9495248500",
+			"segmentNumber": "8446446434",
+			"largeGroupNumber": "8446446436",
+			"undefined": ""
+		}
+	],
+	"rye__ny": [
+		{
+			"hotelMarsha": "HPNRY",
+			"propertyName": "Courtyard Rye",
+			"city__state": "rye__ny",
+			"localNumber": "9149211110",
+			"complexNumber": "8662981470",
+			"segmentNumber": "8888913303",
+			"largeGroupNumber": ""
+		}
+	],
+	"tarrytown__ny": [
+		{
+			"hotelMarsha": "HPNGR",
+			"propertyName": "Courtyard Tarrytown Greenburgh",
+			"city__state": "tarrytown__ny",
+			"localNumber": "9146311122",
+			"complexNumber": "8662726264",
+			"segmentNumber": "8888919230",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "NYCWE",
+			"propertyName": "Westchester Marriott",
+			"city__state": "tarrytown__ny",
+			"localNumber": "9146312200",
+			"complexNumber": "8663239759",
+			"segmentNumber": "8888913653",
+			"largeGroupNumber": ""
+		}
+	],
+	"brooklyn__ny": [
+		{
+			"hotelMarsha": "NYCBK",
+			"propertyName": "New York Marriott at the Brooklyn Bridge",
+			"city__state": "brooklyn__ny",
+			"localNumber": "7182467000",
+			"complexNumber": "8663079071",
+			"segmentNumber": "8668658220",
+			"largeGroupNumber": "8774393079"
+		}
+	],
+	"uniondale__ny": [
+		{
+			"hotelMarsha": "NYCLI",
+			"propertyName": "Long Island Marriott",
+			"city__state": "uniondale__ny",
+			"localNumber": "5167943800",
+			"complexNumber": "8663089231",
+			"segmentNumber": "8668658486",
+			"largeGroupNumber": ""
+		}
+	],
+	"hauppauge__ny": [
+		{
+			"hotelMarsha": "ISPRI",
+			"propertyName": "Residence Inn Long Island Hauppauge/Islandia",
+			"city__state": "hauppauge__ny",
+			"localNumber": "6317244188",
+			"complexNumber": "8888914983",
+			"segmentNumber": "8888913522",
+			"largeGroupNumber": ""
+		}
+	],
+	"fishkill__ny": [
+		{
+			"hotelMarsha": "FHKNY",
+			"propertyName": "Courtyard Fishkill",
+			"city__state": "fishkill__ny",
+			"localNumber": "8458972400",
+			"complexNumber": "8662703941",
+			"segmentNumber": "8888919220",
+			"largeGroupNumber": ""
+		}
+	],
+	"poughkeepsie__ny": [
+		{
+			"hotelMarsha": "POUCH",
+			"propertyName": "Courtyard Poughkeepsie",
+			"city__state": "poughkeepsie__ny",
+			"localNumber": "8454856336",
+			"complexNumber": "8663524689",
+			"segmentNumber": "8888914423",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "POURI",
+			"propertyName": "Residence Inn Poughkeepsie",
+			"city__state": "poughkeepsie__ny",
+			"localNumber": "8454634343",
+			"complexNumber": "8663533153",
+			"segmentNumber": "8888914513",
+			"largeGroupNumber": ""
+		}
+	],
+	"dewitt__ny": [
+		{
+			"hotelMarsha": "SYRSH",
+			"propertyName": "SpringHill Suites Syracuse Carrier Circle",
+			"city__state": "dewitt__ny",
+			"localNumber": "3154370056",
+			"complexNumber": "8888914008",
+			"segmentNumber": "8888914562",
+			"largeGroupNumber": ""
+		}
+	],
+	"east_syracuse__ny": [
+		{
+			"hotelMarsha": "SYRCA",
+			"propertyName": "Courtyard Syracuse Carrier Circle",
+			"city__state": "east_syracuse__ny",
+			"localNumber": "3154320300",
+			"complexNumber": "8888913899",
+			"segmentNumber": "8888914514",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SYRFE",
+			"propertyName": "Fairfield Inn & Suites Syracuse Carrier Circle",
+			"city__state": "east_syracuse__ny",
+			"localNumber": "3154332777",
+			"complexNumber": "8772186533",
+			"segmentNumber": "8772186535",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SYRRI",
+			"propertyName": "Residence Inn Syracuse Carrier Circle",
+			"city__state": "east_syracuse__ny",
+			"localNumber": "3154324488",
+			"complexNumber": "8888913997",
+			"segmentNumber": "8888914516",
+			"largeGroupNumber": ""
+		}
+	],
+	"coraopolis__pa": [
+		{
+			"hotelMarsha": "PITCA",
+			"propertyName": "Courtyard Pittsburgh Airport",
+			"city__state": "coraopolis__pa",
+			"localNumber": "4122645000",
+			"complexNumber": "8665139533",
+			"segmentNumber": "8888918819",
+			"largeGroupNumber": ""
+		}
+	],
+	" Pittsburgh\"": [
+		{
+			"hotelMarsha": "PITWI",
+			"propertyName": "\"The Westin Convention Center",
+			"city__state": " Pittsburgh\"",
+			"localNumber": "pittsburgh__pa",
+			"complexNumber": "4122813700",
+			"segmentNumber": "",
+			"largeGroupNumber": "",
+			"undefined": ""
+		}
+	],
+	"bethlehem__pa": [
+		{
+			"hotelMarsha": "ABECY",
+			"propertyName": "Courtyard Allentown Bethlehem/Lehigh Valley Airport",
+			"city__state": "bethlehem__pa",
+			"localNumber": "6103176200",
+			"complexNumber": "8663237332",
+			"segmentNumber": "8663226966",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ABERI",
+			"propertyName": "Residence Inn Allentown Bethlehem/Lehigh Valley Airport",
+			"city__state": "bethlehem__pa",
+			"localNumber": "6103172662",
+			"complexNumber": "8663237369",
+			"segmentNumber": "8888914982",
+			"largeGroupNumber": ""
+		}
+	],
+	"horsham__pa": [
+		{
+			"hotelMarsha": "PHLRW",
+			"propertyName": "Residence Inn Philadelphia Willow Grove",
+			"city__state": "horsham__pa",
+			"localNumber": "2154437330",
+			"complexNumber": "8669023198",
+			"segmentNumber": "8888919039",
+			"largeGroupNumber": ""
+		}
+	],
+	"devon__pa": [
+		{
+			"hotelMarsha": "PHLDV",
+			"propertyName": "Courtyard Philadelphia Devon",
+			"city__state": "devon__pa",
+			"localNumber": "6106876633",
+			"complexNumber": "8669023194",
+			"segmentNumber": "8888914049",
+			"largeGroupNumber": ""
+		}
+	],
+	"wayne__pa": [
+		{
+			"hotelMarsha": "PHLVA",
+			"propertyName": "Courtyard Philadelphia Valley Forge/King of Prussia",
+			"city__state": "wayne__pa",
+			"localNumber": "6106876700",
+			"complexNumber": "8669024497",
+			"segmentNumber": "8888919138",
+			"largeGroupNumber": ""
+		}
+	],
+	"willow_grove__pa": [
+		{
+			"hotelMarsha": "PHLWG",
+			"propertyName": "Courtyard Philadelphia Willow Grove",
+			"city__state": "willow_grove__pa",
+			"localNumber": "2158300550",
+			"complexNumber": "8665139173",
+			"segmentNumber": "8888919221",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHLWL",
+			"propertyName": "SpringHill Suites Philadelphia Willow Grove",
+			"city__state": "willow_grove__pa",
+			"localNumber": "2156577800",
+			"complexNumber": "8665139532",
+			"segmentNumber": "8888918805",
+			"largeGroupNumber": ""
+		}
+	],
+	"philadelphia__pa": [
+		{
+			"hotelMarsha": "PHLDC",
+			"propertyName": "Courtyard Philadelphia Downtown",
+			"city__state": "philadelphia__pa",
+			"localNumber": "2154963200",
+			"complexNumber": "8669023192",
+			"segmentNumber": "8668999978",
+			"largeGroupNumber": "8774399417"
+		},
+		{
+			"hotelMarsha": "PHLDT",
+			"propertyName": "Philadelphia Marriott Downtown",
+			"city__state": "philadelphia__pa",
+			"localNumber": "2156252900",
+			"complexNumber": "8669023193",
+			"segmentNumber": "8669017491",
+			"largeGroupNumber": "8772186536"
+		},
+		{
+			"hotelMarsha": "PHLRI",
+			"propertyName": "Residence Inn Philadelphia Center City",
+			"city__state": "philadelphia__pa",
+			"localNumber": "2155570005",
+			"complexNumber": "8669023197",
+			"segmentNumber": "8888918818",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHLCS",
+			"propertyName": "Courtyard Philadelphia South at The Navy Yard",
+			"city__state": "philadelphia__pa",
+			"localNumber": "2156449200",
+			"complexNumber": "8772833680",
+			"segmentNumber": "8772834120",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHLAR",
+			"propertyName": "Philadelphia Airport Marriott",
+			"city__state": "philadelphia__pa",
+			"localNumber": "2154929000",
+			"complexNumber": "8663237477",
+			"segmentNumber": "8888919589",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHLAT",
+			"propertyName": "Courtyard Philadelphia Airport",
+			"city__state": "philadelphia__pa",
+			"localNumber": "2153652200",
+			"complexNumber": "8663237479",
+			"segmentNumber": "8888913990",
+			"largeGroupNumber": ""
+		}
+	],
+	"berwyn__pa": [
+		{
+			"hotelMarsha": "PHLBW",
+			"propertyName": "Residence Inn Philadelphia Valley Forge",
+			"city__state": "berwyn__pa",
+			"localNumber": "6106409494",
+			"complexNumber": "8663237480",
+			"segmentNumber": "8888914002",
+			"largeGroupNumber": ""
+		}
+	],
+	"west_conshohocken__pa": [
+		{
+			"hotelMarsha": "PHLWE",
+			"propertyName": "Philadelphia Marriott West",
+			"city__state": "west_conshohocken__pa",
+			"localNumber": "6109415600",
+			"complexNumber": "8665139172",
+			"segmentNumber": "8664463108",
+			"largeGroupNumber": ""
+		}
+	],
+	"kulpsville__pa": [
+		{
+			"hotelMarsha": "PHLLD",
+			"propertyName": "Courtyard Philadelphia Lansdale",
+			"city__state": "kulpsville__pa",
+			"localNumber": "2154128686",
+			"complexNumber": "8775327968",
+			"segmentNumber": "8668448287",
+			"largeGroupNumber": ""
+		}
+	],
+	"plymouth_meeting__pa": [
+		{
+			"hotelMarsha": "PHLCY",
+			"propertyName": "Courtyard Philadelphia Plymouth Meeting",
+			"city__state": "plymouth_meeting__pa",
+			"localNumber": "6102380695",
+			"complexNumber": "8669023191",
+			"segmentNumber": "8888914010",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHLPY",
+			"propertyName": "SpringHill Suites Philadelphia Plymouth Meeting",
+			"city__state": "plymouth_meeting__pa",
+			"localNumber": "6109400400",
+			"complexNumber": "8669023196",
+			"segmentNumber": "8888918801",
+			"largeGroupNumber": ""
+		}
+	],
+	"newark__de": [
+		{
+			"hotelMarsha": "ILGWC",
+			"propertyName": "Courtyard Wilmington Newark/Christiana Mall",
+			"city__state": "newark__de",
+			"localNumber": "3024563800",
+			"complexNumber": "8663237472",
+			"segmentNumber": "8888914050",
+			"largeGroupNumber": ""
+		}
+	],
+	"wilmington__de": [
+		{
+			"hotelMarsha": "ILGCY",
+			"propertyName": "Courtyard Wilmington Downtown",
+			"city__state": "wilmington__de",
+			"localNumber": "3024297600",
+			"complexNumber": "8663237425",
+			"segmentNumber": "8888914046",
+			"largeGroupNumber": ""
+		}
+	],
+	" DC\"": [
+		{
+			"hotelMarsha": "WASCO",
+			"propertyName": "\"Marriott Marquis Washington",
+			"city__state": " DC\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "",
+			"segmentNumber": "8668875128",
+			"largeGroupNumber": "8446432194",
+			"undefined": "8662287712"
+		},
+		{
+			"hotelMarsha": "WASJW",
+			"propertyName": "\"JW Marriott Washington",
+			"city__state": " DC\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "2023932000",
+			"segmentNumber": "8663985203",
+			"largeGroupNumber": "8446456255",
+			"undefined": "8775477457"
+		}
+	],
+	" DC Downtown Hotel\"": [
+		{
+			"hotelMarsha": "WASRB",
+			"propertyName": "\"Renaissance Washington",
+			"city__state": " DC Downtown Hotel\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "2028989000",
+			"segmentNumber": "8663989027",
+			"largeGroupNumber": "8446456287",
+			"undefined": "8775477471"
+		}
+	],
+	" DC/U.S. Capitol\"": [
+		{
+			"hotelMarsha": "WASUS",
+			"propertyName": "\"Courtyard Washington",
+			"city__state": " DC/U.S. Capitol\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "8004408027",
+			"segmentNumber": "8663930140",
+			"largeGroupNumber": "8778962823",
+			"undefined": ""
+		}
+	],
+	"washington__dc": [
+		{
+			"hotelMarsha": "WASWH",
+			"propertyName": "W Washington D.C.",
+			"city__state": "washington__dc",
+			"localNumber": "2026612400",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASMC",
+			"propertyName": "Washington Marriott at Metro Center",
+			"city__state": "washington__dc",
+			"localNumber": "2027372200",
+			"complexNumber": "8663985207",
+			"segmentNumber": "8446432189",
+			"largeGroupNumber": "8778925315"
+		},
+		{
+			"hotelMarsha": "WASDT",
+			"propertyName": "Washington Marriott Wardman Park",
+			"city__state": "washington__dc",
+			"localNumber": "2023282000",
+			"complexNumber": "8664813302",
+			"segmentNumber": "8446432195",
+			"largeGroupNumber": "8775477417"
+		},
+		{
+			"hotelMarsha": "WASWE",
+			"propertyName": "Washington Marriott Georgetown",
+			"city__state": "washington__dc",
+			"localNumber": "2028721500",
+			"complexNumber": "8669021270",
+			"segmentNumber": "8446432192",
+			"largeGroupNumber": "8778925319"
+		}
+	],
+	" DC Downtown\"": [
+		{
+			"hotelMarsha": "WASDC",
+			"propertyName": "\"Residence Inn Washington",
+			"city__state": " DC Downtown\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "2028981100",
+			"segmentNumber": "8664813299",
+			"largeGroupNumber": "8665884125",
+			"undefined": ""
+		}
+	],
+	" Washington D.C.\"": [
+		{
+			"hotelMarsha": "WASTW",
+			"propertyName": "\"The Westin Georgetown",
+			"city__state": " Washington D.C.\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "2024290100",
+			"segmentNumber": "",
+			"largeGroupNumber": "",
+			"undefined": ""
+		}
+	],
+	" DC/Foggy Bottom\"": [
+		{
+			"hotelMarsha": "WASFB",
+			"propertyName": "\"Courtyard Washington",
+			"city__state": " DC/Foggy Bottom\"",
+			"localNumber": "washington__dc",
+			"complexNumber": "",
+			"segmentNumber": "8007980153",
+			"largeGroupNumber": "8669214474",
+			"undefined": ""
+		}
+	],
+	"centreville__va": [
+		{
+			"hotelMarsha": "WASCV",
+			"propertyName": "SpringHill Suites Centreville Chantilly",
+			"city__state": "centreville__va",
+			"localNumber": "7038157800",
+			"complexNumber": "8668831922",
+			"segmentNumber": "8447449482",
+			"largeGroupNumber": ""
+		}
+	],
+	"chantilly__va": [
+		{
+			"hotelMarsha": "IADCA",
+			"propertyName": "Courtyard Dulles Airport Chantilly",
+			"city__state": "chantilly__va",
+			"localNumber": "7037097100",
+			"complexNumber": "8664878410",
+			"segmentNumber": "8446809167",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADFX",
+			"propertyName": "Residence Inn Chantilly Dulles South",
+			"city__state": "chantilly__va",
+			"localNumber": "7032637900",
+			"complexNumber": "8665425541",
+			"segmentNumber": "8446809172",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADTS",
+			"propertyName": "TownePlace Suites Chantilly Dulles South",
+			"city__state": "chantilly__va",
+			"localNumber": "7037090453",
+			"complexNumber": "8007988092",
+			"segmentNumber": "8447449479",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADWF",
+			"propertyName": "Westfields Marriott Washington Dulles",
+			"city__state": "chantilly__va",
+			"localNumber": "7038180300",
+			"complexNumber": "8665425594",
+			"segmentNumber": "8447449486",
+			"largeGroupNumber": "8778962844"
+		}
+	],
+	"dulles__va": [
+		{
+			"hotelMarsha": "IADAP",
+			"propertyName": "Washington Dulles Airport Marriott",
+			"city__state": "dulles__va",
+			"localNumber": "7034719500",
+			"complexNumber": "8664878408",
+			"segmentNumber": "8447449485",
+			"largeGroupNumber": "8778962816"
+		},
+		{
+			"hotelMarsha": "IADFI",
+			"propertyName": "Fairfield Inn & Suites Dulles Airport",
+			"city__state": "dulles__va",
+			"localNumber": "7034355300",
+			"complexNumber": "8664878704",
+			"segmentNumber": "8446809169",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADRI",
+			"propertyName": "Residence Inn Dulles Airport at Dulles 28 Centre",
+			"city__state": "dulles__va",
+			"localNumber": "7034212000",
+			"complexNumber": "8665425589",
+			"segmentNumber": "8446809174",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADTC",
+			"propertyName": "Courtyard Dulles Town Center",
+			"city__state": "dulles__va",
+			"localNumber": "5714346400",
+			"complexNumber": "8665425593",
+			"segmentNumber": "8447449478",
+			"largeGroupNumber": ""
+		}
+	],
+	"herndon__va": [
+		{
+			"hotelMarsha": "IADHC",
+			"propertyName": "Courtyard Herndon Reston",
+			"city__state": "herndon__va",
+			"localNumber": "7034789400",
+			"complexNumber": "8665425582",
+			"segmentNumber": "8446809173",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADSH",
+			"propertyName": "SpringHill Suites Herndon Reston",
+			"city__state": "herndon__va",
+			"localNumber": "7034353100",
+			"complexNumber": "8665425590",
+			"segmentNumber": "8447449457",
+			"largeGroupNumber": ""
+		}
+	],
+	"annapolis_junction__md": [
+		{
+			"hotelMarsha": "BWIFM",
+			"propertyName": "Courtyard Fort Meade BWI Business District",
+			"city__state": "annapolis_junction__md",
+			"localNumber": "3014988400",
+			"complexNumber": "8663931001",
+			"segmentNumber": "8446456558",
+			"largeGroupNumber": ""
+		}
+	],
+	"national_harbor__md": [
+		{
+			"hotelMarsha": "WASGN",
+			"propertyName": "Gaylord National Resort & Convention Center",
+			"city__state": "national_harbor__md",
+			"localNumber": "3019654000",
+			"complexNumber": "8668831466",
+			"segmentNumber": "",
+			"largeGroupNumber": "8664878406"
+		}
+	],
+	" DC Area\"": [
+		{
+			"hotelMarsha": "WASNH",
+			"propertyName": "\"Residence Inn National Harbor Washington",
+			"city__state": " DC Area\"",
+			"localNumber": "national_harbor__md",
+			"complexNumber": "3017494755",
+			"segmentNumber": "8668864445",
+			"largeGroupNumber": "8446525211",
+			"undefined": ""
+		},
+		{
+			"hotelMarsha": "WASWA",
+			"propertyName": "\"AC Hotel National Harbor Washington",
+			"city__state": " DC Area\"",
+			"localNumber": "national_harbor__md",
+			"complexNumber": "4433212500",
+			"segmentNumber": "8663930998",
+			"largeGroupNumber": "8448456582",
+			"undefined": ""
+		}
+	],
+	"greenbelt__md": [
+		{
+			"hotelMarsha": "WASGB",
+			"propertyName": "Greenbelt Marriott",
+			"city__state": "greenbelt__md",
+			"localNumber": "3014413700",
+			"complexNumber": "8664813307",
+			"segmentNumber": "8446779747",
+			"largeGroupNumber": "8778925349"
+		},
+		{
+			"hotelMarsha": "WASGR",
+			"propertyName": "Courtyard Greenbelt",
+			"city__state": "greenbelt__md",
+			"localNumber": "3014413311",
+			"complexNumber": "8664813308",
+			"segmentNumber": "8446525207",
+			"largeGroupNumber": ""
+		}
+	],
+	"adelphi__md": [
+		{
+			"hotelMarsha": "WASUM",
+			"propertyName": "College Park Marriott Hotel & Conference Center",
+			"city__state": "adelphi__md",
+			"localNumber": "3019857300",
+			"complexNumber": "8669021269",
+			"segmentNumber": "8446779749",
+			"largeGroupNumber": "8778962801"
+		}
+	],
+	"landover__md": [
+		{
+			"hotelMarsha": "WASLD",
+			"propertyName": "Courtyard New Carrollton Landover",
+			"city__state": "landover__md",
+			"localNumber": "3015773373",
+			"complexNumber": "8663985205",
+			"segmentNumber": "8446525209",
+			"largeGroupNumber": ""
+		}
+	],
+	"bethesda__md": [
+		{
+			"hotelMarsha": "WASBR",
+			"propertyName": "Residence Inn Bethesda Downtown",
+			"city__state": "bethesda__md",
+			"localNumber": "3017180200",
+			"complexNumber": "8668823623",
+			"segmentNumber": "8446525079",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASBT",
+			"propertyName": "Bethesda Marriott",
+			"city__state": "bethesda__md",
+			"localNumber": "3018979400",
+			"complexNumber": "8668826591",
+			"segmentNumber": "8446779746",
+			"largeGroupNumber": "8778925321"
+		},
+		{
+			"hotelMarsha": "WASSB",
+			"propertyName": "Bethesda Marriott Suites",
+			"city__state": "bethesda__md",
+			"localNumber": "3018975600",
+			"complexNumber": "8668768024",
+			"segmentNumber": "8446779748",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASBN",
+			"propertyName": "Bethesda North Marriott Hotel & Conference Center",
+			"city__state": "bethesda__md",
+			"localNumber": "3018229200",
+			"complexNumber": "8668822093",
+			"segmentNumber": "8446779745",
+			"largeGroupNumber": "8778925320"
+		}
+	],
+	"rockville__md": [
+		{
+			"hotelMarsha": "WASRV",
+			"propertyName": "Courtyard Rockville",
+			"city__state": "rockville__md",
+			"localNumber": "3016706700",
+			"complexNumber": "8668761017",
+			"segmentNumber": "8446525212",
+			"largeGroupNumber": ""
+		}
+	],
+	"gaithersburg__md": [
+		{
+			"hotelMarsha": "WASCG",
+			"propertyName": "Courtyard Gaithersburg Washingtonian Center",
+			"city__state": "gaithersburg__md",
+			"localNumber": "3015279000",
+			"complexNumber": "8668830943",
+			"segmentNumber": "8446525084",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASGT",
+			"propertyName": "SpringHill Suites Gaithersburg",
+			"city__state": "gaithersburg__md",
+			"localNumber": "3019870900",
+			"complexNumber": "8664813309",
+			"segmentNumber": "8446525208",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASWG",
+			"propertyName": "Gaithersburg Marriott Washingtonian Center",
+			"city__state": "gaithersburg__md",
+			"localNumber": "3015900044",
+			"complexNumber": "8669021273",
+			"segmentNumber": "8446779750",
+			"largeGroupNumber": "8778962811"
+		}
+	],
+	"silver_spring__md": [
+		{
+			"hotelMarsha": "WASLV",
+			"propertyName": "Residence Inn Silver Spring",
+			"city__state": "silver_spring__md",
+			"localNumber": "3015722322",
+			"complexNumber": "8663985206",
+			"segmentNumber": "8446525210",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASSS",
+			"propertyName": "Courtyard Silver Spring North",
+			"city__state": "silver_spring__md",
+			"localNumber": "3016808500",
+			"complexNumber": "8668768784",
+			"segmentNumber": "8446525213",
+			"largeGroupNumber": ""
+		}
+	],
+	"hunt_valley__md": [
+		{
+			"hotelMarsha": "BWIHU",
+			"propertyName": "Courtyard Baltimore Hunt Valley",
+			"city__state": "hunt_valley__md",
+			"localNumber": "4105847070",
+			"complexNumber": "8662661731",
+			"segmentNumber": "8446456559",
+			"largeGroupNumber": ""
+		}
+	],
+	"ellicott_city__md": [
+		{
+			"hotelMarsha": "BWICB",
+			"propertyName": "Residence Inn Columbia",
+			"city__state": "ellicott_city__md",
+			"localNumber": "4109977200",
+			"complexNumber": "8662464133",
+			"segmentNumber": "8446456556",
+			"largeGroupNumber": ""
+		}
+	],
+	"columbia__md": [
+		{
+			"hotelMarsha": "BWICL",
+			"propertyName": "Courtyard Columbia",
+			"city__state": "columbia__md",
+			"localNumber": "4102900002",
+			"complexNumber": "8662465495",
+			"segmentNumber": "8446456557",
+			"largeGroupNumber": ""
+		}
+	],
+	"linthicum__md": [
+		{
+			"hotelMarsha": "BWICA",
+			"propertyName": "Courtyard Baltimore BWI Airport",
+			"city__state": "linthicum__md",
+			"localNumber": "4108598855",
+			"complexNumber": "8662458880",
+			"segmentNumber": "8446456555",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BWIRI",
+			"propertyName": "Residence Inn Baltimore BWI Airport",
+			"city__state": "linthicum__md",
+			"localNumber": "4106910255",
+			"complexNumber": "8662666041",
+			"segmentNumber": "8446456562",
+			"largeGroupNumber": ""
+		}
+	],
+	"baltimore__md": [
+		{
+			"hotelMarsha": "BWIIH",
+			"propertyName": "Baltimore Marriott Inner Harbor at Camden Yards",
+			"city__state": "baltimore__md",
+			"localNumber": "4109620202",
+			"complexNumber": "8662662740",
+			"segmentNumber": "8665425585",
+			"largeGroupNumber": "8669210004"
+		},
+		{
+			"hotelMarsha": "BWIIS",
+			"propertyName": "Sheraton Inner Harbor Hotel",
+			"city__state": "baltimore__md",
+			"localNumber": "4109628300",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BWISH",
+			"propertyName": "Renaissance Baltimore Harborplace Hotel",
+			"city__state": "baltimore__md",
+			"localNumber": "4105471200",
+			"complexNumber": "8662671684",
+			"segmentNumber": "8665137373",
+			"largeGroupNumber": "8664069352"
+		},
+		{
+			"hotelMarsha": "BWIWF",
+			"propertyName": "Baltimore Marriott Waterfront",
+			"city__state": "baltimore__md",
+			"localNumber": "4103853000",
+			"complexNumber": "8662671685",
+			"segmentNumber": "8663931002",
+			"largeGroupNumber": "8664069353"
+		},
+		{
+			"hotelMarsha": "BWIAP",
+			"propertyName": "BWI Airport Marriott",
+			"city__state": "baltimore__md",
+			"localNumber": "4108598300",
+			"complexNumber": "8662454797",
+			"segmentNumber": "8665884116",
+			"largeGroupNumber": "8664069532"
+		}
+	],
+	"towson__md": [
+		{
+			"hotelMarsha": "BWIBU",
+			"propertyName": "Towson University Marriott Conference Hotel",
+			"city__state": "towson__md",
+			"localNumber": "4103248100",
+			"complexNumber": "8662458047",
+			"segmentNumber": "8664878702",
+			"largeGroupNumber": ""
+		}
+	],
+	"annapolis__md": [
+		{
+			"hotelMarsha": "BWIAN",
+			"propertyName": "Courtyard Annapolis",
+			"city__state": "annapolis__md",
+			"localNumber": "4102661555",
+			"complexNumber": "8662454605",
+			"segmentNumber": "8446456554",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BWIRA",
+			"propertyName": "Residence Inn Annapolis",
+			"city__state": "annapolis__md",
+			"localNumber": "4105730300",
+			"complexNumber": "8662664020",
+			"segmentNumber": "8446456560",
+			"largeGroupNumber": ""
+		}
+	],
+	"fairfax__va": [
+		{
+			"hotelMarsha": "IADFO",
+			"propertyName": "Courtyard Fairfax Fair Oaks",
+			"city__state": "fairfax__va",
+			"localNumber": "7032736161",
+			"complexNumber": "8665425540",
+			"segmentNumber": "8446809171",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADRF",
+			"propertyName": "Residence Inn Fairfax City",
+			"city__state": "fairfax__va",
+			"localNumber": "",
+			"complexNumber": "8665137602",
+			"segmentNumber": "8663989025",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "IADFL",
+			"propertyName": "Residence Inn Fair Lakes Fairfax",
+			"city__state": "fairfax__va",
+			"localNumber": "7032664900",
+			"complexNumber": "8665425535",
+			"segmentNumber": "8446809170",
+			"largeGroupNumber": ""
+		}
+	],
+	"falls_church__va": [
+		{
+			"hotelMarsha": "IADXM",
+			"propertyName": "Residence Inn Fairfax Merrifield",
+			"city__state": "falls_church__va",
+			"localNumber": "7035735200",
+			"complexNumber": "8663661150",
+			"segmentNumber": "8447449480",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASFP",
+			"propertyName": "Falls Church Marriott Fairview Park",
+			"city__state": "falls_church__va",
+			"localNumber": "7038499400",
+			"complexNumber": "8664813305",
+			"segmentNumber": "8448237332",
+			"largeGroupNumber": "8778962846"
+		},
+		{
+			"hotelMarsha": "WASTS",
+			"propertyName": "TownePlace Suites Falls Church",
+			"city__state": "falls_church__va",
+			"localNumber": "7032376172",
+			"complexNumber": "8007988552",
+			"segmentNumber": "8447449483",
+			"largeGroupNumber": ""
+		}
+	],
+	"vienna__va": [
+		{
+			"hotelMarsha": "IADCY",
+			"propertyName": "Courtyard Dunn Loring Fairfax",
+			"city__state": "vienna__va",
+			"localNumber": "7035739555",
+			"complexNumber": "8664878698",
+			"segmentNumber": "8446809168",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASTC",
+			"propertyName": "Tysons Corner Marriott",
+			"city__state": "vienna__va",
+			"localNumber": "7037343200",
+			"complexNumber": "8669021268",
+			"segmentNumber": "8448237666",
+			"largeGroupNumber": "8778962854"
+		}
+	],
+	"arlington__va": [
+		{
+			"hotelMarsha": "WASCC",
+			"propertyName": "Crystal City Marriott at Reagan National Airport",
+			"city__state": "arlington__va",
+			"localNumber": "7034135500",
+			"complexNumber": "8668829146",
+			"segmentNumber": "8778962799",
+			"largeGroupNumber": "8775477472"
+		},
+		{
+			"hotelMarsha": "WASCT",
+			"propertyName": "Courtyard Arlington Crystal City/Reagan National Airport",
+			"city__state": "arlington__va",
+			"localNumber": "7035493434",
+			"complexNumber": "8668831467",
+			"segmentNumber": "8664069931",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASGW",
+			"propertyName": "Crystal Gateway Marriott",
+			"city__state": "arlington__va",
+			"localNumber": "7039203230",
+			"complexNumber": "8663981324",
+			"segmentNumber": "8446432196",
+			"largeGroupNumber": "8775477418"
+		},
+		{
+			"hotelMarsha": "WASPT",
+			"propertyName": "Residence Inn Arlington Pentagon City",
+			"city__state": "arlington__va",
+			"localNumber": "7034136630",
+			"complexNumber": "8663989026",
+			"segmentNumber": "8664399822",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASPY",
+			"propertyName": "Renaissance Arlington Capital View Hotel",
+			"city__state": "arlington__va",
+			"localNumber": "7034131300",
+			"complexNumber": "8668870920",
+			"segmentNumber": "8446432193",
+			"largeGroupNumber": "8662241543"
+		},
+		{
+			"hotelMarsha": "WASRY",
+			"propertyName": "Residence Inn Arlington Capital View",
+			"city__state": "arlington__va",
+			"localNumber": "7034151300",
+			"complexNumber": "8668870940",
+			"segmentNumber": "8669215190",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASAR",
+			"propertyName": "Courtyard Arlington Rosslyn",
+			"city__state": "arlington__va",
+			"localNumber": "7035282222",
+			"complexNumber": "8668821655",
+			"segmentNumber": "8663717481",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASKB",
+			"propertyName": "Key Bridge Marriott",
+			"city__state": "arlington__va",
+			"localNumber": "7035246400",
+			"complexNumber": "8663985204",
+			"segmentNumber": "8446432177",
+			"largeGroupNumber": "8778925310"
+		}
+	],
+	"alexandria__va": [
+		{
+			"hotelMarsha": "WASAL",
+			"propertyName": "Courtyard Alexandria Old Town/Southwest",
+			"city__state": "alexandria__va",
+			"localNumber": "7033292323",
+			"complexNumber": "8665884126",
+			"segmentNumber": "8664878703",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASDK",
+			"propertyName": "Residence Inn Alexandria Old Town/Duke Street",
+			"city__state": "alexandria__va",
+			"localNumber": "7035485474",
+			"complexNumber": "8664813301",
+			"segmentNumber": "8663930318",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASVA",
+			"propertyName": "SpringHill Suites Alexandria Old Town/Southwest",
+			"city__state": "alexandria__va",
+			"localNumber": "7033170013",
+			"complexNumber": "8668862830",
+			"segmentNumber": "8668868169",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "WASXW",
+			"propertyName": "The Westin Alexandria",
+			"city__state": "alexandria__va",
+			"localNumber": "7032538600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"charlottesville__va": [
+		{
+			"hotelMarsha": "CHOCH",
+			"propertyName": "Courtyard Charlottesville North",
+			"city__state": "charlottesville__va",
+			"localNumber": "4349737100",
+			"complexNumber": "8663861772",
+			"segmentNumber": "8448237725",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHORI",
+			"propertyName": "Residence Inn Charlottesville",
+			"city__state": "charlottesville__va",
+			"localNumber": "4349230300",
+			"complexNumber": "8663873968",
+			"segmentNumber": "8448237727",
+			"largeGroupNumber": ""
+		}
+	],
+	"glen_allen__va": [
+		{
+			"hotelMarsha": "RICTS",
+			"propertyName": "TownePlace Suites Richmond",
+			"city__state": "glen_allen__va",
+			"localNumber": "8047475253",
+			"complexNumber": "8665716147",
+			"segmentNumber": "8448369995",
+			"largeGroupNumber": ""
+		}
+	],
+	"williamsburg__va": [
+		{
+			"hotelMarsha": "PHFWB",
+			"propertyName": "Courtyard Williamsburg Busch Gardens Area",
+			"city__state": "williamsburg__va",
+			"localNumber": "7572210700",
+			"complexNumber": "8663708195",
+			"segmentNumber": "8448358932",
+			"largeGroupNumber": ""
+		}
+	],
+	"richmond__va": [
+		{
+			"hotelMarsha": "RICWE",
+			"propertyName": "Courtyard Richmond West",
+			"city__state": "richmond__va",
+			"localNumber": "8042821881",
+			"complexNumber": "8665884117",
+			"segmentNumber": "8448369996",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "RICNW",
+			"propertyName": "Courtyard Richmond Northwest/Short Pump",
+			"city__state": "richmond__va",
+			"localNumber": "8043465427",
+			"complexNumber": "8665884012",
+			"segmentNumber": "8448369994",
+			"largeGroupNumber": ""
+		}
+	],
+	"virginia_beach__va": [
+		{
+			"hotelMarsha": "ORFTS",
+			"propertyName": "TownePlace Suites Virginia Beach",
+			"city__state": "virginia_beach__va",
+			"localNumber": "7574909367",
+			"complexNumber": "8665687404",
+			"segmentNumber": "8448358928",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ORFVB",
+			"propertyName": "Courtyard Virginia Beach Norfolk",
+			"city__state": "virginia_beach__va",
+			"localNumber": "7574902002",
+			"complexNumber": "8007989684",
+			"segmentNumber": "8448358929",
+			"largeGroupNumber": ""
+		}
+	],
+	"hampton__va": [
+		{
+			"hotelMarsha": "PHFCH",
+			"propertyName": "Courtyard Hampton",
+			"city__state": "hampton__va",
+			"localNumber": "7578383300",
+			"complexNumber": "8663704988",
+			"segmentNumber": "8448358930",
+			"largeGroupNumber": ""
+		}
+	],
+	"yorktown__va": [
+		{
+			"hotelMarsha": "PHFTS",
+			"propertyName": "TownePlace Suites Newport News Yorktown",
+			"city__state": "yorktown__va",
+			"localNumber": "7578748884",
+			"complexNumber": "8665714207",
+			"segmentNumber": "8448358931",
+			"largeGroupNumber": ""
+		}
+	],
+	"charleston__wv": [
+		{
+			"hotelMarsha": "CRWWV",
+			"propertyName": "Charleston Marriott Town Center",
+			"city__state": "charleston__wv",
+			"localNumber": "3043533722",
+			"complexNumber": "8007987714",
+			"segmentNumber": "8446809166",
+			"largeGroupNumber": "8669214866"
+		},
+		{
+			"hotelMarsha": "CRWRI",
+			"propertyName": "Residence Inn Charleston",
+			"city__state": "charleston__wv",
+			"localNumber": "3043454200",
+			"complexNumber": "8663931006",
+			"segmentNumber": "8448237845",
+			"largeGroupNumber": ""
+		}
+	],
+	"greensboro__nc": [
+		{
+			"hotelMarsha": "GSOWN",
+			"propertyName": "Courtyard Greensboro",
+			"city__state": "greensboro__nc",
+			"localNumber": "3362943800",
+			"complexNumber": "8664878407",
+			"segmentNumber": "8448358914",
+			"largeGroupNumber": ""
+		}
+	],
+	"cary__nc": [
+		{
+			"hotelMarsha": "RDUCA",
+			"propertyName": "Courtyard Raleigh Cary",
+			"city__state": "cary__nc",
+			"localNumber": "9194819666",
+			"complexNumber": "8663708197",
+			"segmentNumber": "8448369987",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "RDURY",
+			"propertyName": "Residence Inn Raleigh Cary",
+			"city__state": "cary__nc",
+			"localNumber": "9194674080",
+			"complexNumber": "8665883682",
+			"segmentNumber": "8448369991",
+			"largeGroupNumber": ""
+		}
+	],
+	"morrisville__nc": [
+		{
+			"hotelMarsha": "RDUAP",
+			"propertyName": "Residence Inn Raleigh-Durham Airport/Morrisville",
+			"city__state": "morrisville__nc",
+			"localNumber": "9194678689",
+			"complexNumber": "8663708196",
+			"segmentNumber": "8448358933",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "RDURD",
+			"propertyName": "Courtyard Raleigh-Durham Airport/Morrisville",
+			"city__state": "morrisville__nc",
+			"localNumber": "9194679444",
+			"complexNumber": "8663729567",
+			"segmentNumber": "8448369989",
+			"largeGroupNumber": ""
+		}
+	],
+	"raleigh__nc": [
+		{
+			"hotelMarsha": "RDUWF",
+			"propertyName": "Courtyard Raleigh Midtown",
+			"city__state": "raleigh__nc",
+			"localNumber": "9198213400",
+			"complexNumber": "8665883747",
+			"segmentNumber": "8448369993",
+			"largeGroupNumber": ""
+		}
+	],
+	"durham__nc": [
+		{
+			"hotelMarsha": "RDUSH",
+			"propertyName": "SpringHill Suites Raleigh-Durham Airport/Research Triangle Park",
+			"city__state": "durham__nc",
+			"localNumber": "9199989500",
+			"complexNumber": "8665883732",
+			"segmentNumber": "8448369992",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "RDUDR",
+			"propertyName": "Residence Inn Durham Research Triangle Park",
+			"city__state": "durham__nc",
+			"localNumber": "9193611266",
+			"complexNumber": "8663715624",
+			"segmentNumber": "8448369988",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "RDURT",
+			"propertyName": "Courtyard Durham Research Triangle Park",
+			"city__state": "durham__nc",
+			"localNumber": "9194842900",
+			"complexNumber": "8665883652",
+			"segmentNumber": "8448369990",
+			"largeGroupNumber": ""
+		}
+	],
+	"charlotte__nc": [
+		{
+			"hotelMarsha": "CLTCC",
+			"propertyName": "Charlotte Marriott City Center",
+			"city__state": "charlotte__nc",
+			"localNumber": "7043339000",
+			"complexNumber": "8663927481",
+			"segmentNumber": "8446779751",
+			"largeGroupNumber": "8669210766"
+		},
+		{
+			"hotelMarsha": "CLTCW",
+			"propertyName": "The Westin Charlotte",
+			"city__state": "charlotte__nc",
+			"localNumber": "7043774143",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CLTRP",
+			"propertyName": "Renaissance Charlotte SouthPark Hotel",
+			"city__state": "charlotte__nc",
+			"localNumber": "7045012510",
+			"complexNumber": "8007980154",
+			"segmentNumber": "8446779753",
+			"largeGroupNumber": "8669211884"
+		},
+		{
+			"hotelMarsha": "CLTEX",
+			"propertyName": "Courtyard Charlotte SouthPark",
+			"city__state": "charlotte__nc",
+			"localNumber": "7045527333",
+			"complexNumber": "8663956046",
+			"segmentNumber": "8448237746",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CLTPH",
+			"propertyName": "Charlotte Marriott SouthPark",
+			"city__state": "charlotte__nc",
+			"localNumber": "7043648220",
+			"complexNumber": "8663956047",
+			"segmentNumber": "8446779752",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CLTAW",
+			"propertyName": "Courtyard Charlotte Arrowood",
+			"city__state": "charlotte__nc",
+			"localNumber": "7045275055",
+			"complexNumber": "8663921593",
+			"segmentNumber": "8448237742",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CLTSH",
+			"propertyName": "SpringHill Suites Charlotte University Research Park",
+			"city__state": "charlotte__nc",
+			"localNumber": "7045034800",
+			"complexNumber": "8663958785",
+			"segmentNumber": "8448237747",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CLTUN",
+			"propertyName": "Courtyard Charlotte University Research Park",
+			"city__state": "charlotte__nc",
+			"localNumber": "7045494888",
+			"complexNumber": "8663959009",
+			"segmentNumber": "8448237748",
+			"largeGroupNumber": ""
+		}
+	],
+	"fayetteville__nc": [
+		{
+			"hotelMarsha": "FAYCH",
+			"propertyName": "Courtyard Fayetteville",
+			"city__state": "fayetteville__nc",
+			"localNumber": "9104875557",
+			"complexNumber": "8663939940",
+			"segmentNumber": "8448358913",
+			"largeGroupNumber": ""
+		}
+	],
+	"spartanburg__sc": [
+		{
+			"hotelMarsha": "SPACH",
+			"propertyName": "Courtyard Spartanburg",
+			"city__state": "spartanburg__sc",
+			"localNumber": "8645852400",
+			"complexNumber": "8665716149",
+			"segmentNumber": "8448456564",
+			"largeGroupNumber": ""
+		}
+	],
+	"charleston__sc": [
+		{
+			"hotelMarsha": "CHSBR",
+			"propertyName": "Renaissance Charleston Historic District Hotel",
+			"city__state": "charleston__sc",
+			"localNumber": "8435340300",
+			"complexNumber": "8668864953",
+			"segmentNumber": "8446809165",
+			"largeGroupNumber": ""
+		}
+	],
+	"north_charleston__sc": [
+		{
+			"hotelMarsha": "CHSCN",
+			"propertyName": "Courtyard North Charleston Airport/Coliseum",
+			"city__state": "north_charleston__sc",
+			"localNumber": "8437479122",
+			"complexNumber": "8663931003",
+			"segmentNumber": "8448237738",
+			"largeGroupNumber": ""
+		}
+	],
+	"myrtle_beach__sc": [
+		{
+			"hotelMarsha": "MYRCY",
+			"propertyName": "Courtyard Myrtle Beach Broadway",
+			"city__state": "myrtle_beach__sc",
+			"localNumber": "8434456333",
+			"complexNumber": "8665628176",
+			"segmentNumber": "8448358927",
+			"largeGroupNumber": ""
+		}
+	],
+	"greenville__sc": [
+		{
+			"hotelMarsha": "GSPCH",
+			"propertyName": "Courtyard Greenville Haywood Mall",
+			"city__state": "greenville__sc",
+			"localNumber": "8642340300",
+			"complexNumber": "8664673959",
+			"segmentNumber": "8448358926",
+			"largeGroupNumber": ""
+		}
+	],
+	"hilton_head_island__sc": [
+		{
+			"hotelMarsha": "HHHGR",
+			"propertyName": "Hilton Head Marriott Resourt & Spa",
+			"city__state": "hilton_head_island__sc",
+			"localNumber": "8436868400",
+			"complexNumber": "8665123552",
+			"segmentNumber": "8665137351",
+			"largeGroupNumber": "8665137391"
+		},
+		{
+			"hotelMarsha": "HHHWI",
+			"propertyName": "The Westin Hilton Head Island Resort & Spa",
+			"city__state": "hilton_head_island__sc",
+			"localNumber": "8436814000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"alpharetta__ga": [
+		{
+			"hotelMarsha": "ATLPH",
+			"propertyName": "Courtyard Atlanta Alpharetta",
+			"city__state": "alpharetta__ga",
+			"localNumber": "6783663360",
+			"complexNumber": "8664605402",
+			"segmentNumber": "8773271178",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLWS",
+			"propertyName": "Residence Inn Atlanta Alpharetta/Windward",
+			"city__state": "alpharetta__ga",
+			"localNumber": "7706640664",
+			"complexNumber": "8668940902",
+			"segmentNumber": "8442057256",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLAW",
+			"propertyName": "Atlanta Marriott Alpharetta",
+			"city__state": "alpharetta__ga",
+			"localNumber": "7707549600",
+			"complexNumber": "8665608862",
+			"segmentNumber": "8668999820",
+			"largeGroupNumber": "8774343164"
+		},
+		{
+			"hotelMarsha": "ATLNP",
+			"propertyName": "Residence Inn Atlanta Alpharetta/North Point Mall",
+			"city__state": "alpharetta__ga",
+			"localNumber": "7705871151",
+			"complexNumber": "8664601338",
+			"segmentNumber": "8773271145",
+			"largeGroupNumber": ""
+		}
+	],
+	"norcross__ga": [
+		{
+			"hotelMarsha": "ATLTN",
+			"propertyName": "TownePlace Suites Atlanta Norcross/Peachtree Corners",
+			"city__state": "norcross__ga",
+			"localNumber": "7704478446",
+			"complexNumber": "8665608864",
+			"segmentNumber": "8772252066",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLJC",
+			"propertyName": "Courtyard Atlanta Norcross/I-85",
+			"city__state": "norcross__ga",
+			"localNumber": "7702427172",
+			"complexNumber": "8668999824",
+			"segmentNumber": "8888640362",
+			"largeGroupNumber": ""
+		}
+	],
+	"stone_mountain__ga": [
+		{
+			"hotelMarsha": "ATLEG",
+			"propertyName": "Atlanta Evergreen Marriott Conference Resort",
+			"city__state": "stone_mountain__ga",
+			"localNumber": "7708799900",
+			"complexNumber": "8664581656",
+			"segmentNumber": "8663970145",
+			"largeGroupNumber": "8662226312"
+		},
+		{
+			"hotelMarsha": "ATLSI",
+			"propertyName": "Stone Mountain Inn",
+			"city__state": "stone_mountain__ga",
+			"localNumber": "7704693311",
+			"complexNumber": "8665320407",
+			"segmentNumber": "8447466517",
+			"largeGroupNumber": ""
+		}
+	],
+	"duluth__ga": [
+		{
+			"hotelMarsha": "ATLGM",
+			"propertyName": "Courtyard Atlanta Duluth/Gwinnett Place",
+			"city__state": "duluth__ga",
+			"localNumber": "7704764666",
+			"complexNumber": "8668999822",
+			"segmentNumber": "8772252056",
+			"largeGroupNumber": ""
+		}
+	],
+	"kennesaw__ga": [
+		{
+			"hotelMarsha": "ATLTC",
+			"propertyName": "Residence Inn Atlanta Kennesaw/Town Center",
+			"city__state": "kennesaw__ga",
+			"localNumber": "7702181018",
+			"complexNumber": "8004147360",
+			"segmentNumber": "8442057233",
+			"largeGroupNumber": ""
+		}
+	],
+	"atlanta__ga": [
+		{
+			"hotelMarsha": "ATLDO",
+			"propertyName": "Courtyard Atlanta Downtown",
+			"city__state": "atlanta__ga",
+			"localNumber": "4042222416",
+			"complexNumber": "8777541547",
+			"segmentNumber": "8442057397",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLMQ",
+			"propertyName": "Atlanta Marriott Marquis",
+			"city__state": "atlanta__ga",
+			"localNumber": "4045210000",
+			"complexNumber": "8664581611",
+			"segmentNumber": "8668999823",
+			"largeGroupNumber": "8664764348"
+		},
+		{
+			"hotelMarsha": "ATLBH",
+			"propertyName": "Residence Inn Atlanta Buckhead",
+			"city__state": "atlanta__ga",
+			"localNumber": "4042390677",
+			"complexNumber": "8665608863",
+			"segmentNumber": "8442057345",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLHW",
+			"propertyName": "W Atlanta - Downtown",
+			"city__state": "atlanta__ga",
+			"localNumber": "4045825800",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLMS",
+			"propertyName": "Atlanta Marriott Suites Midtown",
+			"city__state": "atlanta__ga",
+			"localNumber": "4048768888",
+			"complexNumber": "8664581618",
+			"segmentNumber": "8447466518",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLMN",
+			"propertyName": "Courtyard Atlanta Midtown/Georgia Tech",
+			"city__state": "atlanta__ga",
+			"localNumber": "4046071112",
+			"complexNumber": "8664581571",
+			"segmentNumber": "8442057372",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLAB",
+			"propertyName": "SpringHill Suites Atlanta Buckhead",
+			"city__state": "atlanta__ga",
+			"localNumber": "4048444800",
+			"complexNumber": "8665608809",
+			"segmentNumber": "8665320412",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLBW",
+			"propertyName": "W Atlanta - Buckhead",
+			"city__state": "atlanta__ga",
+			"localNumber": "6785003100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLJW",
+			"propertyName": "JW Marriott Atlanta Buckhead",
+			"city__state": "atlanta__ga",
+			"localNumber": "4042623344",
+			"complexNumber": "8668999825",
+			"segmentNumber": "8665180634",
+			"largeGroupNumber": "8774342983"
+		},
+		{
+			"hotelMarsha": "ATLPE",
+			"propertyName": "Courtyard Atlanta Perimeter Center",
+			"city__state": "atlanta__ga",
+			"localNumber": "7703931000",
+			"complexNumber": "8664605401",
+			"segmentNumber": "8773271162",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLEP",
+			"propertyName": "Courtyard ?Atlanta [(Executive Park) Emory]",
+			"city__state": "atlanta__ga",
+			"localNumber": "4047280708",
+			"complexNumber": "8668999821",
+			"segmentNumber": "8772251892",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLAG",
+			"propertyName": "Renaissance Atlanta Airport Gateway Hotel",
+			"city__state": "atlanta__ga",
+			"localNumber": "4044438690",
+			"complexNumber": "8446360476",
+			"segmentNumber": "8446360478",
+			"largeGroupNumber": "8446360479"
+		},
+		{
+			"hotelMarsha": "ATLMA",
+			"propertyName": "Atlanta Airport Marriott Gateway",
+			"city__state": "atlanta__ga",
+			"localNumber": "4047631544",
+			"complexNumber": "8663970143",
+			"segmentNumber": "8668935702",
+			"largeGroupNumber": "8774343692"
+		},
+		{
+			"hotelMarsha": "ATLCU",
+			"propertyName": "Courtyard Atlanta Cumberland/Galleria",
+			"city__state": "atlanta__ga",
+			"localNumber": "7709522555",
+			"complexNumber": "8668999094",
+			"segmentNumber": "8773270361",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLRB",
+			"propertyName": "Renaissance Atlanta Waverly Hotel & Convention Center",
+			"city__state": "atlanta__ga",
+			"localNumber": "7709534500",
+			"complexNumber": "8664581551",
+			"segmentNumber": "8668999185",
+			"largeGroupNumber": "8774343010"
+		},
+		{
+			"hotelMarsha": "ATLTS",
+			"propertyName": "TownePlace Suites Atlanta Northlake",
+			"city__state": "atlanta__ga",
+			"localNumber": "7709380408",
+			"complexNumber": "8668996266",
+			"segmentNumber": "8772252086",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLSA",
+			"propertyName": "Renaissance Concourse Atlanta Airport Hotel",
+			"city__state": "atlanta__ga",
+			"localNumber": "4042099999",
+			"complexNumber": "8664605409",
+			"segmentNumber": "8664605403",
+			"largeGroupNumber": "8774343169"
+		},
+		{
+			"hotelMarsha": "ATLMW",
+			"propertyName": "W Atlanta - Midtown",
+			"city__state": "atlanta__ga",
+			"localNumber": "4048926000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	" Atlanta\"": [
+		{
+			"hotelMarsha": "ATLPL",
+			"propertyName": "\"The Westin Peachtree Plaza",
+			"city__state": " Atlanta\"",
+			"localNumber": "atlanta__ga",
+			"complexNumber": "4046591400",
+			"segmentNumber": "",
+			"largeGroupNumber": "",
+			"undefined": ""
+		}
+	],
+	"college_park__ga": [
+		{
+			"hotelMarsha": "ATLAP",
+			"propertyName": "Atlanta Airport Marriott",
+			"city__state": "college_park__ga",
+			"localNumber": "4047667900",
+			"complexNumber": "8665608843",
+			"segmentNumber": "8663013870",
+			"largeGroupNumber": "8777541230"
+		},
+		{
+			"hotelMarsha": "ATLCA",
+			"propertyName": "Courtyard Atlanta Airport South/Sullivan Road",
+			"city__state": "college_park__ga",
+			"localNumber": "7709972220",
+			"complexNumber": "8668995887",
+			"segmentNumber": "8442057354",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLGI",
+			"propertyName": "SpringHill Suites Atlanta Airport Gateway",
+			"city__state": "college_park__ga",
+			"localNumber": "7709078880",
+			"complexNumber": "8888640344",
+			"segmentNumber": "8442057371",
+			"largeGroupNumber": ""
+		}
+	],
+	"hapeville__ga": [
+		{
+			"hotelMarsha": "ATLAN",
+			"propertyName": "Courtyard Atlanta Airport North/Virginia Avenue",
+			"city__state": "hapeville__ga",
+			"localNumber": "4045591043",
+			"complexNumber": "8665608830",
+			"segmentNumber": "8442057323",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ATLRA",
+			"propertyName": "Residence Inn Atlanta Airport North/Virginia Avenue",
+			"city__state": "hapeville__ga",
+			"localNumber": "4047610511",
+			"complexNumber": "8664605405",
+			"segmentNumber": "8442057355",
+			"largeGroupNumber": ""
+		}
+	],
+	"augusta__ga": [
+		{
+			"hotelMarsha": "AGSCH",
+			"propertyName": "Courtyard Augusta",
+			"city__state": "augusta__ga",
+			"localNumber": "7067373737",
+			"complexNumber": "8665608808",
+			"segmentNumber": "8442057319",
+			"largeGroupNumber": ""
+		}
+	],
+	"macon__ga": [
+		{
+			"hotelMarsha": "MCNGA",
+			"propertyName": "Courtyard Macon",
+			"city__state": "macon__ga",
+			"localNumber": "4784778899",
+			"complexNumber": "8664605408",
+			"segmentNumber": "8442057268",
+			"largeGroupNumber": ""
+		}
+	],
+	"savannah__ga": [
+		{
+			"hotelMarsha": "SAVCH",
+			"propertyName": "Courtyard Savannah Midtown",
+			"city__state": "savannah__ga",
+			"localNumber": "9123547878",
+			"complexNumber": "8662450576",
+			"segmentNumber": "8442057359",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SAVWI",
+			"propertyName": "The Westin Savannah Harbor Golf Resort & Spa",
+			"city__state": "savannah__ga",
+			"localNumber": "9122012000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"columbus__ga": [
+		{
+			"hotelMarsha": "CSGCH",
+			"propertyName": "Courtyard Columbus",
+			"city__state": "columbus__ga",
+			"localNumber": "7063232323",
+			"complexNumber": "8663970141",
+			"segmentNumber": "8442057263",
+			"largeGroupNumber": ""
+		}
+	],
+	"ponte_vedra_beach__fl": [
+		{
+			"hotelMarsha": "JAXSW",
+			"propertyName": "Sawgrass Marriott Golf Resort & Spa",
+			"city__state": "ponte_vedra_beach__fl",
+			"localNumber": "9042857777",
+			"complexNumber": "8664578429",
+			"segmentNumber": "",
+			"largeGroupNumber": "8664581432"
+		}
+	],
+	"st._augustine__fl": [
+		{
+			"hotelMarsha": "JAXBR",
+			"propertyName": "World Golf Village Renaissance St. Augustine Resort",
+			"city__state": "st._augustine__fl",
+			"localNumber": "9049408000",
+			"complexNumber": "8883633847",
+			"segmentNumber": "",
+			"largeGroupNumber": "8665608805"
+		}
+	],
+	"daytona_beach__fl": [
+		{
+			"hotelMarsha": "DABCY",
+			"propertyName": "Courtyard Daytona Beach Speedway/Airport",
+			"city__state": "daytona_beach__fl",
+			"localNumber": "3862553388",
+			"complexNumber": "8776189003",
+			"segmentNumber": "8663885544",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DABRI",
+			"propertyName": "Residence Inn Daytona Beach Speedway/Airport",
+			"city__state": "daytona_beach__fl",
+			"localNumber": "3862523949",
+			"complexNumber": "8776189004",
+			"segmentNumber": "8666747169",
+			"largeGroupNumber": ""
+		}
+	],
+	"jacksonville__fl": [
+		{
+			"hotelMarsha": "JAXMC",
+			"propertyName": "Courtyard Jacksonville Mayo Clinic/Beaches",
+			"city__state": "jacksonville__fl",
+			"localNumber": "9042231026",
+			"complexNumber": "8666338183",
+			"segmentNumber": "8666747162",
+			"largeGroupNumber": ""
+		}
+	],
+	"tallahassee__fl": [
+		{
+			"hotelMarsha": "TLHCH",
+			"propertyName": "Courtyard Tallahassee Capital",
+			"city__state": "tallahassee__fl",
+			"localNumber": "8502228822",
+			"complexNumber": "8666747168",
+			"segmentNumber": "8663173172",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "TLHDT",
+			"propertyName": "Residence Inn Tallahassee Universities at the Capitol",
+			"city__state": "tallahassee__fl",
+			"localNumber": "8503299080",
+			"complexNumber": "8883633849",
+			"segmentNumber": "8442769676",
+			"largeGroupNumber": ""
+		}
+	],
+	"orlando__fl": [
+		{
+			"hotelMarsha": "MCOCH",
+			"propertyName": "Courtyard Orlando Airport",
+			"city__state": "orlando__fl",
+			"localNumber": "4072407200",
+			"complexNumber": "8662726593",
+			"segmentNumber": "8667864032",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOOI",
+			"propertyName": "Courtyard Orlando International Drive/Convention Center",
+			"city__state": "orlando__fl",
+			"localNumber": "4073512244",
+			"complexNumber": "8663884853",
+			"segmentNumber": "8664581429",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOFW",
+			"propertyName": "Fairfield Inn & Suites Orlando at SeaWorld",
+			"city__state": "orlando__fl",
+			"localNumber": "4073541139",
+			"complexNumber": "8883633841",
+			"segmentNumber": "8666747166",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOLX",
+			"propertyName": "SpringHill Suites Orlando Lake Buena Vista in Marriott Village",
+			"city__state": "orlando__fl",
+			"localNumber": "4079389001",
+			"complexNumber": "8663876190",
+			"segmentNumber": "8663443086",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOLY",
+			"propertyName": "Courtyard Orlando Lake Buena Vista in the Marriott Village",
+			"city__state": "orlando__fl",
+			"localNumber": "4079389001",
+			"complexNumber": "8663878950",
+			"segmentNumber": "8663444504",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOLZ",
+			"propertyName": "Fairfield Inn & Suites Orlando Lake Buena Vista in the Marriott Village",
+			"city__state": "orlando__fl",
+			"localNumber": "4079389001",
+			"complexNumber": "8663883431",
+			"segmentNumber": "8776189005",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOSR",
+			"propertyName": "Renaissance Orlando at SeaWorld",
+			"city__state": "orlando__fl",
+			"localNumber": "4073515555",
+			"complexNumber": "8006641622",
+			"segmentNumber": "",
+			"largeGroupNumber": "8775973732"
+		},
+		{
+			"hotelMarsha": "MCOSS",
+			"propertyName": "SpringHill Suites Orlando at SeaWorld",
+			"city__state": "orlando__fl",
+			"localNumber": "4073541176",
+			"complexNumber": "8666338176",
+			"segmentNumber": "8663438057",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOSW",
+			"propertyName": "Residence Inn Orlando at SeaWorld",
+			"city__state": "orlando__fl",
+			"localNumber": "4073133600",
+			"complexNumber": "8666338135",
+			"segmentNumber": "8663872595",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOWC",
+			"propertyName": "Orlando World Center Marriott",
+			"city__state": "orlando__fl",
+			"localNumber": "4072394200",
+			"complexNumber": "8666338178",
+			"segmentNumber": "",
+			"largeGroupNumber": "8775973858"
+		},
+		{
+			"hotelMarsha": "MCOAP",
+			"propertyName": "Orlando Airport Marriott Lakeside",
+			"city__state": "orlando__fl",
+			"localNumber": "4078519000",
+			"complexNumber": "8662725788",
+			"segmentNumber": "8663440843",
+			"largeGroupNumber": "8777457880"
+		},
+		{
+			"hotelMarsha": "MCOYR",
+			"propertyName": "Residence Inn Orlando Millenia Mall (new open Jan 2017) ",
+			"city__state": "orlando__fl",
+			"localNumber": "",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOYS",
+			"propertyName": "SpringHill Suites Orlando Millenia Mall (new open Jan 2017)",
+			"city__state": "orlando__fl",
+			"localNumber": "",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"lake_buena_vista__fl": [
+		{
+			"hotelMarsha": "MCODW",
+			"propertyName": "Walt Disney World Swan",
+			"city__state": "lake_buena_vista__fl",
+			"localNumber": "4079343000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCOSI",
+			"propertyName": "Walt Disney World Dolphin",
+			"city__state": "lake_buena_vista__fl",
+			"localNumber": "4079344000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	" Grande Lakes\"": [
+		{
+			"hotelMarsha": "MCOJW",
+			"propertyName": "\"JW Marriott Orlando",
+			"city__state": " Grande Lakes\"",
+			"localNumber": "orlando__fl",
+			"complexNumber": "4072062300",
+			"segmentNumber": "8663873460",
+			"largeGroupNumber": "",
+			"undefined": "8775973857"
+		},
+		{
+			"hotelMarsha": "MCORZ",
+			"propertyName": "\"The Ritz-Carlton Orlando",
+			"city__state": " Grande Lakes\"",
+			"localNumber": "orlando__fl",
+			"complexNumber": "4072062400",
+			"segmentNumber": "8663892906",
+			"largeGroupNumber": "",
+			"undefined": "8772254672"
+		}
+	],
+	"melbourne__fl": [
+		{
+			"hotelMarsha": "MLBAP",
+			"propertyName": "Residence Inn Melbourne",
+			"city__state": "melbourne__fl",
+			"localNumber": "3217235740",
+			"complexNumber": "8776189002",
+			"segmentNumber": "8666338180",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MLBCH",
+			"propertyName": "Courtyard Melbourne West",
+			"city__state": "melbourne__fl",
+			"localNumber": "3217246400",
+			"complexNumber": "8776189001",
+			"segmentNumber": "8664551193",
+			"largeGroupNumber": ""
+		}
+	],
+	"dania_beach__fl": [
+		{
+			"hotelMarsha": "FLLHT",
+			"propertyName": "Courtyard Fort Lauderdale Airport & Cruise Port",
+			"city__state": "dania_beach__fl",
+			"localNumber": "9543428333",
+			"complexNumber": "8663177778",
+			"segmentNumber": "8775973861",
+			"largeGroupNumber": ""
+		}
+	],
+	"miami_beach__fl": [
+		{
+			"hotelMarsha": "MIAML",
+			"propertyName": "Courtyard Miami Lakes",
+			"city__state": "miami_beach__fl",
+			"localNumber": "3055566665",
+			"complexNumber": "8663430490",
+			"segmentNumber": "8442768835",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIACH",
+			"propertyName": "Residence Inn Miami Beach South Beach",
+			"city__state": "miami_beach__fl",
+			"localNumber": "3053934399",
+			"complexNumber": "8663432252",
+			"segmentNumber": "8443099986",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIAMB",
+			"propertyName": "Marriott Stanton South Beach",
+			"city__state": "miami_beach__fl",
+			"localNumber": "3055367700",
+			"complexNumber": "8664581527",
+			"segmentNumber": "8662726590",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIAAC",
+			"propertyName": "AC Hotel Miami Beach",
+			"city__state": "miami_beach__fl",
+			"localNumber": "7867087230",
+			"complexNumber": "8663430339",
+			"segmentNumber": "8443099985",
+			"largeGroupNumber": ""
+		}
+	],
+	"miami__fl": [
+		{
+			"hotelMarsha": "MIAAP",
+			"propertyName": "Miami Airport Marriott",
+			"city__state": "miami__fl",
+			"localNumber": "3056495000",
+			"complexNumber": "8666338179",
+			"segmentNumber": "8663175382",
+			"largeGroupNumber": "8777457405"
+		},
+		{
+			"hotelMarsha": "MIAAS",
+			"propertyName": "Residence Inn Miami Airport",
+			"city__state": "miami__fl",
+			"localNumber": "3056428570",
+			"complexNumber": "8665608804",
+			"segmentNumber": "8662700609",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIACS",
+			"propertyName": "Courtyard Miami Airport",
+			"city__state": "miami__fl",
+			"localNumber": "3056428200",
+			"complexNumber": "8664578396",
+			"segmentNumber": "8662701628",
+			"largeGroupNumber": "8777457394"
+		},
+		{
+			"hotelMarsha": "MIAWM",
+			"propertyName": "W Miami",
+			"city__state": "miami__fl",
+			"localNumber": "3055034400",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIABB",
+			"propertyName": "Miami Marriott Biscayne Bay",
+			"city__state": "miami__fl",
+			"localNumber": "3053743900",
+			"complexNumber": "8666338182",
+			"segmentNumber": "8662701381",
+			"largeGroupNumber": "8777457869"
+		},
+		{
+			"hotelMarsha": "MIAGV",
+			"propertyName": "Courtyard Miami Coconut Grove",
+			"city__state": "miami__fl",
+			"localNumber": "3058582500",
+			"complexNumber": "8776188999",
+			"segmentNumber": "8662720924",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIAHD",
+			"propertyName": "SpringHill Suites Miami Airport East/Medical Center",
+			"city__state": "miami__fl",
+			"localNumber": "3055755300",
+			"complexNumber": "8776188998",
+			"segmentNumber": "8442768833",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIACB",
+			"propertyName": "Courtyard Miami Beach South Beach",
+			"city__state": "miami__fl",
+			"localNumber": "3056048887",
+			"complexNumber": "8664578393",
+			"segmentNumber": "8442768832",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MIACA",
+			"propertyName": "Courtyard Miami Airport West/Doral",
+			"city__state": "miami__fl",
+			"localNumber": "3054778118",
+			"complexNumber": "8666338187",
+			"segmentNumber": "8442768830",
+			"largeGroupNumber": ""
+		}
+	],
+	"sunny_isles__fl": [
+		{
+			"hotelMarsha": "MIANM",
+			"propertyName": "Residence Inn Marriott Sunny Isles (new open Nov 2017)",
+			"city__state": "sunny_isles__fl",
+			"localNumber": "9544717400",
+			"complexNumber": "8883633844",
+			"segmentNumber": "8664938025",
+			"largeGroupNumber": ""
+		}
+	],
+	"fort_lauderdale__fl": [
+		{
+			"hotelMarsha": "FLLWH",
+			"propertyName": "W Fort Lauderdale",
+			"city__state": "fort_lauderdale__fl",
+			"localNumber": "9544148200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "FLLCY",
+			"propertyName": "Courtyard Fort Lauderdale East",
+			"city__state": "fort_lauderdale__fl",
+			"localNumber": "9547718100",
+			"complexNumber": "8667864030",
+			"segmentNumber": "8442769106",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "FLLSB",
+			"propertyName": "Fort Lauderdale Marriott Harbor Beach Resort & Spa",
+			"city__state": "fort_lauderdale__fl",
+			"localNumber": "9545254000",
+			"complexNumber": "8662708753",
+			"segmentNumber": "",
+			"largeGroupNumber": "8775973856"
+		},
+		{
+			"hotelMarsha": "FLLWC",
+			"propertyName": "Courtyard Fort Lauderdale Weston",
+			"city__state": "fort_lauderdale__fl",
+			"localNumber": "9543432225",
+			"complexNumber": "8662720640",
+			"segmentNumber": "8442768829",
+			"largeGroupNumber": ""
+		}
+	],
+	"plantation__fl": [
+		{
+			"hotelMarsha": "FLLPL",
+			"propertyName": "Courtyard Fort Lauderdale Plantation",
+			"city__state": "plantation__fl",
+			"localNumber": "9544751100",
+			"complexNumber": "8662703347",
+			"segmentNumber": "8775973752",
+			"largeGroupNumber": ""
+		}
+	],
+	"west_palm_beach__fl": [
+		{
+			"hotelMarsha": "PBIMC",
+			"propertyName": "West Palm Beach Marriott",
+			"city__state": "west_palm_beach__fl",
+			"localNumber": "5618331234",
+			"complexNumber": "8666747167",
+			"segmentNumber": "8442769765",
+			"largeGroupNumber": "8777457894"
+		},
+		{
+			"hotelMarsha": "PBIRD",
+			"propertyName": "Residence Inn West Palm Beach Downtown/CityPlace Area",
+			"city__state": "west_palm_beach__fl",
+			"localNumber": "5616538100",
+			"complexNumber": "8664581459",
+			"segmentNumber": "8883633859",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PBICH",
+			"propertyName": "Courtyard West Palm Beach",
+			"city__state": "west_palm_beach__fl",
+			"localNumber": "5616409000",
+			"complexNumber": "8666747165",
+			"segmentNumber": "8442769104",
+			"largeGroupNumber": ""
+		}
+	],
+	"wellington__fl": [
+		{
+			"hotelMarsha": "PBIFW",
+			"propertyName": "Fairfield Inn & Suites West Palm Beach Wellington",
+			"city__state": "wellington__fl",
+			"localNumber": "5612498095",
+			"complexNumber": "8772254755",
+			"segmentNumber": "8772254771",
+			"largeGroupNumber": ""
+		}
+	],
+	"boca_raton__fl": [
+		{
+			"hotelMarsha": "PBIBC",
+			"propertyName": "Courtyard Boca Raton",
+			"city__state": "boca_raton__fl",
+			"localNumber": "5612417070",
+			"complexNumber": "8666747163",
+			"segmentNumber": "8442769103",
+			"largeGroupNumber": ""
+		}
+	],
+	"jupiter__fl": [
+		{
+			"hotelMarsha": "PBIJA",
+			"propertyName": "Courtyard Palm Beach Jupiter",
+			"city__state": "jupiter__fl",
+			"localNumber": "8003212211",
+			"complexNumber": "8664578394",
+			"segmentNumber": "8442769105",
+			"largeGroupNumber": ""
+		}
+	],
+	"tampa__fl": [
+		{
+			"hotelMarsha": "TPAMC",
+			"propertyName": "Tampa Marriott Waterside Hotel & Marina",
+			"city__state": "tampa__fl",
+			"localNumber": "8132214900",
+			"complexNumber": "8664938030",
+			"segmentNumber": "8776189006",
+			"largeGroupNumber": "8775973638"
+		},
+		{
+			"hotelMarsha": "TPAAC",
+			"propertyName": "AC Hotel Tampa Airport International Plaza (new open Dec 2017)",
+			"city__state": "tampa__fl",
+			"localNumber": "8133504020",
+			"complexNumber": "8883633848",
+			"segmentNumber": "8883633843",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "TPAAP",
+			"propertyName": "Tampa Airport Marriott",
+			"city__state": "tampa__fl",
+			"localNumber": "8138798151",
+			"complexNumber": "8664938026",
+			"segmentNumber": "8666338184",
+			"largeGroupNumber": "8775973629"
+		},
+		{
+			"hotelMarsha": "TPAIM",
+			"propertyName": "Renaissance Tampa International Plaza Hotel",
+			"city__state": "tampa__fl",
+			"localNumber": "8138779200",
+			"complexNumber": "8664938029",
+			"segmentNumber": "8777457876",
+			"largeGroupNumber": "8777457879"
+		},
+		{
+			"hotelMarsha": "TPAWT",
+			"propertyName": "Courtyard Tampa Westshore/Airport",
+			"city__state": "tampa__fl",
+			"localNumber": "8138740555",
+			"complexNumber": "8665608806",
+			"segmentNumber": "8777457402",
+			"largeGroupNumber": ""
+		}
+	],
+	"st._petersburg__fl": [
+		{
+			"hotelMarsha": "TPASR",
+			"propertyName": "The Vinoy Renaissance St. Petersburg Resort & Golf Club",
+			"city__state": "st._petersburg__fl",
+			"localNumber": "7278941000",
+			"complexNumber": "8664938034",
+			"segmentNumber": "",
+			"largeGroupNumber": "8775973753"
+		}
+	],
+	"clearwater__fl": [
+		{
+			"hotelMarsha": "TPAPG",
+			"propertyName": "Courtyard St. Petersburg Clearwater",
+			"city__state": "clearwater__fl",
+			"localNumber": "7275728484",
+			"complexNumber": "8664938031",
+			"segmentNumber": "8776189007",
+			"largeGroupNumber": ""
+		}
+	],
+	"cape_coral__fl": [
+		{
+			"hotelMarsha": "RSWWI",
+			"propertyName": "The Westin Cape Coral Resort at Marina Village",
+			"city__state": "cape_coral__fl",
+			"localNumber": "2395415000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"marco_island__fl": [
+		{
+			"hotelMarsha": "MRKFL",
+			"propertyName": "JW Marriott Marco Island Beach Resort",
+			"city__state": "marco_island__fl",
+			"localNumber": "2393942511",
+			"complexNumber": "8663448297",
+			"segmentNumber": "",
+			"largeGroupNumber": "8775973864"
+		}
+	],
+	"kissimmee__fl": [
+		{
+			"hotelMarsha": "MCOGP",
+			"propertyName": "Gaylord Palms Resort & Convention Center",
+			"city__state": "kissimmee__fl",
+			"localNumber": "4075862000",
+			"complexNumber": "8663872126",
+			"segmentNumber": "",
+			"largeGroupNumber": "8666338185"
+		}
+	],
+	"birmingham__al": [
+		{
+			"hotelMarsha": "BHMSI",
+			"propertyName": "Sheraton Birmingham Hotel",
+			"city__state": "birmingham__al",
+			"localNumber": "2053245000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BHMHM",
+			"propertyName": "Residence Inn Birmingham Homewood",
+			"city__state": "birmingham__al",
+			"localNumber": "2059430044",
+			"complexNumber": "8888640361",
+			"segmentNumber": "8442057436",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BHMSC",
+			"propertyName": "Courtyard Birmingham Colonnade/Grandview",
+			"city__state": "birmingham__al",
+			"localNumber": "2059674466",
+			"complexNumber": "8888640365",
+			"segmentNumber": "8442057624",
+			"largeGroupNumber": ""
+		}
+	],
+	"north_birmingham__al": [
+		{
+			"hotelMarsha": "BHMWI",
+			"propertyName": "The Westin Birmingham",
+			"city__state": "north_birmingham__al",
+			"localNumber": "2053073600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"homewood__al": [
+		{
+			"hotelMarsha": "BHMHW",
+			"propertyName": "Courtyard Birmingham Homewood",
+			"city__state": "homewood__al",
+			"localNumber": "2058790400",
+			"complexNumber": "8888640360",
+			"segmentNumber": "8442057506",
+			"largeGroupNumber": ""
+		}
+	],
+	"brentwood__tn": [
+		{
+			"hotelMarsha": "BNABR",
+			"propertyName": "Courtyard Nashville Brentwood",
+			"city__state": "brentwood__tn",
+			"localNumber": "6153719200",
+			"complexNumber": "8668947229",
+			"segmentNumber": "8442057644",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNAMF",
+			"propertyName": "Residence Inn Nashville Brentwood",
+			"city__state": "brentwood__tn",
+			"localNumber": "6153710100",
+			"complexNumber": "8888640345",
+			"segmentNumber": "8442057657",
+			"largeGroupNumber": ""
+		}
+	],
+	"clarksville__tn": [
+		{
+			"hotelMarsha": "BNAWH",
+			"propertyName": "TownePlace Suites Clarksville",
+			"city__state": "clarksville__tn",
+			"localNumber": "9318962005",
+			"complexNumber": "8772645285",
+			"segmentNumber": "8772645303",
+			"largeGroupNumber": ""
+		}
+	],
+	"goodlettsville__tn": [
+		{
+			"hotelMarsha": "BNATG",
+			"propertyName": "TownePlace Suites Nashville Goodlettsville",
+			"city__state": "goodlettsville__tn",
+			"localNumber": "",
+			"complexNumber": "8446360474",
+			"segmentNumber": "8446360475",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNAGV",
+			"propertyName": "Courtyard Nashville Goodlettsville",
+			"city__state": "goodlettsville__tn",
+			"localNumber": "6158513000",
+			"complexNumber": "8663013873",
+			"segmentNumber": "8442057668",
+			"largeGroupNumber": ""
+		}
+	],
+	"nashville__tn": [
+		{
+			"hotelMarsha": "BNASH",
+			"propertyName": "Renaissance Nashville Hotel",
+			"city__state": "nashville__tn",
+			"localNumber": "6152558400",
+			"complexNumber": "8665320410",
+			"segmentNumber": "8664605406",
+			"largeGroupNumber": "8777541257"
+		},
+		{
+			"hotelMarsha": "BNAVB",
+			"propertyName": "Residence Inn Nashville Vanderbilt/West End",
+			"city__state": "nashville__tn",
+			"localNumber": "6159889920",
+			"complexNumber": "8664605410",
+			"segmentNumber": "8445222840",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNAVW",
+			"propertyName": "SpringHill Suites Nashville Vanderbilt/West End",
+			"city__state": "nashville__tn",
+			"localNumber": "6159889930",
+			"complexNumber": "8664601337",
+			"segmentNumber": "8445222839",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNABN",
+			"propertyName": "Residence Inn Nashville Airport",
+			"city__state": "nashville__tn",
+			"localNumber": "6158898600",
+			"complexNumber": "8663013871",
+			"segmentNumber": "8442057641",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNACA",
+			"propertyName": "Courtyard Nashville Airport",
+			"city__state": "nashville__tn",
+			"localNumber": "6158839500",
+			"complexNumber": "8668953557",
+			"segmentNumber": "8442057649",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNAGO",
+			"propertyName": "Gaylord Opryland Resort & Convention Center",
+			"city__state": "nashville__tn",
+			"localNumber": "6158891000",
+			"complexNumber": "8773271468",
+			"segmentNumber": "",
+			"largeGroupNumber": "8773271469"
+		},
+		{
+			"hotelMarsha": "BNASA",
+			"propertyName": "SpringHill Suites Nashville Airport",
+			"city__state": "nashville__tn",
+			"localNumber": "6158846111",
+			"complexNumber": "8668999826",
+			"segmentNumber": "8442057658",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BNATN",
+			"propertyName": "Nashville Airport Marriott",
+			"city__state": "nashville__tn",
+			"localNumber": "6158899300",
+			"complexNumber": "8668999827",
+			"segmentNumber": "8888640370",
+			"largeGroupNumber": "8777541274"
+		},
+		{
+			"hotelMarsha": "BNADT",
+			"propertyName": "Courtyard Nashville Downtown",
+			"city__state": "nashville__tn",
+			"localNumber": "6152560900",
+			"complexNumber": "8668991997",
+			"segmentNumber": "8442057651",
+			"largeGroupNumber": ""
+		}
+	],
+	" A Gaylord Hotel\"": [
+		{
+			"hotelMarsha": "BNAGI",
+			"propertyName": "\"The Inn at Opryland",
+			"city__state": " A Gaylord Hotel\"",
+			"localNumber": "nashville__tn",
+			"complexNumber": "6158890800",
+			"segmentNumber": "8773271466",
+			"largeGroupNumber": "8774343165",
+			"undefined": "8773271467"
+		}
+	],
+	"chattanooga__tn": [
+		{
+			"hotelMarsha": "CHACH",
+			"propertyName": "Courtyard Chattanooga I-75",
+			"city__state": "chattanooga__tn",
+			"localNumber": "4234994400",
+			"complexNumber": "8669006645",
+			"segmentNumber": "8442057659",
+			"largeGroupNumber": ""
+		}
+	],
+	"kingsport__tn": [
+		{
+			"hotelMarsha": "TRICC",
+			"propertyName": "MeadowView Conference Resort & Convention Center",
+			"city__state": "kingsport__tn",
+			"localNumber": "4235786600",
+			"complexNumber": "8662450902",
+			"segmentNumber": "8667875188",
+			"largeGroupNumber": "8774342980"
+		}
+	],
+	"memphis__tn": [
+		{
+			"hotelMarsha": "MEMPA",
+			"propertyName": "Courtyard Memphis East/Park Avenue",
+			"city__state": "memphis__tn",
+			"localNumber": "9017610330",
+			"complexNumber": "8663970146",
+			"segmentNumber": "8442057857",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MEMCA",
+			"propertyName": "Courtyard Memphis Airport",
+			"city__state": "memphis__tn",
+			"localNumber": "9013963600",
+			"complexNumber": "8663970144",
+			"segmentNumber": "8442057849",
+			"largeGroupNumber": ""
+		}
+	],
+	"louisville__ky": [
+		{
+			"hotelMarsha": "SDFCH",
+			"propertyName": "Courtyard Louisville East",
+			"city__state": "louisville__ky",
+			"localNumber": "",
+			"complexNumber": "8667597983",
+			"segmentNumber": "8448469550",
+			"largeGroupNumber": ""
+		}
+	],
+	"lexington__ky": [
+		{
+			"hotelMarsha": "LEXKY",
+			"propertyName": "Griffin Gate Marriott Resort & Spa",
+			"city__state": "lexington__ky",
+			"localNumber": "",
+			"complexNumber": "8667597859",
+			"segmentNumber": "8448469551",
+			"largeGroupNumber": "8667102432"
+		}
+	],
+	"covington__ky": [
+		{
+			"hotelMarsha": "CVGCY",
+			"propertyName": "Courtyard Cincinnati Covington",
+			"city__state": "covington__ky",
+			"localNumber": "",
+			"complexNumber": "8663982002",
+			"segmentNumber": "8448469543",
+			"largeGroupNumber": ""
+		}
+	],
+	"dublin__oh": [
+		{
+			"hotelMarsha": "CMHDB",
+			"propertyName": "Courtyard Columbus Dublin",
+			"city__state": "dublin__oh",
+			"localNumber": "",
+			"complexNumber": "8662141477",
+			"segmentNumber": "8448250998",
+			"largeGroupNumber": ""
+		}
+	],
+	"columbus__oh": [
+		{
+			"hotelMarsha": "CMHBR",
+			"propertyName": "Renaissance Columbus Downtown Hotel",
+			"city__state": "columbus__oh",
+			"localNumber": "",
+			"complexNumber": "8662141039",
+			"segmentNumber": "8448469552",
+			"largeGroupNumber": "8663448281"
+		},
+		{
+			"hotelMarsha": "CMHCW",
+			"propertyName": "Courtyard Columbus Worthington",
+			"city__state": "columbus__oh",
+			"localNumber": "",
+			"complexNumber": "8662141449",
+			"segmentNumber": "8448250997",
+			"largeGroupNumber": ""
+		}
+	],
+	"rossford__oh": [
+		{
+			"hotelMarsha": "TOLCR",
+			"propertyName": "Courtyard Toledo Rossford/Perrysburg",
+			"city__state": "rossford__oh",
+			"localNumber": "",
+			"complexNumber": "8667597985",
+			"segmentNumber": "8448250364",
+			"largeGroupNumber": ""
+		}
+	],
+	"maumee__oh": [
+		{
+			"hotelMarsha": "TOLCY",
+			"propertyName": "Courtyard Toledo Maumee/Arrowhead",
+			"city__state": "maumee__oh",
+			"localNumber": "",
+			"complexNumber": "8663982154",
+			"segmentNumber": "8448250365",
+			"largeGroupNumber": ""
+		}
+	],
+	"north_olmstead__oh": [
+		{
+			"hotelMarsha": "CLENO",
+			"propertyName": "Courtyard Cleveland Airport North",
+			"city__state": "north_olmstead__oh",
+			"localNumber": "",
+			"complexNumber": "8667538679",
+			"segmentNumber": "8448250996",
+			"largeGroupNumber": ""
+		}
+	],
+	"cleveland__oh": [
+		{
+			"hotelMarsha": "CLESC",
+			"propertyName": "Cleveland Marriott Downtown at Key Center",
+			"city__state": "cleveland__oh",
+			"localNumber": "",
+			"complexNumber": "8667538680",
+			"segmentNumber": "8448250983",
+			"largeGroupNumber": "8667102431"
+		},
+		{
+			"hotelMarsha": "CLEAP",
+			"propertyName": "Cleveland Airport Marriott",
+			"city__state": "cleveland__oh",
+			"localNumber": "",
+			"complexNumber": "8663393958",
+			"segmentNumber": "8448250982",
+			"largeGroupNumber": "8667102406"
+		}
+	],
+	"independence__oh": [
+		{
+			"hotelMarsha": "CLECI",
+			"propertyName": "Courtyard Cleveland Independence",
+			"city__state": "independence__oh",
+			"localNumber": "",
+			"complexNumber": "8667538677",
+			"segmentNumber": "8448469792",
+			"largeGroupNumber": ""
+		}
+	],
+	"cincinnati__oh": [
+		{
+			"hotelMarsha": "CVGKG",
+			"propertyName": "Kingsgate Marriott Conference Center at the University of Cincinnati",
+			"city__state": "cincinnati__oh",
+			"localNumber": "",
+			"complexNumber": "8663982018",
+			"segmentNumber": "8448469553",
+			"largeGroupNumber": ""
+		}
+	],
+	"blue_ash__oh": [
+		{
+			"hotelMarsha": "CVGBA",
+			"propertyName": "Courtyard Cincinnati Blue Ash",
+			"city__state": "blue_ash__oh",
+			"localNumber": "",
+			"complexNumber": "8663981997",
+			"segmentNumber": "8448250999",
+			"largeGroupNumber": ""
+		}
+	],
+	"indianapolis__in": [
+		{
+			"hotelMarsha": "INDCA",
+			"propertyName": "Courtyard Indianapolis Airport",
+			"city__state": "indianapolis__in",
+			"localNumber": "",
+			"complexNumber": "8666232975",
+			"segmentNumber": "8448469545",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "INDCS",
+			"propertyName": "Courtyard Indianapolis Castleton",
+			"city__state": "indianapolis__in",
+			"localNumber": "",
+			"complexNumber": "8666232977",
+			"segmentNumber": "8448469547",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "INDCM",
+			"propertyName": "Courtyard Indianapolis Carmel",
+			"city__state": "indianapolis__in",
+			"localNumber": "",
+			"complexNumber": "8666232976",
+			"segmentNumber": "8448469546",
+			"largeGroupNumber": ""
+		}
+	],
+	"troy__mi": [
+		{
+			"hotelMarsha": "DTTTR",
+			"propertyName": "Courtyard Detroit Troy",
+			"city__state": "troy__mi",
+			"localNumber": "",
+			"complexNumber": "8667602405",
+			"segmentNumber": "8662140766",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DTTTT",
+			"propertyName": "Detroit Marriott Troy",
+			"city__state": "troy__mi",
+			"localNumber": "",
+			"complexNumber": "8667602420",
+			"segmentNumber": "8448250984",
+			"largeGroupNumber": "8663437611"
+		}
+	],
+	"warren__mi": [
+		{
+			"hotelMarsha": "DTTWR",
+			"propertyName": "Courtyard Detroit Warren",
+			"city__state": "warren__mi",
+			"localNumber": "",
+			"complexNumber": "8667602421",
+			"segmentNumber": "8662141512",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DTWRI",
+			"propertyName": "Residence Inn Detroit Warren",
+			"city__state": "warren__mi",
+			"localNumber": "",
+			"complexNumber": "8663237554",
+			"segmentNumber": "8663237519",
+			"largeGroupNumber": ""
+		}
+	],
+	" A Marriott Hotel\"": [
+		{
+			"hotelMarsha": "DTWDI",
+			"propertyName": "\"The Dearborn Inn",
+			"city__state": " A Marriott Hotel\"",
+			"localNumber": "dearborn__mi",
+			"complexNumber": "",
+			"segmentNumber": "8663982168",
+			"largeGroupNumber": "8448250986",
+			"undefined": ""
+		}
+	],
+	"dearborn__mi": [
+		{
+			"hotelMarsha": "DTTDB",
+			"propertyName": "Courtyard Detroit Dearborn",
+			"city__state": "dearborn__mi",
+			"localNumber": "",
+			"complexNumber": "8667602403",
+			"segmentNumber": "8667538753",
+			"largeGroupNumber": ""
+		}
+	],
+	"livonia__mi": [
+		{
+			"hotelMarsha": "DETLV",
+			"propertyName": "Courtyard Detroit Livonia",
+			"city__state": "livonia__mi",
+			"localNumber": "",
+			"complexNumber": "8667602397",
+			"segmentNumber": "8667538676",
+			"largeGroupNumber": ""
+		}
+	],
+	"romulus__mi": [
+		{
+			"hotelMarsha": "DTWCA",
+			"propertyName": "Courtyard Detroit Metro Airport Romulus",
+			"city__state": "romulus__mi",
+			"localNumber": "",
+			"complexNumber": "8669478440",
+			"segmentNumber": "8663231940",
+			"largeGroupNumber": ""
+		}
+	],
+	"detroit__mi": [
+		{
+			"hotelMarsha": "DTWCW",
+			"propertyName": "The Westin Book Cadillac Detroit",
+			"city__state": "detroit__mi",
+			"localNumber": "3134421600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DTWDC",
+			"propertyName": "Courtyard Detroit Downtown",
+			"city__state": "detroit__mi",
+			"localNumber": "",
+			"complexNumber": "8663982166",
+			"segmentNumber": "8448250985",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DTWMA",
+			"propertyName": "The Westin Detroit Metropolitan Airport",
+			"city__state": "detroit__mi",
+			"localNumber": "7349426500",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DTWDT",
+			"propertyName": "Detroit Marriott at the Renaissance Center",
+			"city__state": "detroit__mi",
+			"localNumber": "",
+			"complexNumber": "8663982170",
+			"segmentNumber": "8448250367",
+			"largeGroupNumber": "8667102407"
+		}
+	],
+	"auburn_hills__mi": [
+		{
+			"hotelMarsha": "DTWAB",
+			"propertyName": "Courtyard Detroit Auburn Hills",
+			"city__state": "auburn_hills__mi",
+			"localNumber": "",
+			"complexNumber": "8667602422",
+			"segmentNumber": "8663231818",
+			"largeGroupNumber": ""
+		}
+	],
+	"novi__mi": [
+		{
+			"hotelMarsha": "DTWNV",
+			"propertyName": "Courtyard Detroit Novi",
+			"city__state": "novi__mi",
+			"localNumber": "",
+			"complexNumber": "8663982162",
+			"segmentNumber": "8663237517",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DTWTS",
+			"propertyName": "TownePlace Suites Detroit Novi",
+			"city__state": "novi__mi",
+			"localNumber": "",
+			"complexNumber": "8663237561",
+			"segmentNumber": "8663982019",
+			"largeGroupNumber": ""
+		}
+	],
+	"des_moines__ia": [
+		{
+			"hotelMarsha": "DSMIA",
+			"propertyName": "Des Moines Marriott Downtown",
+			"city__state": "des_moines__ia",
+			"localNumber": "",
+			"complexNumber": "8666232974",
+			"segmentNumber": "8448250989",
+			"largeGroupNumber": "8669475681"
+		}
+	],
+	"clive__ia": [
+		{
+			"hotelMarsha": "DSMCH",
+			"propertyName": "Courtyard Des Moines West/Clive",
+			"city__state": "clive__ia",
+			"localNumber": "",
+			"complexNumber": "8666232973",
+			"segmentNumber": "8667538678",
+			"largeGroupNumber": ""
+		}
+	],
+	"coralville__ia": [
+		{
+			"hotelMarsha": "CIDIC",
+			"propertyName": "Coralville Marriott Hotel & Conference Center",
+			"city__state": "coralville__ia",
+			"localNumber": "",
+			"complexNumber": "8772303408",
+			"segmentNumber": "8448250988",
+			"largeGroupNumber": "8669475676"
+		}
+	],
+	"bettendorf__ia": [
+		{
+			"hotelMarsha": "MLICH",
+			"propertyName": "Courtyard Bettendorf Quad Cities",
+			"city__state": "bettendorf__ia",
+			"localNumber": "",
+			"complexNumber": "8663991041",
+			"segmentNumber": "8669479412",
+			"largeGroupNumber": ""
+		}
+	],
+	"brookfield__wi": [
+		{
+			"hotelMarsha": "MKEBC",
+			"propertyName": "Courtyard Milwaukee Brookfield",
+			"city__state": "brookfield__wi",
+			"localNumber": "",
+			"complexNumber": "8663990892",
+			"segmentNumber": "8667597982",
+			"largeGroupNumber": ""
+		}
+	],
+	"mendota_heights__mn": [
+		{
+			"hotelMarsha": "MSPMH",
+			"propertyName": "Courtyard Minneapolis-St. Paul Airport",
+			"city__state": "mendota_heights__mn",
+			"localNumber": "",
+			"complexNumber": "8663393354",
+			"segmentNumber": "8669475058",
+			"largeGroupNumber": ""
+		}
+	],
+	"eden_prairie__mn": [
+		{
+			"hotelMarsha": "MSPED",
+			"propertyName": "Courtyard Minneapolis Eden Prairie",
+			"city__state": "eden_prairie__mn",
+			"localNumber": "",
+			"complexNumber": "8667597907",
+			"segmentNumber": "8669475054",
+			"largeGroupNumber": ""
+		}
+	],
+	"minneapolis__mn": [
+		{
+			"hotelMarsha": "MSPCC",
+			"propertyName": "Minneapolis Marriott City Center",
+			"city__state": "minneapolis__mn",
+			"localNumber": "",
+			"complexNumber": "8667597903",
+			"segmentNumber": "8448250992",
+			"largeGroupNumber": "8667102436"
+		},
+		{
+			"hotelMarsha": "MSPWH",
+			"propertyName": "W Minneapolis - The Foshay",
+			"city__state": "minneapolis__mn",
+			"localNumber": "6122153700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSPMD",
+			"propertyName": "Le Meridien Chambers Minneapolis",
+			"city__state": "minneapolis__mn",
+			"localNumber": "6127676900",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSPJW",
+			"propertyName": "JW Marriott Minneapolis Mall of America",
+			"city__state": "minneapolis__mn",
+			"localNumber": "",
+			"complexNumber": "8664796411",
+			"segmentNumber": "8448250991",
+			"largeGroupNumber": "8669475694"
+		}
+	],
+	"arlington_heights__il": [
+		{
+			"hotelMarsha": "CHIAN",
+			"propertyName": "Courtyard Chicago Arlington Heights/North",
+			"city__state": "arlington_heights__il",
+			"localNumber": "",
+			"complexNumber": "8669024515",
+			"segmentNumber": "8669475085",
+			"largeGroupNumber": ""
+		}
+	],
+	"des_plaines__il": [
+		{
+			"hotelMarsha": "CHICA",
+			"propertyName": "Courtyard Chicago O'Hare",
+			"city__state": "des_plaines__il",
+			"localNumber": "",
+			"complexNumber": "8665339945",
+			"segmentNumber": "8668448437",
+			"largeGroupNumber": ""
+		}
+	],
+	"rosemont__il": [
+		{
+			"hotelMarsha": "CHIWA",
+			"propertyName": "The Westin O'Hare",
+			"city__state": "rosemont__il",
+			"localNumber": "8476986000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"highland_park__il": [
+		{
+			"hotelMarsha": "CHIHP",
+			"propertyName": "Courtyard Chicago Highland Park/Northbrook",
+			"city__state": "highland_park__il",
+			"localNumber": "",
+			"complexNumber": "8665339953",
+			"segmentNumber": "8663391479",
+			"largeGroupNumber": ""
+		}
+	],
+	"lincolnshire__il": [
+		{
+			"hotelMarsha": "CHILS",
+			"propertyName": "Courtyard Chicago Lincolnshire",
+			"city__state": "lincolnshire__il",
+			"localNumber": "",
+			"complexNumber": "8666964886",
+			"segmentNumber": "8663231447",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHISH",
+			"propertyName": "SpringHill Suites Chicago Lincolnshire",
+			"city__state": "lincolnshire__il",
+			"localNumber": "",
+			"complexNumber": "8663998104",
+			"segmentNumber": "8664798252",
+			"largeGroupNumber": ""
+		}
+	],
+	"waukengan__il": [
+		{
+			"hotelMarsha": "CHIRW",
+			"propertyName": "Residence Inn Chicago Waukegan/Gurnee",
+			"city__state": "waukengan__il",
+			"localNumber": "",
+			"complexNumber": "8663998098",
+			"segmentNumber": "8664796415",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIWK",
+			"propertyName": "Courtyard Chicago Waukegan/Gurnee",
+			"city__state": "waukengan__il",
+			"localNumber": "",
+			"complexNumber": "8669478330",
+			"segmentNumber": "8667538474",
+			"largeGroupNumber": ""
+		}
+	],
+	"dundee__il": [
+		{
+			"hotelMarsha": "CHIDN",
+			"propertyName": "Courtyard Chicago Elgin/West Dundee",
+			"city__state": "dundee__il",
+			"localNumber": "",
+			"complexNumber": "8665339948",
+			"segmentNumber": "8663982174",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHITS",
+			"propertyName": "TownePlace Suites Chicago Elgin/West Dundee",
+			"city__state": "dundee__il",
+			"localNumber": "",
+			"complexNumber": "8666232371",
+			"segmentNumber": "8663393357",
+			"largeGroupNumber": ""
+		}
+	],
+	"lombard__il": [
+		{
+			"hotelMarsha": "CHILY",
+			"propertyName": "The Westin Lombard Yorktown Center",
+			"city__state": "lombard__il",
+			"localNumber": "6307198000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHITL",
+			"propertyName": "TownePlace Suites Chicago Lombard",
+			"city__state": "lombard__il",
+			"localNumber": "",
+			"complexNumber": "8666232299",
+			"segmentNumber": "8664793405",
+			"largeGroupNumber": ""
+		}
+	],
+	"schaumburg__il": [
+		{
+			"hotelMarsha": "CHIRS",
+			"propertyName": "Renaissance Schaumburg Convention Center Hotel",
+			"city__state": "schaumburg__il",
+			"localNumber": "",
+			"complexNumber": "8772948662",
+			"segmentNumber": "8448250994",
+			"largeGroupNumber": "8669475059"
+		}
+	],
+	"oakbrook_terrace__il": [
+		{
+			"hotelMarsha": "CHIOT",
+			"propertyName": "Courtyard Chicago Oakbrook Terrace",
+			"city__state": "oakbrook_terrace__il",
+			"localNumber": "",
+			"complexNumber": "8663998096",
+			"segmentNumber": "8663237563",
+			"largeGroupNumber": ""
+		}
+	],
+	"downers_grove__il": [
+		{
+			"hotelMarsha": "CHIDG",
+			"propertyName": "Chicago Marriott Suites Downers Grove",
+			"city__state": "downers_grove__il",
+			"localNumber": "",
+			"complexNumber": "8665339947",
+			"segmentNumber": "8663998095",
+			"largeGroupNumber": ""
+		}
+	],
+	"oak_brook__il": [
+		{
+			"hotelMarsha": "CHIOB",
+			"propertyName": "Chicago Marriott Oak Brook",
+			"city__state": "oak_brook__il",
+			"localNumber": "",
+			"complexNumber": "8666965051",
+			"segmentNumber": "8665339949",
+			"largeGroupNumber": "8669479420"
+		}
+	],
+	"naperville__il": [
+		{
+			"hotelMarsha": "CHINP",
+			"propertyName": "Courtyard Chicago Naperville",
+			"city__state": "naperville__il",
+			"localNumber": "",
+			"complexNumber": "8666965038",
+			"segmentNumber": "8663237559",
+			"largeGroupNumber": ""
+		}
+	],
+	"chicago__il": [
+		{
+			"hotelMarsha": "CHISR",
+			"propertyName": "Renaissance Chicago Downtown Hotel",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8663998105",
+			"segmentNumber": "8666964949",
+			"largeGroupNumber": "8669475060"
+		},
+		{
+			"hotelMarsha": "CHIRL",
+			"propertyName": "Residence Inn Chicago Downtown/Loop",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8667538475",
+			"segmentNumber": "8666964679",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIJW",
+			"propertyName": "JW Marriott Chicago",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8663998101",
+			"segmentNumber": "8665339891",
+			"largeGroupNumber": "8664793406"
+		},
+		{
+			"hotelMarsha": "CHIDT",
+			"propertyName": "Chicago Marriott Downtown Magnificent Mile",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8665339951",
+			"segmentNumber": "8663991044",
+			"largeGroupNumber": "8669472982"
+		},
+		{
+			"hotelMarsha": "CHIGS",
+			"propertyName": "Sheraton Grand Chicago",
+			"city__state": "chicago__il",
+			"localNumber": "3124641000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIRD",
+			"propertyName": "Residence Inn Chicago Downtown/Magnificent Mile",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8663998097",
+			"segmentNumber": "8667538349",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIWB",
+			"propertyName": "Courtyard Chicago Downtown/River North",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8666232533",
+			"segmentNumber": "8667602348",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIWI",
+			"propertyName": "The Westin Michigan Avenue Chicago",
+			"city__state": "chicago__il",
+			"localNumber": "3129437200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIMQ",
+			"propertyName": "Marriott Marquis Chicago",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8664798251",
+			"segmentNumber": "8669475082",
+			"largeGroupNumber": "8664798257"
+		},
+		{
+			"hotelMarsha": "CHIAP",
+			"propertyName": "Chicago Marriott O'Hare",
+			"city__state": "chicago__il",
+			"localNumber": "",
+			"complexNumber": "8669024516",
+			"segmentNumber": "8448250995",
+			"largeGroupNumber": "8669479410"
+		},
+		{
+			"hotelMarsha": "CHINO",
+			"propertyName": "The Westin Chicago River North",
+			"city__state": "chicago__il",
+			"localNumber": "3127441900",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIWC",
+			"propertyName": "W Chicago - City Center",
+			"city__state": "chicago__il",
+			"localNumber": "3123321200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "CHIWH",
+			"propertyName": "W Chicago - Lakeshore",
+			"city__state": "chicago__il",
+			"localNumber": "3129439200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"chesterfield__mo": [
+		{
+			"hotelMarsha": "STLSH",
+			"propertyName": "SpringHill Suites St. Louis Chesterfield",
+			"city__state": "chesterfield__mo",
+			"localNumber": "",
+			"complexNumber": "8664798259",
+			"segmentNumber": "8448250361",
+			"largeGroupNumber": ""
+		}
+	],
+	"st_louis__mo": [
+		{
+			"hotelMarsha": "STLBR",
+			"propertyName": "Courtyard St. Louis Airport/Earth City",
+			"city__state": "st_louis__mo",
+			"localNumber": "",
+			"complexNumber": "8664796412",
+			"segmentNumber": "8669479421",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "STLEC",
+			"propertyName": "SpringHill Suites St. Louis Airport/Earth City",
+			"city__state": "st_louis__mo",
+			"localNumber": "",
+			"complexNumber": "8772948678",
+			"segmentNumber": "8448250360",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "STLMG",
+			"propertyName": "Marriott St. Louis Grand",
+			"city__state": "st_louis__mo",
+			"localNumber": "",
+			"complexNumber": "8664798249",
+			"segmentNumber": "8448250987",
+			"largeGroupNumber": "8669475061"
+		},
+		{
+			"hotelMarsha": "STLDW",
+			"propertyName": "Courtyard St. Louis Downtown/Convention Center",
+			"city__state": "st_louis__mo",
+			"localNumber": "",
+			"complexNumber": "8664793410",
+			"segmentNumber": "8448250366",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "STLCH",
+			"propertyName": "Courtyard St Louis Downtown West",
+			"city__state": "st_louis__mo",
+			"localNumber": "",
+			"complexNumber": "8664796416",
+			"segmentNumber": "8669479423",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "STLWP",
+			"propertyName": "Courtyard St. Louis Westport Plaza",
+			"city__state": "st_louis__mo",
+			"localNumber": "",
+			"complexNumber": "8664798261",
+			"segmentNumber": "8448250362",
+			"largeGroupNumber": ""
+		}
+	],
+	"brentwood__mo": [
+		{
+			"hotelMarsha": "STLBW",
+			"propertyName": "SpringHill Suites St. Louis Brentwood",
+			"city__state": "brentwood__mo",
+			"localNumber": "",
+			"complexNumber": "8772948648",
+			"segmentNumber": "8667102536",
+			"largeGroupNumber": ""
+		}
+	],
+	"creve_coeur__mo": [
+		{
+			"hotelMarsha": "STLCC",
+			"propertyName": "Courtyard St. Louis Creve Coeur",
+			"city__state": "creve_coeur__mo",
+			"localNumber": "",
+			"complexNumber": "8664796414",
+			"segmentNumber": "8669475057",
+			"largeGroupNumber": ""
+		}
+	],
+	"kansas_city__mo": [
+		{
+			"hotelMarsha": "MCICR",
+			"propertyName": "Sheraton Kansas City Hotel at Crown Center",
+			"city__state": "kansas_city__mo",
+			"localNumber": "8168411000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCIWI",
+			"propertyName": "The Westin Kansas City at Crown Center",
+			"city__state": "kansas_city__mo",
+			"localNumber": "8164744400",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCIHM",
+			"propertyName": "Courtyard Kansas City South",
+			"city__state": "kansas_city__mo",
+			"localNumber": "",
+			"complexNumber": "8664793409",
+			"segmentNumber": "8663982026",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCICA",
+			"propertyName": "Courtyard Kansas City Airport",
+			"city__state": "kansas_city__mo",
+			"localNumber": "",
+			"complexNumber": "8664793407",
+			"segmentNumber": "8663982022",
+			"largeGroupNumber": ""
+		}
+	],
+	"overland_park__ks": [
+		{
+			"hotelMarsha": "MCIOP",
+			"propertyName": "Marriott Kansas City Overland Park",
+			"city__state": "overland_park__ks",
+			"localNumber": "",
+			"complexNumber": "8664793411",
+			"segmentNumber": "8448250990",
+			"largeGroupNumber": "8669475688"
+		},
+		{
+			"hotelMarsha": "MCICC",
+			"propertyName": "Sheraton Overland Park Hotel At The Convention Center",
+			"city__state": "overland_park__ks",
+			"localNumber": "9132342100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MCICV",
+			"propertyName": "Courtyard Kansas City Overland Park/Convention Center",
+			"city__state": "overland_park__ks",
+			"localNumber": "",
+			"complexNumber": "8664793408",
+			"segmentNumber": "8663982023",
+			"largeGroupNumber": ""
+		}
+	],
+	" South of College Boulevard\"": [
+		{
+			"hotelMarsha": "MCIOV",
+			"propertyName": "\"Courtyard Kansas City Overland Park/Metcalf",
+			"city__state": " South of College Boulevard\"",
+			"localNumber": "overland_park__ks",
+			"complexNumber": "",
+			"segmentNumber": "8664793412",
+			"largeGroupNumber": "8667102437",
+			"undefined": ""
+		}
+	],
+	"omaha__ne": [
+		{
+			"hotelMarsha": "OMACY",
+			"propertyName": "Courtyard Omaha Downtown/Old Market Area",
+			"city__state": "omaha__ne",
+			"localNumber": "4023462200",
+			"complexNumber": "8882651423",
+			"segmentNumber": "8777854504",
+			"largeGroupNumber": ""
+		}
+	],
+	"metairie__la": [
+		{
+			"hotelMarsha": "MSYCM",
+			"propertyName": "Courtyard New Orleans Metairie",
+			"city__state": "metairie__la",
+			"localNumber": "5048383800",
+			"complexNumber": "8663970148",
+			"segmentNumber": "8445222828",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYRM",
+			"propertyName": "Residence Inn New Orleans Metairie",
+			"city__state": "metairie__la",
+			"localNumber": "5048320888",
+			"complexNumber": "8665180641",
+			"segmentNumber": "8445222833",
+			"largeGroupNumber": ""
+		}
+	],
+	"new_orleans__la": [
+		{
+			"hotelMarsha": "MSYBR",
+			"propertyName": "Renaissance New Orleans Pere Marquette French Quarter Area Hotel",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045251111",
+			"complexNumber": "8663970147",
+			"segmentNumber": "8777541440",
+			"largeGroupNumber": "8777541444"
+		},
+		{
+			"hotelMarsha": "MSYCI",
+			"propertyName": "Courtyard New Orleans French Quarter/Iberville",
+			"city__state": "new_orleans__la",
+			"localNumber": "",
+			"complexNumber": "8773276001",
+			"segmentNumber": "8445222835",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYCN",
+			"propertyName": "Courtyard New Orleans Downtown/Convention Center",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045989898",
+			"complexNumber": "8663979832",
+			"segmentNumber": "8445222829",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYCY",
+			"propertyName": "Courtyard New Orleans Downtown Near the French Quarter",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045819005",
+			"complexNumber": "8665180482",
+			"segmentNumber": "8445222831",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYDT",
+			"propertyName": "Renaissance New Orleans Arts Warehouse District Hotel",
+			"city__state": "new_orleans__la",
+			"localNumber": "5046132330",
+			"complexNumber": "8665180537",
+			"segmentNumber": "8777541545",
+			"largeGroupNumber": "8777541496"
+		},
+		{
+			"hotelMarsha": "MSYIS",
+			"propertyName": "Sheraton New Orleans Hotel",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045252500",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYJW",
+			"propertyName": "JW Marriott New Orleans",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045256500",
+			"complexNumber": "8665180579",
+			"segmentNumber": "8447466519",
+			"largeGroupNumber": "8664764430"
+		},
+		{
+			"hotelMarsha": "MSYLA",
+			"propertyName": "New Orleans Marriott",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045811000",
+			"complexNumber": "8665180582",
+			"segmentNumber": "8443585487",
+			"largeGroupNumber": "8774342977"
+		},
+		{
+			"hotelMarsha": "MSYMC",
+			"propertyName": "New Orleans Downtown Marriott at the Convention Center",
+			"city__state": "new_orleans__la",
+			"localNumber": "5046132888",
+			"complexNumber": "8665180631",
+			"segmentNumber": "8668990319",
+			"largeGroupNumber": "8777541543"
+		},
+		{
+			"hotelMarsha": "MSYMD",
+			"propertyName": "Le Meridien New Orleans",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045259444",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYRI",
+			"propertyName": "Residence Inn New Orleans Downtown",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045221300",
+			"complexNumber": "8665180640",
+			"segmentNumber": "8445222832",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYSH",
+			"propertyName": "SpringHill Suites New Orleans Downtown/Convention Center",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045223100",
+			"complexNumber": "8665180644",
+			"segmentNumber": "8445222834",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYWH",
+			"propertyName": "W New Orleans - French Quarter",
+			"city__state": "new_orleans__la",
+			"localNumber": "5045811200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"covington__la": [
+		{
+			"hotelMarsha": "MSYCV",
+			"propertyName": "Courtyard New Orleans Covington/Mandeville",
+			"city__state": "covington__la",
+			"localNumber": "9858710244",
+			"complexNumber": "8663989376",
+			"segmentNumber": "8445222830",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "MSYNS",
+			"propertyName": "Residence Inn New Orleans Covington/North Shore",
+			"city__state": "covington__la",
+			"localNumber": "9852467222",
+			"complexNumber": "8665320413",
+			"segmentNumber": "8445222838",
+			"largeGroupNumber": ""
+		}
+	],
+	"baton_rouge__la": [
+		{
+			"hotelMarsha": "BTRCH",
+			"propertyName": "Courtyard Baton Rouge Acadian Centre/LSU Area",
+			"city__state": "baton_rouge__la",
+			"localNumber": "2259246400",
+			"complexNumber": "8668999828",
+			"segmentNumber": "8445222827",
+			"largeGroupNumber": ""
+		}
+	],
+	"oklahoma_city__ok": [
+		{
+			"hotelMarsha": "OKCNW",
+			"propertyName": "Courtyard Oklahoma City Northwest",
+			"city__state": "oklahoma_city__ok",
+			"localNumber": "4058483113",
+			"complexNumber": "8668909831",
+			"segmentNumber": "8777854490",
+			"largeGroupNumber": ""
+		}
+	],
+	"addison__tx": [
+		{
+			"hotelMarsha": "DALSH",
+			"propertyName": "SpringHill Suites Dallas Addison/Quorum Drive",
+			"city__state": "addison__tx",
+			"localNumber": "9727741010",
+			"complexNumber": "8668559106",
+			"segmentNumber": "8882651382",
+			"largeGroupNumber": ""
+		}
+	],
+	"plano__tx": [
+		{
+			"hotelMarsha": "DALBP",
+			"propertyName": "Renaissance Dallas at Plano Legacy West Hotel",
+			"city__state": "plano__tx",
+			"localNumber": "4699251800",
+			"complexNumber": "8666992260",
+			"segmentNumber": "8666289821",
+			"largeGroupNumber": "8772571780"
+		},
+		{
+			"hotelMarsha": "DALLP",
+			"propertyName": "Courtyard Dallas Plano in Legacy Park",
+			"city__state": "plano__tx",
+			"localNumber": "9724030802",
+			"complexNumber": "8666999858",
+			"segmentNumber": "8665763167",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALPL",
+			"propertyName": "Residence Inn Dallas Plano",
+			"city__state": "plano__tx",
+			"localNumber": "9724736761",
+			"complexNumber": "8666289851",
+			"segmentNumber": "8665569787",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALPT",
+			"propertyName": "Dallas/Plano Marriott at Legacy Town Center",
+			"city__state": "plano__tx",
+			"localNumber": "9724736444",
+			"complexNumber": "8668260045",
+			"segmentNumber": "8772454950",
+			"largeGroupNumber": "8772571730"
+		},
+		{
+			"hotelMarsha": "DALPN",
+			"propertyName": "Courtyard Dallas Plano Parkway at Preston Road",
+			"city__state": "plano__tx",
+			"localNumber": "9728678000",
+			"complexNumber": "8666289889",
+			"segmentNumber": "8668900992",
+			"largeGroupNumber": ""
+		}
+	],
+	"frisco__tx": [
+		{
+			"hotelMarsha": "DALSA",
+			"propertyName": "Sheraton Stonebriar Hotel",
+			"city__state": "frisco__tx",
+			"localNumber": "9726688700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALSB",
+			"propertyName": "The Westin Stonebriar Hotel & Golf Club",
+			"city__state": "frisco__tx",
+			"localNumber": "9726688000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"irving__tx": [
+		{
+			"hotelMarsha": "DALLA",
+			"propertyName": "Courtyard Dallas Las Colinas",
+			"city__state": "irving__tx",
+			"localNumber": "9725508100",
+			"complexNumber": "8666992438",
+			"segmentNumber": "8663147195",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALLS",
+			"propertyName": "Residence Inn Dallas Las Colinas",
+			"city__state": "irving__tx",
+			"localNumber": "9725807773",
+			"complexNumber": "8666999860",
+			"segmentNumber": "8887957553",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALIW",
+			"propertyName": "The Westin Irving Convention Center at Las Colinas",
+			"city__state": "irving__tx",
+			"localNumber": "9725052900",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"richardson__tx": [
+		{
+			"hotelMarsha": "DALNE",
+			"propertyName": "Courtyard Dallas Richardson at Spring Valley",
+			"city__state": "richardson__tx",
+			"localNumber": "9722355000",
+			"complexNumber": "8666289777",
+			"segmentNumber": "8663131956",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALRH",
+			"propertyName": "Residence Inn Dallas Richardson",
+			"city__state": "richardson__tx",
+			"localNumber": "9726695888",
+			"complexNumber": "8668558919",
+			"segmentNumber": "8668902407",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALRS",
+			"propertyName": "Courtyard Dallas Richardson at Campbell",
+			"city__state": "richardson__tx",
+			"localNumber": "9729949933",
+			"complexNumber": "8668559072",
+			"segmentNumber": "8665571701",
+			"largeGroupNumber": ""
+		}
+	],
+	"dallas__tx": [
+		{
+			"hotelMarsha": "DALDH",
+			"propertyName": "Sheraton Dallas Hotel",
+			"city__state": "dallas__tx",
+			"localNumber": "2149228000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALDT",
+			"propertyName": "Dallas Marriott City Center",
+			"city__state": "dallas__tx",
+			"localNumber": "2149799000",
+			"complexNumber": "8665571692",
+			"segmentNumber": "8772454701",
+			"largeGroupNumber": "8884976264"
+		},
+		{
+			"hotelMarsha": "DALBR",
+			"propertyName": "Renaissance Dallas Hotel",
+			"city__state": "dallas__tx",
+			"localNumber": "2146312222",
+			"complexNumber": "8666992423",
+			"segmentNumber": "8778088932",
+			"largeGroupNumber": "8884976261"
+		},
+		{
+			"hotelMarsha": "DALWH",
+			"propertyName": "W Dallas - Victory",
+			"city__state": "dallas__tx",
+			"localNumber": "2143974100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALCC",
+			"propertyName": "Courtyard Dallas Central Expressway",
+			"city__state": "dallas__tx",
+			"localNumber": "2147392500",
+			"complexNumber": "8666992430",
+			"segmentNumber": "8666289847",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALCE",
+			"propertyName": "Residence Inn Dallas Central Expressway",
+			"city__state": "dallas__tx",
+			"localNumber": "2147508220",
+			"complexNumber": "8666992433",
+			"segmentNumber": "8665763161",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALGW",
+			"propertyName": "The Westin Galleria Dallas",
+			"city__state": "dallas__tx",
+			"localNumber": "9729349494",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DALMK",
+			"propertyName": "Residence Inn Dallas Market Center",
+			"city__state": "dallas__tx",
+			"localNumber": "2146312472",
+			"complexNumber": "8666289585",
+			"segmentNumber": "8665567915",
+			"largeGroupNumber": ""
+		}
+	],
+	"arlington__tx": [
+		{
+			"hotelMarsha": "DALAL",
+			"propertyName": "Courtyard Dallas Arlington/Entertainment District",
+			"city__state": "arlington__tx",
+			"localNumber": "8712772774",
+			"complexNumber": "8666992177",
+			"segmentNumber": "8666992439",
+			"largeGroupNumber": ""
+		}
+	],
+	"grapevine__tx": [
+		{
+			"hotelMarsha": "DALGT",
+			"propertyName": "Gaylord Texan Resort & Convention Center",
+			"city__state": "grapevine__tx",
+			"localNumber": "8177781000",
+			"complexNumber": "8665763166",
+			"segmentNumber": "",
+			"largeGroupNumber": "8882369497"
+		}
+	],
+	"fort_worth__tx": [
+		{
+			"hotelMarsha": "DFWDT",
+			"propertyName": "The Worthington Renaissance Fort Worth Hotel",
+			"city__state": "fort_worth__tx",
+			"localNumber": "8178701000",
+			"complexNumber": "8668559182",
+			"segmentNumber": "8772455862",
+			"largeGroupNumber": "8772571805"
+		},
+		{
+			"hotelMarsha": "DFWMS",
+			"propertyName": "Courtyard Fort Worth Downtown/Blackstone",
+			"city__state": "fort_worth__tx",
+			"localNumber": "8178858700",
+			"complexNumber": "8668984259",
+			"segmentNumber": "8772455895",
+			"largeGroupNumber": "8772571818"
+		},
+		{
+			"hotelMarsha": "DFWCH",
+			"propertyName": "Courtyard Fort Worth University Drive",
+			"city__state": "fort_worth__tx",
+			"localNumber": "8173351300",
+			"complexNumber": "8668738072",
+			"segmentNumber": "8882651387",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DFWUV",
+			"propertyName": "SpringHill Suites Fort Worth University",
+			"city__state": "fort_worth__tx",
+			"localNumber": "8178782554",
+			"complexNumber": "8668989184",
+			"segmentNumber": "8665573674",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DFWFC",
+			"propertyName": "Courtyard Fort Worth Fossil Creek",
+			"city__state": "fort_worth__tx",
+			"localNumber": "8178470044",
+			"complexNumber": "8668983877",
+			"segmentNumber": "8665563925",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DFWRI",
+			"propertyName": "Residence Inn Fort Worth Fossil Creek",
+			"city__state": "fort_worth__tx",
+			"localNumber": "8174391300",
+			"complexNumber": "8668986080",
+			"segmentNumber": "8665566477",
+			"largeGroupNumber": ""
+		}
+	],
+	"westlake__tx": [
+		{
+			"hotelMarsha": "DALWL",
+			"propertyName": "Dallas/Fort Worth Marriott Solana",
+			"city__state": "westlake__tx",
+			"localNumber": "8174305000",
+			"complexNumber": "8668559192",
+			"segmentNumber": "8772455216",
+			"largeGroupNumber": "8772571799"
+		}
+	],
+	"houston__tx": [
+		{
+			"hotelMarsha": "HOUHB",
+			"propertyName": "Courtyard Houston Hobby Airport",
+			"city__state": "houston__tx",
+			"localNumber": "7139101700",
+			"complexNumber": "8663134197",
+			"segmentNumber": "8778969979",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUWL",
+			"propertyName": "Houston Marriott West Loop by The Galleria",
+			"city__state": "houston__tx",
+			"localNumber": "7139600111",
+			"complexNumber": "8882651385",
+			"segmentNumber": "8772708263",
+			"largeGroupNumber": "8777407995"
+		},
+		{
+			"hotelMarsha": "HOUMC",
+			"propertyName": "Houston Marriott Medical Center",
+			"city__state": "houston__tx",
+			"localNumber": "7137960080",
+			"complexNumber": "8663142640",
+			"segmentNumber": "8772455917",
+			"largeGroupNumber": "8777407912"
+		},
+		{
+			"hotelMarsha": "IAHAP",
+			"propertyName": "Houston Airport Marriott at George Bush Intercontinental",
+			"city__state": "houston__tx",
+			"localNumber": "2814432310",
+			"complexNumber": "8668908583",
+			"segmentNumber": "8665763165",
+			"largeGroupNumber": "8778763819"
+		},
+		{
+			"hotelMarsha": "IAHFP",
+			"propertyName": "Four Points by Sheraton Houston Intercontinental Airport",
+			"city__state": "houston__tx",
+			"localNumber": "8324303100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUWH",
+			"propertyName": "Sheraton Houston West Hotel",
+			"city__state": "houston__tx",
+			"localNumber": "2815014200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUXN",
+			"propertyName": "Residence Inn Houston West/Beltway 8 at Clay Road",
+			"city__state": "houston__tx",
+			"localNumber": "2818882465",
+			"complexNumber": "8772708484",
+			"segmentNumber": "8772708641",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUMQ",
+			"propertyName": "Marriott Marquis Houston",
+			"city__state": "houston__tx",
+			"localNumber": "7136291200",
+			"complexNumber": "8668994075",
+			"segmentNumber": "8772455906",
+			"largeGroupNumber": "8772571843"
+		},
+		{
+			"hotelMarsha": "HOUGW",
+			"propertyName": "The Westin Galleria Houston",
+			"city__state": "houston__tx",
+			"localNumber": "7139608100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUJW",
+			"propertyName": "JW Marriott Houston",
+			"city__state": "houston__tx",
+			"localNumber": "7139611500",
+			"complexNumber": "8663137709",
+			"segmentNumber": "8772455915",
+			"largeGroupNumber": "8777407907"
+		},
+		{
+			"hotelMarsha": "HOUOW",
+			"propertyName": "The Westin Oaks Houston at the Galleria",
+			"city__state": "houston__tx",
+			"localNumber": "7139608100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOURN",
+			"propertyName": "Residence Inn Houston Northwest/Cypress",
+			"city__state": "houston__tx",
+			"localNumber": "2812951777",
+			"complexNumber": "8663146658",
+			"segmentNumber": "8668906232",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUNW",
+			"propertyName": "Courtyard Houston Northwest",
+			"city__state": "houston__tx",
+			"localNumber": "2813746464",
+			"complexNumber": "8663146657",
+			"segmentNumber": "8777854427",
+			"largeGroupNumber": ""
+		}
+	],
+	" Memorial City\"": [
+		{
+			"hotelMarsha": "HOUMY",
+			"propertyName": "\"The Westin Houston",
+			"city__state": " Memorial City\"",
+			"localNumber": "houston__tx",
+			"complexNumber": "2815014300",
+			"segmentNumber": "",
+			"largeGroupNumber": "",
+			"undefined": ""
+		}
+	],
+	"tomball__tx": [
+		{
+			"hotelMarsha": "HOUTM",
+			"propertyName": "Residence Inn Houston Tomball",
+			"city__state": "tomball__tx",
+			"localNumber": "8329551750",
+			"complexNumber": "8777407994",
+			"segmentNumber": "8666991891",
+			"largeGroupNumber": ""
+		}
+	],
+	"the_woodlands__tx": [
+		{
+			"hotelMarsha": "HOUMW",
+			"propertyName": "The Woodlands Waterway Marriott Hotel & Convention Center",
+			"city__state": "the_woodlands__tx",
+			"localNumber": "2813679797",
+			"complexNumber": "8663146382",
+			"segmentNumber": "8772456166",
+			"largeGroupNumber": "8777407987"
+		}
+	],
+	"katy__tx": [
+		{
+			"hotelMarsha": "HOUKY",
+			"propertyName": "Courtyard Houston Katy Mills",
+			"city__state": "katy__tx",
+			"localNumber": "2816653189",
+			"complexNumber": "8669009713",
+			"segmentNumber": "8772571832",
+			"largeGroupNumber": ""
+		}
+	],
+	"pearland__tx": [
+		{
+			"hotelMarsha": "HOUCP",
+			"propertyName": "Courtyard Houston Pearland",
+			"city__state": "pearland__tx",
+			"localNumber": "7134130500",
+			"complexNumber": "8665763160",
+			"segmentNumber": "8778969836",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "HOUPL",
+			"propertyName": "Springhill Suites Houston Pearland",
+			"city__state": "pearland__tx",
+			"localNumber": "7134367377",
+			"complexNumber": "8772571727",
+			"segmentNumber": "8668903794",
+			"largeGroupNumber": ""
+		}
+	],
+	"seabrook__tx": [
+		{
+			"hotelMarsha": "HOUSE",
+			"propertyName": "Springhill Suites Houston Seabrook",
+			"city__state": "seabrook__tx",
+			"localNumber": "2814743456",
+			"complexNumber": "8772571844",
+			"segmentNumber": "8778763963",
+			"largeGroupNumber": ""
+		}
+	],
+	"san_antonio__tx": [
+		{
+			"hotelMarsha": "SATCD",
+			"propertyName": "Courtyard San Antonio Downtown/Market Square",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2102299449",
+			"complexNumber": "8663153241",
+			"segmentNumber": "8778087443",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SATCR",
+			"propertyName": "Courtyard San Antonio Riverwalk",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2102238888",
+			"complexNumber": "8663125945",
+			"segmentNumber": "8778087530",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SATDT",
+			"propertyName": "San Antonio Marriott Riverwalk",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2102244555",
+			"complexNumber": "8663157869",
+			"segmentNumber": "8778087728",
+			"largeGroupNumber": "8882381163"
+		},
+		{
+			"hotelMarsha": "SATRC",
+			"propertyName": "San Antonio Marriott Rivercenter",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2102231000",
+			"complexNumber": "8663161849",
+			"segmentNumber": "8778088921",
+			"largeGroupNumber": "8882398344"
+		},
+		{
+			"hotelMarsha": "SATRW",
+			"propertyName": "Residence Inn San Antonio Downtown/Alamo Plaza",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2122125555",
+			"complexNumber": "8663171244",
+			"segmentNumber": "8778088924",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SATAP",
+			"propertyName": "Residence Inn San Antonio Airport/Alamo Heights",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2108058118",
+			"complexNumber": "8668915948",
+			"segmentNumber": "8777854507",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SATCA",
+			"propertyName": "Courtyard San Antonio Airport",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2108287200",
+			"complexNumber": "8663151063",
+			"segmentNumber": "8778087329",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SATMC",
+			"propertyName": "Courtyard San Antonio Medical Center",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2106147100",
+			"complexNumber": "8663161296",
+			"segmentNumber": "8778087503",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SATJW",
+			"propertyName": "JW Marriott San Antonio Hill Country Resort & Spa",
+			"city__state": "san_antonio__tx",
+			"localNumber": "2102762500",
+			"complexNumber": "8668913146",
+			"segmentNumber": "8778088920",
+			"largeGroupNumber": "8882388854"
+		}
+	],
+	"georgetown__tx": [
+		{
+			"hotelMarsha": "ILEGT",
+			"propertyName": "Sheraton Georgetown Texas Hotel & Conference Center",
+			"city__state": "georgetown__tx",
+			"localNumber": "7374442700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"austin__tx": [
+		{
+			"hotelMarsha": "AUSWH",
+			"propertyName": "W Austin",
+			"city__state": "austin__tx",
+			"localNumber": "5125423600",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "AUSSH",
+			"propertyName": "Renaissance Austin Hotel",
+			"city__state": "austin__tx",
+			"localNumber": "5123432626",
+			"complexNumber": "8882651389",
+			"segmentNumber": "8778087524",
+			"largeGroupNumber": "8882381123"
+		}
+	],
+	"aurora__co": [
+		{
+			"hotelMarsha": "DENAU",
+			"propertyName": "Fairfield Inn & Suites Denver Aurora/Medical Center",
+			"city__state": "aurora__co",
+			"localNumber": "",
+			"complexNumber": "",
+			"segmentNumber": "8667840480",
+			"largeGroupNumber": ""
+		}
+	],
+	"greenwood_village__co": [
+		{
+			"hotelMarsha": "DENSE",
+			"propertyName": "Courtyard Denver Tech Center",
+			"city__state": "greenwood_village__co",
+			"localNumber": "13037210300",
+			"complexNumber": "8669404446",
+			"segmentNumber": "8665942034",
+			"largeGroupNumber": ""
+		}
+	],
+	"highlands_ranch__co": [
+		{
+			"hotelMarsha": "DENFS",
+			"propertyName": "Fairfield Inn & Suites Denver Tech Center/South",
+			"city__state": "highlands_ranch__co",
+			"localNumber": "",
+			"complexNumber": "",
+			"segmentNumber": "8667745177",
+			"largeGroupNumber": ""
+		}
+	],
+	"denver__co": [
+		{
+			"hotelMarsha": "DENDS",
+			"propertyName": "Sheraton Denver Downtown Hotel",
+			"city__state": "denver__co",
+			"localNumber": "3038933333",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DENWI",
+			"propertyName": "The Westin Denver Downtown",
+			"city__state": "denver__co",
+			"localNumber": "3035729100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DENCA",
+			"propertyName": "Courtyard Denver Stapleton",
+			"city__state": "denver__co",
+			"localNumber": "13033333303",
+			"complexNumber": "8665919993",
+			"segmentNumber": "8669404454",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DENAW",
+			"propertyName": "The Westin Denver International Airport",
+			"city__state": "denver__co",
+			"localNumber": "3033171800",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "DENAP",
+			"propertyName": "Courtyard Denver Airport",
+			"city__state": "denver__co",
+			"localNumber": "13033710300",
+			"complexNumber": "8665919986",
+			"segmentNumber": "8669404448",
+			"largeGroupNumber": ""
+		}
+	],
+	"westminster__co": [
+		{
+			"hotelMarsha": "DENWT",
+			"propertyName": "Fairfield Inn & Suites Denver North/Westminster",
+			"city__state": "westminster__co",
+			"localNumber": "",
+			"complexNumber": "",
+			"segmentNumber": "8667787304",
+			"largeGroupNumber": ""
+		}
+	],
+	"boulder__co": [
+		{
+			"hotelMarsha": "DENBD",
+			"propertyName": "Courtyard Boulder",
+			"city__state": "boulder__co",
+			"localNumber": "13034404700",
+			"complexNumber": "8665919987",
+			"segmentNumber": "8669404453",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "VBOCG",
+			"propertyName": "Residence Inn Boulder",
+			"city__state": "boulder__co",
+			"localNumber": "13034495545",
+			"complexNumber": "8665926465",
+			"segmentNumber": "8663991887",
+			"largeGroupNumber": ""
+		}
+	],
+	"golden__co": [
+		{
+			"hotelMarsha": "DENWE",
+			"propertyName": "Denver Marriott West",
+			"city__state": "golden__co",
+			"localNumber": "13032799100",
+			"complexNumber": "8665987326",
+			"segmentNumber": "8663993887",
+			"largeGroupNumber": "8667840482"
+		}
+	],
+	"mount_laurel__nj": [
+		{
+			"hotelMarsha": "PHLML",
+			"propertyName": "Courtyard Mt. Laurel",
+			"city__state": "mount_laurel__nj",
+			"localNumber": "8562734400",
+			"complexNumber": "8775327977",
+			"segmentNumber": "8888919360",
+			"largeGroupNumber": ""
+		}
+	],
+	"salt_lake_city__ut": [
+		{
+			"hotelMarsha": "SLCUT",
+			"propertyName": "Salt Lake Marriott Downtown at City Creek",
+			"city__state": "salt_lake_city__ut",
+			"localNumber": "18015310800",
+			"complexNumber": "8666100198",
+			"segmentNumber": "8665970968",
+			"largeGroupNumber": "8667700616"
+		}
+	],
+	"holladay__ut": [
+		{
+			"hotelMarsha": "SLCTT",
+			"propertyName": "Residence Inn Salt Lake City Cottonwood",
+			"city__state": "holladay__ut",
+			"localNumber": "18014530430",
+			"complexNumber": "8665910021",
+			"segmentNumber": "8662437620",
+			"largeGroupNumber": ""
+		}
+	],
+	"provo__ut": [
+		{
+			"hotelMarsha": "SLCVO",
+			"propertyName": "Provo Marriott Hotel & Conference Center",
+			"city__state": "provo__ut",
+			"localNumber": "",
+			"complexNumber": "8666145914",
+			"segmentNumber": "8663991876",
+			"largeGroupNumber": "8667770491"
+		}
+	],
+	"phoenix__az": [
+		{
+			"hotelMarsha": "PHXBD",
+			"propertyName": "Renaissance Phoenix Downtown Hotel",
+			"city__state": "phoenix__az",
+			"localNumber": "6023330000",
+			"complexNumber": "8663838693",
+			"segmentNumber": "8443774772",
+			"largeGroupNumber": "8663838958"
+		},
+		{
+			"hotelMarsha": "PHXGP",
+			"propertyName": "Sheraton Grand Phoenix Downtown Hotel",
+			"city__state": "phoenix__az",
+			"localNumber": "6022622500",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXIW",
+			"propertyName": "The Westin Phoenix Downtown",
+			"city__state": "phoenix__az",
+			"localNumber": "6024293500",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXCC",
+			"propertyName": "Courtyard Phoenix Camelback",
+			"city__state": "phoenix__az",
+			"localNumber": "6029555200",
+			"complexNumber": "8667661596",
+			"segmentNumber": "8665163845",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXMC",
+			"propertyName": "Courtyard Phoenix North",
+			"city__state": "phoenix__az",
+			"localNumber": "6026447373",
+			"complexNumber": "8663192396",
+			"segmentNumber": "8667984868",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXCA",
+			"propertyName": "Courtyard Phoenix Airport",
+			"city__state": "phoenix__az",
+			"localNumber": "4809664300",
+			"complexNumber": "8667661540",
+			"segmentNumber": "8667984862",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXDR",
+			"propertyName": "JW Marriott Phoenix Desert Ridge Resort & Spa",
+			"city__state": "phoenix__az",
+			"localNumber": "4802935000",
+			"complexNumber": "8667661532",
+			"segmentNumber": "",
+			"largeGroupNumber": "8663740885"
+		},
+		{
+			"hotelMarsha": "PHXMH",
+			"propertyName": "Residence Inn Phoenix Desert View at Mayo Clinic",
+			"city__state": "phoenix__az",
+			"localNumber": "4805631500",
+			"complexNumber": "8666879614",
+			"segmentNumber": "8663249914",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXWP",
+			"propertyName": "Sheraton Grand at Wild Horse Pass",
+			"city__state": "phoenix__az",
+			"localNumber": "6022250100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"mesa__az": [
+		{
+			"hotelMarsha": "PHXMA",
+			"propertyName": "Four Points by Sheraton at Phoenix Mesa Gateway Airport",
+			"city__state": "mesa__az",
+			"localNumber": "4805792100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXME",
+			"propertyName": "Courtyard Phoenix Mesa",
+			"city__state": "mesa__az",
+			"localNumber": "4804613000",
+			"complexNumber": "8662601417",
+			"segmentNumber": "8663243559",
+			"largeGroupNumber": ""
+		}
+	],
+	"chandler__az": [
+		{
+			"hotelMarsha": "PHXCL",
+			"propertyName": "Courtyard Phoenix Chandler",
+			"city__state": "chandler__az",
+			"localNumber": "4807639500",
+			"complexNumber": "8662521534",
+			"segmentNumber": "8667984866",
+			"largeGroupNumber": ""
+		}
+	],
+	"scottsdale__az": [
+		{
+			"hotelMarsha": "PHXPI",
+			"propertyName": "Courtyard Scottsdale Salt River",
+			"city__state": "scottsdale__az",
+			"localNumber": "4807458200",
+			"complexNumber": "8663839164",
+			"segmentNumber": "8663823968",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXSC",
+			"propertyName": "Courtyard Scottsdale Old Town",
+			"city__state": "scottsdale__az",
+			"localNumber": "4804297785",
+			"complexNumber": "8662676063",
+			"segmentNumber": "8666870325",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXST",
+			"propertyName": "Scottsdale Marriott Suites Old Town",
+			"city__state": "scottsdale__az",
+			"localNumber": "4809451550",
+			"complexNumber": "8667661538",
+			"segmentNumber": "8443740177",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXWH",
+			"propertyName": "W Scottsdale",
+			"city__state": "scottsdale__az",
+			"localNumber": "4809702100",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXCB",
+			"propertyName": "JW Marriott Scottsdale Camelback Inn Resort & Spa",
+			"city__state": "scottsdale__az",
+			"localNumber": "4809481700",
+			"complexNumber": "8667661531",
+			"segmentNumber": "",
+			"largeGroupNumber": "8663740637"
+		},
+		{
+			"hotelMarsha": "PHXRS",
+			"propertyName": "Residence Inn Scottsdale Paradise Valley",
+			"city__state": "scottsdale__az",
+			"localNumber": "4809488666",
+			"complexNumber": "8662676061",
+			"segmentNumber": "8663865480",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXWS",
+			"propertyName": "The Westin Kierland Resort & Spa",
+			"city__state": "scottsdale__az",
+			"localNumber": "4806241000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXMY",
+			"propertyName": "Courtyard Scottsdale at Mayo Clinic",
+			"city__state": "scottsdale__az",
+			"localNumber": "4808604000",
+			"complexNumber": "8662601977",
+			"segmentNumber": "8663032373",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXNO",
+			"propertyName": "Scottsdale Marriott at McDowell Mountains",
+			"city__state": "scottsdale__az",
+			"localNumber": "4805023836",
+			"complexNumber": "8667661535",
+			"segmentNumber": "",
+			"largeGroupNumber": "8663650626"
+		},
+		{
+			"hotelMarsha": "PHXTO",
+			"propertyName": "TownePlace Suites Scottsdale",
+			"city__state": "scottsdale__az",
+			"localNumber": "4805511100",
+			"complexNumber": "8667984859",
+			"segmentNumber": "8663248627",
+			"largeGroupNumber": ""
+		}
+	],
+	"tempe__az": [
+		{
+			"hotelMarsha": "PHXTD",
+			"propertyName": "Residence Inn Tempe Downtown/University",
+			"city__state": "tempe__az",
+			"localNumber": "4809672300",
+			"complexNumber": "8663192364",
+			"segmentNumber": "8667375697",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXTE",
+			"propertyName": "Courtyard Tempe Downtown",
+			"city__state": "tempe__az",
+			"localNumber": "4809662800",
+			"complexNumber": "8667984858",
+			"segmentNumber": "8662633240",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "PHXRT",
+			"propertyName": "Residence Inn Tempe",
+			"city__state": "tempe__az",
+			"localNumber": "4807562122",
+			"complexNumber": "8662676062",
+			"segmentNumber": "8663898797",
+			"largeGroupNumber": ""
+		}
+	],
+	"tucson__az": [
+		{
+			"hotelMarsha": "TUSSP",
+			"propertyName": "JW Marriott Tucson Starr Pass Resort & Spa",
+			"city__state": "tucson__az",
+			"localNumber": "5207923500",
+			"complexNumber": "8667661539",
+			"segmentNumber": "",
+			"largeGroupNumber": "8663880185"
+		}
+	],
+	"albuquerque__nm": [
+		{
+			"hotelMarsha": "ABQCA",
+			"propertyName": "Courtyard Albuquerque Airport",
+			"city__state": "albuquerque__nm",
+			"localNumber": "5058436600",
+			"complexNumber": "8665763162",
+			"segmentNumber": "8665574296",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "ABQRI",
+			"propertyName": "Residence Inn Albuquerque",
+			"city__state": "albuquerque__nm",
+			"localNumber": "5058812661",
+			"complexNumber": "8665763163",
+			"segmentNumber": "8778969709",
+			"largeGroupNumber": ""
+		}
+	],
+	"las_vegas__nv": [
+		{
+			"hotelMarsha": "LASNW",
+			"propertyName": "Courtyard Las Vegas Summerlin",
+			"city__state": "las_vegas__nv",
+			"localNumber": "7026464400",
+			"complexNumber": "8664793402",
+			"segmentNumber": "8662603260",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LASCH",
+			"propertyName": "Courtyard Las Vegas Convention Center",
+			"city__state": "las_vegas__nv",
+			"localNumber": "7027913600",
+			"complexNumber": "8665163843",
+			"segmentNumber": "8663244520",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LASNV",
+			"propertyName": "Residence Inn Las Vegas Convention Center",
+			"city__state": "las_vegas__nv",
+			"localNumber": "7027969300",
+			"complexNumber": "8664793401",
+			"segmentNumber": "8665163848",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LASST",
+			"propertyName": "Las Vegas Marriott",
+			"city__state": "las_vegas__nv",
+			"localNumber": "7026502000",
+			"complexNumber": "8664793404",
+			"segmentNumber": "8443740176",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LASHH",
+			"propertyName": "Residence Inn Las Vegas Hughes Center",
+			"city__state": "las_vegas__nv",
+			"localNumber": "7026500040",
+			"complexNumber": "8665163849",
+			"segmentNumber": "8665163847",
+			"largeGroupNumber": ""
+		}
+	],
+	"reno__nv": [
+		{
+			"hotelMarsha": "RNORI",
+			"propertyName": "Residence Inn Reno",
+			"city__state": "reno__nv",
+			"localNumber": "7758538800",
+			"complexNumber": "8663832953",
+			"segmentNumber": "8663865336",
+			"largeGroupNumber": ""
+		}
+	],
+	"los_angeles__ca": [
+		{
+			"hotelMarsha": "LAXJW",
+			"propertyName": "JW Marriott Los Angeles L.A. LIVE",
+			"city__state": "los_angeles__ca",
+			"localNumber": "2137658600",
+			"complexNumber": "8663832038",
+			"segmentNumber": "8443774778",
+			"largeGroupNumber": "8663710374"
+		},
+		{
+			"hotelMarsha": "LAXLD",
+			"propertyName": "Courtyard Los Angeles L.A. LIVE",
+			"city__state": "los_angeles__ca",
+			"localNumber": "2134439200",
+			"complexNumber": "8663854235",
+			"segmentNumber": "8443774773",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXRI",
+			"propertyName": "Residence Inn Los Angeles L.A. LIVE",
+			"city__state": "los_angeles__ca",
+			"localNumber": "2134439200",
+			"complexNumber": "8668695853",
+			"segmentNumber": "8443774775",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXGR",
+			"propertyName": "Sheraton Grand Los Angeles",
+			"city__state": "los_angeles__ca",
+			"localNumber": "2134883500",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXWB",
+			"propertyName": "W Los Angeles - West Beverly Hills",
+			"city__state": "los_angeles__ca",
+			"localNumber": "3102088765",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXWH",
+			"propertyName": "W Hollywood",
+			"city__state": "los_angeles__ca",
+			"localNumber": "3237981300",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXAP",
+			"propertyName": "Los Angeles Airport Marriott",
+			"city__state": "los_angeles__ca",
+			"localNumber": "3106415700",
+			"complexNumber": "8664847804",
+			"segmentNumber": "8443774776",
+			"largeGroupNumber": "8666797369"
+		},
+		{
+			"hotelMarsha": "LAXRR",
+			"propertyName": "Renaissance Los Angeles Airport Hotel",
+			"city__state": "los_angeles__ca",
+			"localNumber": "3103372800",
+			"complexNumber": "8662444978",
+			"segmentNumber": "8443774781",
+			"largeGroupNumber": "8666775628"
+		},
+		{
+			"hotelMarsha": "LAXWI",
+			"propertyName": "The Westin Los Angeles Airport",
+			"city__state": "los_angeles__ca",
+			"localNumber": "3102165858",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"el_segundo__ca": [
+		{
+			"hotelMarsha": "LAXCA",
+			"propertyName": "Courtyard Los Angeles LAX/El Segundo",
+			"city__state": "el_segundo__ca",
+			"localNumber": "3103220700",
+			"complexNumber": "8662187612",
+			"segmentNumber": "8667304782",
+			"largeGroupNumber": ""
+		}
+	],
+	"hawthorne__ca": [
+		{
+			"hotelMarsha": "LAXHT",
+			"propertyName": "TownePlace Suites Los Angeles LAX/Manhattan Beach",
+			"city__state": "hawthorne__ca",
+			"localNumber": "3107259696",
+			"complexNumber": "8662221998",
+			"segmentNumber": "8666775621",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXHW",
+			"propertyName": "SpringHill Suites Los Angeles LAX/Manhattan Beach",
+			"city__state": "hawthorne__ca",
+			"localNumber": "3103013000",
+			"complexNumber": "8662410111",
+			"segmentNumber": "8443601941",
+			"largeGroupNumber": ""
+		}
+	],
+	"marina_del_rey__ca": [
+		{
+			"hotelMarsha": "LAXMB",
+			"propertyName": "Marina del Rey Marriott",
+			"city__state": "marina_del_rey__ca",
+			"localNumber": "3103013000",
+			"complexNumber": "8662429127",
+			"segmentNumber": "8443774779",
+			"largeGroupNumber": "8666797385"
+		}
+	],
+	"torrance__ca": [
+		{
+			"hotelMarsha": "LAXTC",
+			"propertyName": "Residence Inn Los Angeles Torrance/Redondo Beach",
+			"city__state": "torrance__ca",
+			"localNumber": "3105434566",
+			"complexNumber": "8662447849",
+			"segmentNumber": "8443601942",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXTR",
+			"propertyName": "Torrance Marriott Redondo Beach",
+			"city__state": "torrance__ca",
+			"localNumber": "3103163636",
+			"complexNumber": "8662499565",
+			"segmentNumber": "8443774782",
+			"largeGroupNumber": "8666775629"
+		},
+		{
+			"hotelMarsha": "LAXCT",
+			"propertyName": "Courtyard Los Angeles Torrance/South Bay",
+			"city__state": "torrance__ca",
+			"localNumber": "3105321722",
+			"complexNumber": "8662187625",
+			"segmentNumber": "8663880858",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LAXTO",
+			"propertyName": "Courtyard Los Angeles Torrance/Palos Verdes",
+			"city__state": "torrance__ca",
+			"localNumber": "3105338000",
+			"complexNumber": "8662498819",
+			"segmentNumber": "8443601943",
+			"largeGroupNumber": ""
+		}
+	],
+	"buena_park__ca": [
+		{
+			"hotelMarsha": "SNABP",
+			"propertyName": "Courtyard Anaheim Buena Park",
+			"city__state": "buena_park__ca",
+			"localNumber": "7146706600",
+			"complexNumber": "8666548186",
+			"segmentNumber": "8443648131",
+			"largeGroupNumber": ""
+		}
+	],
+	"los_alamitos__ca": [
+		{
+			"hotelMarsha": "SNAOC",
+			"propertyName": "Residence Inn Cypress Los Alamitos",
+			"city__state": "los_alamitos__ca",
+			"localNumber": "7144845700",
+			"complexNumber": "8662626040",
+			"segmentNumber": "8443680528",
+			"largeGroupNumber": ""
+		}
+	],
+	"long_beach__ca": [
+		{
+			"hotelMarsha": "LGBCY",
+			"propertyName": "Courtyard Long Beach Downtown",
+			"city__state": "long_beach__ca",
+			"localNumber": "5624358511",
+			"complexNumber": "8662502316",
+			"segmentNumber": "8443601944",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LGBRI",
+			"propertyName": "Residence Inn Long Beach Downtown",
+			"city__state": "long_beach__ca",
+			"localNumber": "5624950700",
+			"complexNumber": "8666879599",
+			"segmentNumber": "8443601945",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "LGBRN",
+			"propertyName": "Renaissance Long Beach Hotel",
+			"city__state": "long_beach__ca",
+			"localNumber": "5624375900",
+			"complexNumber": "8662509110",
+			"segmentNumber": "8443803655",
+			"largeGroupNumber": "8667303941"
+		},
+		{
+			"hotelMarsha": "LAXBH",
+			"propertyName": "Residence Inn Long Beach",
+			"city__state": "long_beach__ca",
+			"localNumber": "5625950909",
+			"complexNumber": "8662184121",
+			"segmentNumber": "8667304725",
+			"largeGroupNumber": ""
+		}
+	],
+	"arcadia__ca": [
+		{
+			"hotelMarsha": "BWRAR",
+			"propertyName": "Residence Inn Pasadena Arcadia",
+			"city__state": "arcadia__ca",
+			"localNumber": "6264466500",
+			"complexNumber": "8662180413",
+			"segmentNumber": "8663849049",
+			"largeGroupNumber": ""
+		}
+	],
+	"pasadena__ca": [
+		{
+			"hotelMarsha": "LAXRO",
+			"propertyName": "Residence Inn Los Angeles Pasadena/Old Town",
+			"city__state": "pasadena__ca",
+			"localNumber": "6262049220",
+			"complexNumber": "8667303943",
+			"segmentNumber": "8667304783",
+			"largeGroupNumber": ""
+		}
+	],
+	"burbank__ca": [
+		{
+			"hotelMarsha": "BURRI",
+			"propertyName": "Residence Inn Los Angeles Burbank/Downtown",
+			"city__state": "burbank__ca",
+			"localNumber": "8182608787",
+			"complexNumber": "8662654032",
+			"segmentNumber": "8665461480",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BURSH",
+			"propertyName": "SpringHill Suites Los Angeles Burbank/Downtown",
+			"city__state": "burbank__ca",
+			"localNumber": "8185242730",
+			"complexNumber": "8663436773",
+			"segmentNumber": "8443740170",
+			"largeGroupNumber": ""
+		}
+	],
+	"hacienda_heights__ca": [
+		{
+			"hotelMarsha": "LAXHH",
+			"propertyName": "Courtyard Los Angeles Hacienda Heights/Orange County",
+			"city__state": "hacienda_heights__ca",
+			"localNumber": "6269651700",
+			"complexNumber": "8662992049",
+			"segmentNumber": "8666797358",
+			"largeGroupNumber": ""
+		}
+	],
+	"pomona__ca": [
+		{
+			"hotelMarsha": "ONTSI",
+			"propertyName": "Sheraton Fairplex Hotel & Conference Center",
+			"city__state": "pomona__ca",
+			"localNumber": "9096222220",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"la_jolla__ca": [
+		{
+			"hotelMarsha": "LAJCA",
+			"propertyName": "Residence Inn San Diego La Jolla",
+			"city__state": "la_jolla__ca",
+			"localNumber": "8585871770",
+			"complexNumber": "8665461427",
+			"segmentNumber": "8667304647",
+			"largeGroupNumber": ""
+		}
+	],
+	"oceanside__ca": [
+		{
+			"hotelMarsha": "SANON",
+			"propertyName": "Courtyard San Diego Oceanside",
+			"city__state": "oceanside__ca",
+			"localNumber": "7609661000",
+			"complexNumber": "8663192391",
+			"segmentNumber": "8443740171",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANOS",
+			"propertyName": "Residence Inn San Diego Oceanside",
+			"city__state": "oceanside__ca",
+			"localNumber": "7607229600",
+			"complexNumber": "8666879615",
+			"segmentNumber": "8443648129",
+			"largeGroupNumber": ""
+		}
+	],
+	"san_diego__ca": [
+		{
+			"hotelMarsha": "SANDH",
+			"propertyName": "SpringHill Suites San Diego Downtown/Bayfront",
+			"city__state": "san_diego__ca",
+			"localNumber": "6198310225",
+			"complexNumber": "8663438221",
+			"segmentNumber": "8443740178",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANDT",
+			"propertyName": "Marriott Marquis San Diego Marina",
+			"city__state": "san_diego__ca",
+			"localNumber": "6192341500",
+			"complexNumber": "8665461473",
+			"segmentNumber": "8443803663",
+			"largeGroupNumber": "8667304724"
+		},
+		{
+			"hotelMarsha": "SANRH",
+			"propertyName": "Residence Inn San Diego Downtown/Bayfront",
+			"city__state": "san_diego__ca",
+			"localNumber": "6198310225",
+			"complexNumber": "8663438697",
+			"segmentNumber": "8443774771",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANSI",
+			"propertyName": "Sheraton San Diego Hotel & Marina",
+			"city__state": "san_diego__ca",
+			"localNumber": "6192912900",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANWI",
+			"propertyName": "The Westin San Diego Gaslamp Quarter",
+			"city__state": "san_diego__ca",
+			"localNumber": "6192392200",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANAA",
+			"propertyName": "Residence Inn San Diego Sorrento Mesa/Sorrento Valley",
+			"city__state": "san_diego__ca",
+			"localNumber": "8585529100",
+			"complexNumber": "8665461430",
+			"segmentNumber": "8443740172",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANMM",
+			"propertyName": "Courtyard San Diego Sorrento Valley",
+			"city__state": "san_diego__ca",
+			"localNumber": "8585589600",
+			"complexNumber": "8663194542",
+			"segmentNumber": "8443648128",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANRB",
+			"propertyName": "Residence Inn San Diego Rancho Bernardo/Carmel Mountain Ranch",
+			"city__state": "san_diego__ca",
+			"localNumber": "8586731900",
+			"complexNumber": "8662172738",
+			"segmentNumber": "8443648130",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SANDL",
+			"propertyName": "Residence Inn San Diego Del Mar",
+			"city__state": "san_diego__ca",
+			"localNumber": "8584818800",
+			"complexNumber": "8664194761",
+			"segmentNumber": "8443740175",
+			"largeGroupNumber": ""
+		}
+	],
+	"coronado__ca": [
+		{
+			"hotelMarsha": "SANCI",
+			"propertyName": "Coronado Island Marriott Resort & Spa",
+			"city__state": "coronado__ca",
+			"localNumber": "6194353000",
+			"complexNumber": "8663900417",
+			"segmentNumber": "8443803664",
+			"largeGroupNumber": "8667304601"
+		}
+	],
+	"indian_wells__ca": [
+		{
+			"hotelMarsha": "PSPSR",
+			"propertyName": "Renaissance Indian Wells Resort & Spa",
+			"city__state": "indian_wells__ca",
+			"localNumber": "7607734444",
+			"complexNumber": "8668092254",
+			"segmentNumber": "",
+			"largeGroupNumber": "8663770819"
+		}
+	],
+	"palm_desert__ca": [
+		{
+			"hotelMarsha": "CTDCA",
+			"propertyName": "JW Marriott Desert Springs Resort & Spa",
+			"city__state": "palm_desert__ca",
+			"localNumber": "7603412211",
+			"complexNumber": "8668082452",
+			"segmentNumber": "",
+			"largeGroupNumber": "8663740018"
+		}
+	],
+	"palm_springs__ca": [
+		{
+			"hotelMarsha": "PSPCH",
+			"propertyName": "Courtyard Palm Springs",
+			"city__state": "palm_springs__ca",
+			"localNumber": "7603226100",
+			"complexNumber": "8667984869",
+			"segmentNumber": "8443648125",
+			"largeGroupNumber": ""
+		}
+	],
+	"rancho_mirage__ca": [
+		{
+			"hotelMarsha": "PSPWI",
+			"propertyName": "The Westin Mission Hills Golf Resort & Spa",
+			"city__state": "rancho_mirage__ca",
+			"localNumber": "7603285955",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		}
+	],
+	"foothill_ranch__ca": [
+		{
+			"hotelMarsha": "SNAFR",
+			"propertyName": "Courtyard Foothill Ranch Irvine East/Lake Forest",
+			"city__state": "foothill_ranch__ca",
+			"localNumber": "9499515700",
+			"complexNumber": "8666548188",
+			"segmentNumber": "8443648133",
+			"largeGroupNumber": ""
+		}
+	],
+	"irvine__ca": [
+		{
+			"hotelMarsha": "LAXIR",
+			"propertyName": "Irvine Marriott",
+			"city__state": "irvine__ca",
+			"localNumber": "9495530100",
+			"complexNumber": "8662993844",
+			"segmentNumber": "8443803659",
+			"largeGroupNumber": "8666797384"
+		},
+		{
+			"hotelMarsha": "LAXCH",
+			"propertyName": "Courtyard Irvine John Wayne Airport/Orange County",
+			"city__state": "irvine__ca",
+			"localNumber": "9497571200",
+			"complexNumber": "8662973910",
+			"segmentNumber": "8663710961",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SNAIV",
+			"propertyName": "Residence Inn Irvine John Wayne Airport/Orange County",
+			"city__state": "irvine__ca",
+			"localNumber": "9492612020",
+			"complexNumber": "8666548191",
+			"segmentNumber": "8443680526",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SNAIR",
+			"propertyName": "Residence Inn Irvine Spectrum",
+			"city__state": "irvine__ca",
+			"localNumber": "9493803000",
+			"complexNumber": "8666548190",
+			"segmentNumber": "8443680525",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SNAMC",
+			"propertyName": "Irvine Spectrum Marriott",
+			"city__state": "irvine__ca",
+			"localNumber": "9497590200",
+			"complexNumber": "8446446431",
+			"segmentNumber": "8446446433",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SNASI",
+			"propertyName": "Courtyard Irvine Spectrum",
+			"city__state": "irvine__ca",
+			"localNumber": "9494531033",
+			"complexNumber": "8663436565",
+			"segmentNumber": "8443680531",
+			"largeGroupNumber": ""
+		}
+	],
+	"costa_mesa__ca": [
+		{
+			"hotelMarsha": "CSMNB",
+			"propertyName": "Residence Inn Costa Mesa Newport Beach",
+			"city__state": "costa_mesa__ca",
+			"localNumber": "7142418800",
+			"complexNumber": "8667984870",
+			"segmentNumber": "8665163850",
+			"largeGroupNumber": ""
+		}
+	],
+	" Costa Mesa\"": [
+		{
+			"hotelMarsha": "SNAWI",
+			"propertyName": "\"The Westin South Coast Plaza",
+			"city__state": " Costa Mesa\"",
+			"localNumber": "costa_mesa__ca",
+			"complexNumber": "7145402500",
+			"segmentNumber": "",
+			"largeGroupNumber": "",
+			"undefined": ""
+		}
+	],
+	"laguna_hills__ca": [
+		{
+			"hotelMarsha": "SNALH",
+			"propertyName": "Courtyard Laguna Hills Irvine Spectrum/Orange County",
+			"city__state": "laguna_hills__ca",
+			"localNumber": "9498595500",
+			"complexNumber": "8666548193",
+			"segmentNumber": "8443680527",
+			"largeGroupNumber": ""
+		}
+	],
+	"newport_beach__ca": [
+		{
+			"hotelMarsha": "LAXNB",
+			"propertyName": "Newport Beach Marriott Hotel & Spa",
+			"city__state": "newport_beach__ca",
+			"localNumber": "9496404000",
+			"complexNumber": "8662994674",
+			"segmentNumber": "8443803658",
+			"largeGroupNumber": "8666775592"
+		},
+		{
+			"hotelMarsha": "NPBST",
+			"propertyName": "Newport Beach Marriott Bayview",
+			"city__state": "newport_beach__ca",
+			"localNumber": "9498544500",
+			"complexNumber": "8663030606",
+			"segmentNumber": "8443803661",
+			"largeGroupNumber": ""
+		}
+	],
+	"san_juan_capistrano__ca": [
+		{
+			"hotelMarsha": "SNASJ",
+			"propertyName": "Residence Inn Dana Point San Juan Capistrano",
+			"city__state": "san_juan_capistrano__ca",
+			"localNumber": "9494433600",
+			"complexNumber": "8663839160",
+			"segmentNumber": "8443740174",
+			"largeGroupNumber": ""
+		}
+	],
+	"santa_ana__ca": [
+		{
+			"hotelMarsha": "SNASA",
+			"propertyName": "Courtyard Costa Mesa South Coast Metro",
+			"city__state": "santa_ana__ca",
+			"localNumber": "7145451001",
+			"complexNumber": "8666548197",
+			"segmentNumber": "8443680530",
+			"largeGroupNumber": ""
+		}
+	],
+	"fountain_valley__ca": [
+		{
+			"hotelMarsha": "SNAFC",
+			"propertyName": "Courtyard Huntington Beach Fountain Valley",
+			"city__state": "fountain_valley__ca",
+			"localNumber": "7149685775",
+			"complexNumber": "8666548187",
+			"segmentNumber": "8443648132",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SNAFV",
+			"propertyName": "Residence Inn Huntington Beach Fountain Valley",
+			"city__state": "fountain_valley__ca",
+			"localNumber": "7149658000",
+			"complexNumber": "8666548189",
+			"segmentNumber": "8443680524",
+			"largeGroupNumber": ""
+		}
+	],
+	"tustin__ca": [
+		{
+			"hotelMarsha": "SNATF",
+			"propertyName": "Fairfield Inn & Suites Tustin Orange County",
+			"city__state": "tustin__ca",
+			"localNumber": "7142589900",
+			"complexNumber": "8663033421",
+			"segmentNumber": "8665461475",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SNATU",
+			"propertyName": "Residence Inn Tustin Orange County",
+			"city__state": "tustin__ca",
+			"localNumber": "7142589700",
+			"complexNumber": "8663192390",
+			"segmentNumber": "8665461467",
+			"largeGroupNumber": ""
+		}
+	],
+	"anaheim__ca": [
+		{
+			"hotelMarsha": "LAXAH",
+			"propertyName": "Anaheim Marriott",
+			"city__state": "anaheim__ca",
+			"localNumber": "7147508000",
+			"complexNumber": "8662971414",
+			"segmentNumber": "8443803657",
+			"largeGroupNumber": "8666797365"
+		},
+		{
+			"hotelMarsha": "LAXOC",
+			"propertyName": "Fairfield Inn Anaheim Resort",
+			"city__state": "anaheim__ca",
+			"localNumber": "7147726777",
+			"complexNumber": "8663023104",
+			"segmentNumber": "8443803660",
+			"largeGroupNumber": ""
+		}
+	],
+	"placentia__ca": [
+		{
+			"hotelMarsha": "SNAPL",
+			"propertyName": "Residence Inn Anaheim Placentia/Fullerton",
+			"city__state": "placentia__ca",
+			"localNumber": "7149960555",
+			"complexNumber": "8666548196",
+			"segmentNumber": "8443680529",
+			"largeGroupNumber": ""
+		}
+	],
+	"ventura__ca": [
+		{
+			"hotelMarsha": "OXRVB",
+			"propertyName": "Ventura Beach Marriott",
+			"city__state": "ventura__ca",
+			"localNumber": "8056436000",
+			"complexNumber": "8662613754",
+			"segmentNumber": "8443803656",
+			"largeGroupNumber": "8667303944"
+		}
+	],
+	"camarillo__ca": [
+		{
+			"hotelMarsha": "OXRCH",
+			"propertyName": "Courtyard Camarillo",
+			"city__state": "camarillo__ca",
+			"localNumber": "8053881020",
+			"complexNumber": "8662604751",
+			"segmentNumber": "8443648124",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "OXRCR",
+			"propertyName": "Residence Inn Camarillo",
+			"city__state": "camarillo__ca",
+			"localNumber": "8053887997",
+			"complexNumber": "8663832058",
+			"segmentNumber": "8443740169",
+			"largeGroupNumber": ""
+		}
+	],
+	"oxnard__ca": [
+		{
+			"hotelMarsha": "OXRRI",
+			"propertyName": "Residence Inn Oxnard River Ridge",
+			"city__state": "oxnard__ca",
+			"localNumber": "",
+			"complexNumber": "8663437892",
+			"segmentNumber": "8443648126",
+			"largeGroupNumber": ""
+		}
+	],
+	"goleta__ca": [
+		{
+			"hotelMarsha": "SBACY",
+			"propertyName": "Courtyard Santa Barbara Goleta",
+			"city__state": "goleta__ca",
+			"localNumber": "",
+			"complexNumber": "8663192393",
+			"segmentNumber": "8443740173",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SBAGO",
+			"propertyName": "Santa Barbara Residence Inn",
+			"city__state": "goleta__ca",
+			"localNumber": "8057705031",
+			"complexNumber": "8446446429",
+			"segmentNumber": "8446446430",
+			"largeGroupNumber": ""
+		}
+	],
+	"bakersfield__ca": [
+		{
+			"hotelMarsha": "BFLCH",
+			"propertyName": "Courtyard Bakersfield",
+			"city__state": "bakersfield__ca",
+			"localNumber": "6613246660",
+			"complexNumber": "8666879660",
+			"segmentNumber": "8443680532",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BFLSH",
+			"propertyName": "SpringHill Suites Bakersfield",
+			"city__state": "bakersfield__ca",
+			"localNumber": "6613774000",
+			"complexNumber": "8663194622",
+			"segmentNumber": "8443680533",
+			"largeGroupNumber": ""
+		}
+	],
+	"fresno__ca": [
+		{
+			"hotelMarsha": "FATCH",
+			"propertyName": "Courtyard Fresno",
+			"city__state": "fresno__ca",
+			"localNumber": "15592216000",
+			"complexNumber": "8669284237",
+			"segmentNumber": "8443129137",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "FATRI",
+			"propertyName": "Residence Inn Fresno",
+			"city__state": "fresno__ca",
+			"localNumber": "15592228900",
+			"complexNumber": "8669284238",
+			"segmentNumber": "8443129138",
+			"largeGroupNumber": ""
+		}
+	],
+	"monterey__ca": [
+		{
+			"hotelMarsha": "MRYCA",
+			"propertyName": "Monterey Marriott",
+			"city__state": "monterey__ca",
+			"localNumber": "18316494234",
+			"complexNumber": "8665381980",
+			"segmentNumber": "8663991853",
+			"largeGroupNumber": "8667757730"
+		}
+	],
+	"burlingame__ca": [
+		{
+			"hotelMarsha": "SFOBG",
+			"propertyName": "San Francisco Airport Marriott Waterfront",
+			"city__state": "burlingame__ca",
+			"localNumber": "16506929100",
+			"complexNumber": "8665775290",
+			"segmentNumber": "8669284235",
+			"largeGroupNumber": "8667701630"
+		}
+	],
+	"san_bruno__ca": [
+		{
+			"hotelMarsha": "SFOSB",
+			"propertyName": "Courtyard San Francisco Airport",
+			"city__state": "san_bruno__ca",
+			"localNumber": "16509523333",
+			"complexNumber": "8663991858",
+			"segmentNumber": "8443142070",
+			"largeGroupNumber": ""
+		}
+	],
+	"san_carlos__ca": [
+		{
+			"hotelMarsha": "SFOLO",
+			"propertyName": "Residence Inn Redwood City San Carlos",
+			"city__state": "san_carlos__ca",
+			"localNumber": "",
+			"complexNumber": "8443129136",
+			"segmentNumber": "8443173831",
+			"largeGroupNumber": ""
+		}
+	],
+	"south_san_francisco__ca": [
+		{
+			"hotelMarsha": "SFOOP",
+			"propertyName": "Courtyard San Francisco Airport/Oyster Point Waterfront",
+			"city__state": "south_san_francisco__ca",
+			"localNumber": "16508714100",
+			"complexNumber": "8663991819",
+			"segmentNumber": "8443142067",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SFORI",
+			"propertyName": "Residence Inn San Francisco Airport/Oyster Point Waterfront",
+			"city__state": "south_san_francisco__ca",
+			"localNumber": "16508379000",
+			"complexNumber": "8663991820",
+			"segmentNumber": "8443142068",
+			"largeGroupNumber": ""
+		}
+	],
+	"san_francisco__ca": [
+		{
+			"hotelMarsha": "SFOJW",
+			"propertyName": "JW Marriott San Francisco Union Square",
+			"city__state": "san_francisco__ca",
+			"localNumber": "14157718600",
+			"complexNumber": "8669284230",
+			"segmentNumber": "8663993491",
+			"largeGroupNumber": "8667720775"
+		},
+		{
+			"hotelMarsha": "SFOUW",
+			"propertyName": "The Westin St. Francis San Francisco on Union Square",
+			"city__state": "san_francisco__ca",
+			"localNumber": "4153977000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SFODT",
+			"propertyName": "San Francisco Marriott Marquis",
+			"city__state": "san_francisco__ca",
+			"localNumber": "14158961600",
+			"complexNumber": "8665775295",
+			"segmentNumber": "8665774324",
+			"largeGroupNumber": "8667708838"
+		},
+		{
+			"hotelMarsha": "SFOWH",
+			"propertyName": "W San Francisco",
+			"city__state": "san_francisco__ca",
+			"localNumber": "4157775300",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SFOCD",
+			"propertyName": "Courtyard San Francisco Downtown",
+			"city__state": "san_francisco__ca",
+			"localNumber": "14159470700",
+			"complexNumber": "8665775293",
+			"segmentNumber": "8665381981",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SFOUS",
+			"propertyName": "San Francisco Marriott Union Square",
+			"city__state": "san_francisco__ca",
+			"localNumber": "14153988900",
+			"complexNumber": "8669284236",
+			"segmentNumber": "8663993883",
+			"largeGroupNumber": "8667750543"
+		},
+		{
+			"hotelMarsha": "SFOCF",
+			"propertyName": "Courtyard San Francisco Fisherman's Wharf",
+			"city__state": "san_francisco__ca",
+			"localNumber": "14157753800",
+			"complexNumber": "8665775294",
+			"segmentNumber": "8443142063",
+			"largeGroupNumber": ""
+		}
+	],
+	"foster_city__ca": [
+		{
+			"hotelMarsha": "SFOFC",
+			"propertyName": "Courtyard San Mateo Foster City",
+			"city__state": "foster_city__ca",
+			"localNumber": "16503770600",
+			"complexNumber": "8663991816",
+			"segmentNumber": "8443142064",
+			"largeGroupNumber": ""
+		}
+	],
+	"pleasant_hill__ca": [
+		{
+			"hotelMarsha": "OAKCP",
+			"propertyName": "Courtyard Pleasant Hill",
+			"city__state": "pleasant_hill__ca",
+			"localNumber": "19256911444",
+			"complexNumber": "8665381982",
+			"segmentNumber": "8443129139",
+			"largeGroupNumber": ""
+		}
+	],
+	"fremont__ca": [
+		{
+			"hotelMarsha": "SJCFE",
+			"propertyName": "Courtyard Fremont Silicon Valley",
+			"city__state": "fremont__ca",
+			"localNumber": "15106561800",
+			"complexNumber": "8663991886",
+			"segmentNumber": "8443173826",
+			"largeGroupNumber": ""
+		}
+	],
+	"larkspur__ca": [
+		{
+			"hotelMarsha": "SFOLL",
+			"propertyName": "Courtyard San Francisco Larkspur Landing/Marin County",
+			"city__state": "larkspur__ca",
+			"localNumber": "14159251800",
+			"complexNumber": "8669284231",
+			"segmentNumber": "8443142065",
+			"largeGroupNumber": ""
+		}
+	],
+	"novato__ca": [
+		{
+			"hotelMarsha": "SFONV",
+			"propertyName": "Courtyard Novato Marin/Sonoma",
+			"city__state": "novato__ca",
+			"localNumber": "14158838950",
+			"complexNumber": "8669284234",
+			"segmentNumber": "8443142066",
+			"largeGroupNumber": ""
+		}
+	],
+	"cupertino__ca": [
+		{
+			"hotelMarsha": "SJCCU",
+			"propertyName": "Courtyard San Jose Cupertino",
+			"city__state": "cupertino__ca",
+			"localNumber": "14082529100",
+			"complexNumber": "8663991884",
+			"segmentNumber": "8443173825",
+			"largeGroupNumber": ""
+		}
+	],
+	"milpitas__ca": [
+		{
+			"hotelMarsha": "SJCMP",
+			"propertyName": "Courtyard Milpitas Silicon Valley",
+			"city__state": "milpitas__ca",
+			"localNumber": "14087191966",
+			"complexNumber": "8663993842",
+			"segmentNumber": "8443173827",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SJCTM",
+			"propertyName": "TownePlace Suites Milpitas Silicon Valley",
+			"city__state": "milpitas__ca",
+			"localNumber": "14087191959",
+			"complexNumber": "8663993882",
+			"segmentNumber": "8443173828",
+			"largeGroupNumber": ""
+		}
+	],
+	"santa_clara__ca": [
+		{
+			"hotelMarsha": "SJCGA",
+			"propertyName": "Santa Clara Marriott",
+			"city__state": "santa_clara__ca",
+			"localNumber": "14089881500",
+			"complexNumber": "8663993840",
+			"segmentNumber": "8665910007",
+			"largeGroupNumber": "8666208613"
+		}
+	],
+	"san_jose__ca": [
+		{
+			"hotelMarsha": "SJCCA",
+			"propertyName": "Courtyard San Jose Airport",
+			"city__state": "san_jose__ca",
+			"localNumber": "14084416111",
+			"complexNumber": "8662433508",
+			"segmentNumber": "8443142071",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SJCSJ",
+			"propertyName": "San Jose Marriott",
+			"city__state": "san_jose__ca",
+			"localNumber": "14082801300",
+			"complexNumber": "8663993880",
+			"segmentNumber": "8669400773",
+			"largeGroupNumber": "8666209441"
+		}
+	],
+	"sonoma__ca": [
+		{
+			"hotelMarsha": "SFOLS",
+			"propertyName": "The Lodge at Sonoma Renaissance Resort & Spa",
+			"city__state": "sonoma__ca",
+			"localNumber": "17079356600",
+			"complexNumber": "8666100211",
+			"segmentNumber": "8663993874",
+			"largeGroupNumber": ""
+		}
+	],
+	"rancho_cordova__ca": [
+		{
+			"hotelMarsha": "SACRC",
+			"propertyName": "Courtyard Sacramento Rancho Cordova",
+			"city__state": "rancho_cordova__ca",
+			"localNumber": "19166383800",
+			"complexNumber": "8665775285",
+			"segmentNumber": "8443142062",
+			"largeGroupNumber": ""
+		}
+	],
+	"sacramento__ca": [
+		{
+			"hotelMarsha": "SACSI",
+			"propertyName": "Sheraton Grand Sacramento Hotel",
+			"city__state": "sacramento__ca",
+			"localNumber": "9164471700",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SACCH",
+			"propertyName": "Courtyard Sacramento Airport Natomas",
+			"city__state": "sacramento__ca",
+			"localNumber": "19169221120",
+			"complexNumber": "8665774323",
+			"segmentNumber": "8443142061",
+			"largeGroupNumber": ""
+		}
+	],
+	"beaverton__or": [
+		{
+			"hotelMarsha": "PDXCY",
+			"propertyName": "Courtyard Portland Beaverton",
+			"city__state": "beaverton__or",
+			"localNumber": "15036413200",
+			"complexNumber": "8665762372",
+			"segmentNumber": "8665381984",
+			"largeGroupNumber": ""
+		}
+	],
+	"portland__or": [
+		{
+			"hotelMarsha": "PDXOR",
+			"propertyName": "Portland Marriott Downtown Waterfront",
+			"city__state": "portland__or",
+			"localNumber": "15032267600",
+			"complexNumber": "8665971342",
+			"segmentNumber": "8669401985",
+			"largeGroupNumber": "8667787301"
+		},
+		{
+			"hotelMarsha": "PDXPD",
+			"propertyName": "Residence Inn Portland Downtown/Pearl District",
+			"city__state": "portland__or",
+			"localNumber": "",
+			"complexNumber": "8666156278",
+			"segmentNumber": "8443173829",
+			"largeGroupNumber": ""
+		}
+	],
+	"federal_way__wa": [
+		{
+			"hotelMarsha": "SEAFW",
+			"propertyName": "Courtyard Seattle Federal Way",
+			"city__state": "federal_way__wa",
+			"localNumber": "12535290200",
+			"complexNumber": "8665832834",
+			"segmentNumber": "8665931984",
+			"largeGroupNumber": ""
+		}
+	],
+	"bellevue__wa": [
+		{
+			"hotelMarsha": "BVUBW",
+			"propertyName": "The Westin Bellevue",
+			"city__state": "bellevue__wa",
+			"localNumber": "4256381000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "BVUWH",
+			"propertyName": "W Bellevue",
+			"city__state": "bellevue__wa",
+			"localNumber": "4257099000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEAMB",
+			"propertyName": "Seattle Marriott Bellevue",
+			"city__state": "bellevue__wa",
+			"localNumber": "14252147600",
+			"complexNumber": "8338571814",
+			"segmentNumber": "8338571815",
+			"largeGroupNumber": "8338571801"
+		},
+		{
+			"hotelMarsha": "BVUCH",
+			"propertyName": "Courtyard Seattle Bellevue/Redmond",
+			"city__state": "bellevue__wa",
+			"localNumber": "14258695300",
+			"complexNumber": "8665758501",
+			"segmentNumber": "8669404447",
+			"largeGroupNumber": ""
+		}
+	],
+	"redmond__wa": [
+		{
+			"hotelMarsha": "SEAMC",
+			"propertyName": "Seattle Marriott Redmond",
+			"city__state": "redmond__wa",
+			"localNumber": "14254984000",
+			"complexNumber": "8665977071",
+			"segmentNumber": "8669401987",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEARD",
+			"propertyName": "Residence Inn Seattle East/Redmond",
+			"city__state": "redmond__wa",
+			"localNumber": "14254979226",
+			"complexNumber": "8665846878",
+			"segmentNumber": "8665961984",
+			"largeGroupNumber": ""
+		}
+	],
+	"renton__wa": [
+		{
+			"hotelMarsha": "SEASR",
+			"propertyName": "SpringHill Suites Seattle South/Renton",
+			"city__state": "renton__wa",
+			"localNumber": "14252264100",
+			"complexNumber": "8665865098",
+			"segmentNumber": "8666124015",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEATR",
+			"propertyName": "TownePlace Suites Seattle South/Renton",
+			"city__state": "renton__wa",
+			"localNumber": "14259172000",
+			"complexNumber": "8665902553",
+			"segmentNumber": "8663991821",
+			"largeGroupNumber": ""
+		}
+	],
+	"seattle__wa": [
+		{
+			"hotelMarsha": "SEASI",
+			"propertyName": "Sheraton Seattle Hotel",
+			"city__state": "seattle__wa",
+			"localNumber": "2066219000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEAWH",
+			"propertyName": "W Seattle",
+			"city__state": "seattle__wa",
+			"localNumber": "2062646000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEAWI",
+			"propertyName": "The Westin Seattle",
+			"city__state": "seattle__wa",
+			"localNumber": "2067281000",
+			"complexNumber": "",
+			"segmentNumber": "",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEAPS",
+			"propertyName": "Courtyard Seattle Downtown/Pioneer Square",
+			"city__state": "seattle__wa",
+			"localNumber": "12066251111",
+			"complexNumber": "8666100241",
+			"segmentNumber": "8665952468",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEACD",
+			"propertyName": "Courtyard Seattle Downtown/Lake Union",
+			"city__state": "seattle__wa",
+			"localNumber": "12062130100",
+			"complexNumber": "8665828553",
+			"segmentNumber": "8663991707",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "SEAWF",
+			"propertyName": "Seattle Marriott Waterfront",
+			"city__state": "seattle__wa",
+			"localNumber": "12064435000",
+			"complexNumber": "8665987258",
+			"segmentNumber": "8669404445",
+			"largeGroupNumber": "8667806077"
+		}
+	],
+	"tukwila__wa": [
+		{
+			"hotelMarsha": "SEASC",
+			"propertyName": "Courtyard Seattle Southcenter",
+			"city__state": "tukwila__wa",
+			"localNumber": "12065752500",
+			"complexNumber": "8665860046",
+			"segmentNumber": "8665758502",
+			"largeGroupNumber": ""
+		}
+	],
+	"spokane__wa": [
+		{
+			"hotelMarsha": "GEGCH",
+			"propertyName": "Courtyard Spokane Downtown at the Convention Center",
+			"city__state": "spokane__wa",
+			"localNumber": "15094567600",
+			"complexNumber": "8665758503",
+			"segmentNumber": "8665774320",
+			"largeGroupNumber": ""
+		}
+	],
+	"concord__ca": [
+		{
+			"hotelMarsha": "OAKPH",
+			"propertyName": "Residence Inn Pleasant Hill Concord",
+			"city__state": "concord__ca",
+			"localNumber": "19256891010",
+			"complexNumber": "8665381985",
+			"segmentNumber": "8443129173",
+			"largeGroupNumber": ""
+		}
+	],
+	"emeryville__ca": [
+		{
+			"hotelMarsha": "OAKMV",
+			"propertyName": "Courtyard Oakland Emeryville",
+			"city__state": "emeryville__ca",
+			"localNumber": "15106528777",
+			"complexNumber": "8665381983",
+			"segmentNumber": "8443129140",
+			"largeGroupNumber": ""
+		}
+	],
+	"oakland__ca": [
+		{
+			"hotelMarsha": "OAKDT",
+			"propertyName": "Oakland Marriott City Center",
+			"city__state": "oakland__ca",
+			"localNumber": "15104514000",
+			"complexNumber": "8666132898",
+			"segmentNumber": "8665987317",
+			"largeGroupNumber": "8666214276"
+		}
+	],
+	"pleasanton__ca": [
+		{
+			"hotelMarsha": "OAKPL",
+			"propertyName": "Courtyard Pleasanton",
+			"city__state": "pleasanton__ca",
+			"localNumber": "19254631414",
+			"complexNumber": "8665381986",
+			"segmentNumber": "8443129174",
+			"largeGroupNumber": ""
+		}
+	],
+	"san_ramon__ca": [
+		{
+			"hotelMarsha": "OAKRM",
+			"propertyName": "Courtyard San Ramon",
+			"city__state": "san_ramon__ca",
+			"localNumber": "19258662900",
+			"complexNumber": "8665381988",
+			"segmentNumber": "8443129175",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "OAKRS",
+			"propertyName": "Residence Inn San Ramon",
+			"city__state": "san_ramon__ca",
+			"localNumber": "19252779292",
+			"complexNumber": "8663991053",
+			"segmentNumber": "8443129177",
+			"largeGroupNumber": ""
+		},
+		{
+			"hotelMarsha": "OAKSR",
+			"propertyName": "San Ramon Marriott",
+			"city__state": "san_ramon__ca",
+			"localNumber": "19258679200",
+			"complexNumber": "8663991664",
+			"segmentNumber": "8663991889",
+			"largeGroupNumber": "8667780543"
+		}
+	]
+}
