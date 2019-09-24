@@ -13,7 +13,7 @@ let person = {
   },
   greet2: () => {
     console.log(this.name); // "this" refers here to the global scope/global node runtime scope and not this person object scope.
-    console.log(this);
+    console.log(this); // For arrow function "this" refers to the lexically defined enclosing function scope.
   }
 };
 
