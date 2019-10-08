@@ -1,0 +1,10 @@
+proxy is a object that controls access to another expensive object.
+
+Ex. CEO and their secretary // secretary is the proxy here for CEO
+
+Intent: Provide a surrogate or placeholder for another object to control access.
+
+
+Proxys can be use to manage resource, provide int data validation, security, cache data, log actions.
+In our example we are filtering the input.
+
